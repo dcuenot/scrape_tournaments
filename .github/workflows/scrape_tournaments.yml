@@ -41,17 +41,17 @@ jobs:
         git add csv/*.csv
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update tournament data [skip ci]" && git push)
     
-    - name: Prepare email content
+    - name: Prepare message content
       if: steps.scrape.outputs.new_tournaments == 'true'
-      id: email
+      id: message
       run: |
-        echo "De nouveaux tournois sont disponibles !" > email.txt
-        echo "" >> email.txt
-        echo "Voici les détails des nouveaux tournois :" >> email.txt
-        echo "" >> email.txt
-        cat csv/new_tournaments.csv >> email.txt
+        echo "De nouveaux tournois sont disponibles !" > message.txt
+        echo "" >> message.txt
+        echo "Voici les détails des nouveaux tournois :" >> message.txt
+        echo "" >> message.txt
+        cat csv/new_tournaments.csv >> message.txt
         echo "content<<EOF" >> $GITHUB_ENV
-        cat email.txt >> $GITHUB_ENV
+        cat message.txt >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV
     
     - name: Send email
@@ -65,4 +65,19 @@ jobs:
         subject: "Nouveaux tournois disponibles"
         body: ${{ env.content }}
         to: damsvdf@yahoo.fr
-        from: ${{ secrets.EMAIL_USERNAME }} 
+        from: ${{ secrets.EMAIL_USERNAME }}
+    
+    - name: Send WhatsApp message
+      if: steps.scrape.outputs.new_tournaments == 'true'
+      run: |
+        curl -X POST "https://graph.facebook.com/v17.0/${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}/messages" \
+          -H "Authorization: Bearer ${{ secrets.WHATSAPP_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "messaging_product": "whatsapp",
+            "to": "${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}",
+            "type": "text",
+            "text": {
+              "body": ${{ env.content }}
+            }
+          }' 
