@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 import os
 from pprint import pprint
+import sys
 
 def scrape_tournaments():
     url = "https://apiv2.fftt.com/api/tournament_requests"
@@ -50,7 +51,7 @@ def scrape_tournaments():
         
         # Check for existing tournaments
         new_tournaments = []
-        if os.path.exists('tournois.csv'):
+        if os.path.exists('csv/tournois.csv'):
             existing_df = pd.read_csv('csv/tournois.csv')
             existing_ids = set(existing_df['id'])
             new_tournaments = df[~df['id'].isin(existing_ids)]
@@ -64,12 +65,12 @@ def scrape_tournaments():
         df.to_csv('csv/tournois.csv', index=False)
         print(f"Successfully saved {len(tournaments)} tournaments to tournois.csv")
         
-        # Return True if new tournaments were found
-        return len(new_tournaments) > 0
+        # Return 1 if new tournaments were found, 0 otherwise
+        return 1 if len(new_tournaments) > 0 else 0
         
     except Exception as e:
         print(f"Error occurred: {str(e)}")
-        raise
+        sys.exit(1)  # Exit with error code 1
 
 if __name__ == "__main__":
-    scrape_tournaments() 
+    sys.exit(scrape_tournaments())  # Exit with the return code from scrape_tournaments 
