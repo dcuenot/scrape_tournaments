@@ -35,7 +35,6 @@ jobs:
         exit $exit_code
     
     - name: Commit and push if changed
-      if: steps.scrape.outputs.new_tournaments == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
