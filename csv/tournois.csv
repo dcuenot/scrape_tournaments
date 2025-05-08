@@ -1,16 +1,41 @@
 id,name,startDate,endDate,type,postalCode,location,rules
 2964,TOURNOI NATIONAL B LA BERRICHONNE CHATEAUROUX TENNIS DE TABLE,2025-05-08T00:00:00,2025-05-08T00:00:00,B,36000,CHATEAUROUX,https://apiv2.fftt.com/api/files/400288/TOURNOI NATIONAL B DE LA BERRICHONNE TENNIS DE TABLE.pdf
-3153,TOURNOI DE L'ATOUT STEPHANOIS,2025-05-08T00:00:00,2025-05-08T00:00:00,R,82410,SAINT-ETIENNE DE TULMONT,https://apiv2.fftt.com/api/files/421492/tournoi Règlement  2025.pdf
 3105,TOURNOI NATIONAL B GERARD OLIVE,2025-05-08T00:00:00,2025-05-08T00:00:00,B,50400,GRANVILLE,https://apiv2.fftt.com/api/files/400281/tournoi2025reglement (2) (1).pdf
+3153,TOURNOI DE L'ATOUT STEPHANOIS,2025-05-08T00:00:00,2025-05-08T00:00:00,R,82410,SAINT-ETIENNE DE TULMONT,https://apiv2.fftt.com/api/files/421492/tournoi Règlement  2025.pdf
 3118,5ème TOURNOI - NATIONAL B du CTT LAMBERSART,2025-05-10T00:00:00,2025-05-11T00:00:00,B,59130,Lambersart,https://apiv2.fftt.com/api/files/446578/20250428-CTTL-Tournoi2025-ReglementDotations-V6-AvenantArticle5-.pdf
 3206,TOURNOI DE L'ASPTT CHALONS 2025,2025-05-11T00:00:00,2025-05-11T00:00:00,R,51000,CHALONS EN CHAMPAGNE,https://apiv2.fftt.com/api/files/444430/Reglement Tournoi Grieder ASPTT Chalons 2025.pdf
 3192,TOURNOI NATIONAL B BCL OISE TT - TROPHEE PATRICE VANICAT,2025-05-11T00:00:00,2025-05-11T00:00:00,B,60280,VENETTE,https://apiv2.fftt.com/api/files/443057/tournoi-2025 - reglement.pdf
 3151,Tournoi Régional Elancourt 2025,2025-05-18T00:00:00,2025-05-18T00:00:00,R,78990,Elancourt,https://apiv2.fftt.com/api/files/413532/Règlement- tournoi-CTTE- mai2025_v1-2.pdf
 3099,Tournoi AP RORTHAIS,2025-05-23T00:00:00,2025-05-23T00:00:00,D,79700,RORTHAIS,
-3147,Tournoi national du Saint-Chamond Tennis de Table ,2025-05-24T00:00:00,2025-05-24T00:00:00,B,42400,Saint-Chamond ,https://apiv2.fftt.com/api/files/413792/Réglement du tournoi SCTT samedi 24 mai 2025.pdf
-3106,Tournoi Régional tennis de table EYSINES 24 mai 2025,2025-05-24T00:00:00,2025-05-24T00:00:00,R,33320,EYSINES,https://apiv2.fftt.com/api/files/400147/Reglement Tournoi AL Eysines 2025 V3.pdf
+3095,TOURNOI NATIONAL B PANALOISIRS TT - 9ème edition,2025-05-24T00:00:00,2025-05-24T00:00:00,B,87350,PANAZOL,https://apiv2.fftt.com/api/files/399602/règlement tournoi 2025 v4.pdf
 3078,Tournoi de Tennis de Table,2025-05-24T00:00:00,2025-05-24T00:00:00,R,18390,ST GERMAIN DU PUY,https://apiv2.fftt.com/api/files/390706/Règlement tournoi 2025.pdf
 3189,TOURNOI NATIONAL B ASTT DIVION,2025-05-24T00:00:00,2025-05-25T00:00:00,B,62460,Divion,https://apiv2.fftt.com/api/files/433388/reglement 2025-V1.pdf
-3095,TOURNOI NATIONAL B PANALOISIRS TT - 9ème edition,2025-05-24T00:00:00,2025-05-24T00:00:00,B,87350,PANAZOL,https://apiv2.fftt.com/api/files/399602/règlement tournoi 2025 v4.pdf
-3084,TOURNOI REGIONAL DE VILLEFRANCHE DE ROUERGUE,2025-05-25T00:00:00,2025-05-25T00:00:00,R,12200,VILLEFRANCHE DE ROUERGUE,https://apiv2.fftt.com/api/files/408360/TOURNOI-REGIONAL-REGLEMENT.pdf
+3147,Tournoi national du Saint-Chamond Tennis de Table ,2025-05-24T00:00:00,2025-05-24T00:00:00,B,42400,Saint-Chamond ,https://apiv2.fftt.com/api/files/413792/Réglement du tournoi SCTT samedi 24 mai 2025.pdf
+3106,Tournoi Régional tennis de table EYSINES 24 mai 2025,2025-05-24T00:00:00,2025-05-24T00:00:00,R,33320,EYSINES,https://apiv2.fftt.com/api/files/400147/Reglement Tournoi AL Eysines 2025 V3.pdf
 3199,39 eme tournoi des commerçants de Courthézon,2025-05-25T00:00:00,2025-05-25T00:00:00,R,84350,COURTHEZON,https://apiv2.fftt.com/api/files/443231/Reglement Tournoi de CourthÃ©zon 2025 definitif.pdf
+3084,TOURNOI REGIONAL DE VILLEFRANCHE DE ROUERGUE,2025-05-25T00:00:00,2025-05-25T00:00:00,R,12200,VILLEFRANCHE DE ROUERGUE,https://apiv2.fftt.com/api/files/408360/TOURNOI-REGIONAL-REGLEMENT.pdf
+3200,Tournoi Régional de Wittes : Jeudi 29 Mai 2025,2025-05-29T00:00:00,2025-05-29T00:00:00,R,62120,Wittes,https://apiv2.fftt.com/api/files/443125/Règlement sportif - Tournoi Wittes 2025.pdf
+3152,52 ème Tournoi de l'Ascension,2025-05-29T00:00:00,2025-05-29T00:00:00,R,29490,Guipavas,https://apiv2.fftt.com/api/files/433300/Règlement Simples 2025.pdf
+3157,Tournoi national B AP Ouistreham ,2025-05-29T00:00:00,2025-05-29T00:00:00,B,14550,Blainville sur orne ,https://apiv2.fftt.com/api/files/422031/Règlement VF 2025.pdf
+3134,Grand Prix de la Ville de Reims 2025,2025-05-29T00:00:00,2025-05-29T00:00:00,B,51100,REIMS,https://apiv2.fftt.com/api/files/411490/Grand Prix de la ville de Reims 2025.pdf
+3190,Tournoi CSM Eaubonne 2025,2025-05-29T00:00:00,2025-05-31T00:00:00,B,95600,EAUBONNE,https://apiv2.fftt.com/api/files/433557/2025_Règlement Tournoi_CSM-Eaubonne_v2.pdf
+2948,Tournoi Départemental de SAINTINES,2025-05-29T00:00:00,2025-05-29T00:00:00,D,60410,SAINTINES,https://apiv2.fftt.com/api/files/325361/Règlement tournoi 2025.pdf
+3110,TOURNOI DES GRANDS VINS DE L'ENTRE DEUX MERS,2025-05-29T00:00:00,2025-05-29T00:00:00,R,33420,BRANNE,https://apiv2.fftt.com/api/files/423804/reglement tournoi branne2025.pdf
+3104,TNP 2025 - Tournoi National de POITIERS,2025-05-29T00:00:00,2025-05-31T00:00:00,A,86000,POITIERS,https://apiv2.fftt.com/api/files/412259/Règlement TNP 2025.pdf
+3178,Tournoi national de La Tronche Meylan Grenoble 2025,2025-05-30T00:00:00,2025-06-01T00:00:00,B,38240,Meylan,https://apiv2.fftt.com/api/files/424533/Règlement tournoi TTTMG 2025.pdf
+3128,Tournoi National Jimmy Cusseau Nantes Saint Médard de Doulon 2025,2025-05-31T00:00:00,2025-06-01T00:00:00,B,44200,Nantes,https://apiv2.fftt.com/api/files/419865/Réglement du tournoi National 2025.pdf
+3081,TOURNOI NATIONAL DE SAINT MALO,2025-05-31T00:00:00,2025-06-01T00:00:00,B,35400,SAINT MALO,https://apiv2.fftt.com/api/files/390921/Réglement tournoi 2025.pdf
+3164,"Tournoi National B ""La Franco Suisse""",2025-05-31T00:00:00,2025-06-01T00:00:00,B,74100,Ambilly,https://apiv2.fftt.com/api/files/422197/TOURNOI NATIONAL EPA 2025 (2).pdf
+2991,Open jeunes d'Yvetot,2025-05-31T00:00:00,2025-06-01T00:00:00,B,76190,Yvetot,https://apiv2.fftt.com/api/files/370727/Réglement Open jeunes Yvetot 2025.pdf
+3158,Tournoi National du Béziers T.T,2025-05-31T00:00:00,2025-06-01T00:00:00,B,34500,Béziers,https://apiv2.fftt.com/api/files/413761/Règlement du tournoi 2025.pdf
+3091,Tournoi National B - Aubenas-Vals,2025-05-31T00:00:00,2025-06-01T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/399486/Réglement_Tournoi.pdf
+3111,CHAMPHOL ASTT - 1er TOURNOI NATIONAL B -,2025-05-31T00:00:00,2025-06-01T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/400294/Règlement tournoi de CASTT.docx.pdf
+3112,3ème Tournoi National B BTT Misterping,2025-05-31T00:00:00,2025-06-01T00:00:00,B,59780,Baisieux,https://apiv2.fftt.com/api/files/424964/20250219_REGLEMENT_version2_dans_SPID (1).pdf
+3136,12ème Tournoi national des Images d'Epinal,2025-05-31T00:00:00,2025-06-01T00:00:00,B,88000,EPINAL,https://apiv2.fftt.com/api/files/412270/Réglement tournoi national 2025.pdf
+3022,2ème Tournoi National B de LA GARDE Tennis de Table,2025-05-31T00:00:00,2025-05-31T00:00:00,B,83130,LA GARDE,https://apiv2.fftt.com/api/files/362118/Réglement Tournoi National 2024-2025 (MAJ2).pdf
+3155,TOURNOI REGIONAL FOLCLO LORIENT OUEST,2025-06-01T00:00:00,2025-06-01T00:00:00,R,56100,LORIENT,https://apiv2.fftt.com/api/files/421293/Reglement Tournoi 2025.pdf
+3180,9ème Vexin Ping Oise,2025-06-01T00:00:00,2025-06-01T00:00:00,B,60240,Chaumont-En-Vexin,https://apiv2.fftt.com/api/files/450158/VEXIN PING OISE - REGLEMENT TOURNOI HOMOLOGUE V12.pdf
+3062,TOURNOI REGIONAL ES ORMES TT,2025-06-01T00:00:00,2025-06-01T00:00:00,R,45140,ORMES,https://apiv2.fftt.com/api/files/423246/Règlement du tournoi 2025.pdf
+3057,tournoi départemental de tennis de table,2025-06-06T00:00:00,2025-06-07T00:00:00,D,79250,NUEIL LES AUBIERS,https://apiv2.fftt.com/api/files/389418/tournoi2025.pdf
+3162,1er tournoi départemental SAINT-MEDARD TT,2025-06-07T00:00:00,2025-06-07T00:00:00,D,35250,SAINT MEDARD sur ILLE,https://apiv2.fftt.com/api/files/418369/SMTT règlement tournoi 2025.pdf
+3115,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2025-06-07T00:00:00,2025-06-07T00:00:00,R,38290,La Verpillière,https://apiv2.fftt.com/api/files/408555/REGLEMENT TOURNOI 2025.pdf
