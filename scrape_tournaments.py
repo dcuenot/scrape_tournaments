@@ -64,6 +64,8 @@ def scrape_tournaments():
         # Save all tournaments
         df.to_csv('csv/tournois.csv', index=False)
         print(f"Successfully saved {len(tournaments)} tournaments to tournois.csv")
+
+        plop
         
         # Return 2 if new tournaments were found, 0 otherwise
         exit_code = 2 if len(new_tournaments) > 0 else 0
