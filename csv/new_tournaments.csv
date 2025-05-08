@@ -1,44 +1,11 @@
 id,name,startDate,endDate,type,postalCode,location,rules
-3160,Tournoi du Ping Pong Club de Pérols 2025,2025-06-07T00:00:00,2025-06-08T00:00:00,B,34470,PEROLS,https://apiv2.fftt.com/api/files/415582/Reglement et récompenses - Tournoi Pérols 2025.pdf
-3165,Tournoi national de Saint-Léonard Angers,2025-06-07T00:00:00,2025-06-08T00:00:00,B,49000,ANGERS,https://apiv2.fftt.com/api/files/421366/25 règlement.pdf
-3187,Tournoi National de Boulogne-Billancourt - Coupe Jacques PEREZ,2025-06-07T00:00:00,2025-06-09T00:00:00,B,92100,Boulogne-Billancourt,https://apiv2.fftt.com/api/files/444434/Règlement tournoi ACBB 2025.pdf
-3168,TOURNOI NATIONAL MICHEL BOUCKENOOGHE  07 et 08 Juin 2025,2025-06-07T00:00:00,2025-06-08T00:00:00,B,59250,HALLUIN,https://apiv2.fftt.com/api/files/421487/reglement tournoi 2025 dot (1).pdf
-3171,TOURNOI NATIONAL B de MAIZIÈRES-LÈS-METZ,2025-06-07T00:00:00,2025-06-08T00:00:00,B,57280,MAIZIÈRES-LÈS-METZ,https://apiv2.fftt.com/api/files/421610/REGLEMENT du TOURNOI NATIONAL B de MAIZIERES LES METZ-2025 (1) (3).pdf
-3172,17° Tournoi International,2025-06-07T00:00:00,2025-06-08T00:00:00,I,76120,GRAND QUEVILLY (LE),https://apiv2.fftt.com/api/files/421979/Règlement Tournoi ALCL 2025 - Validé 15-03-2025 .pdf
-3143,Tournoi National de l'EP Lognes,2025-06-07T00:00:00,2025-06-08T00:00:00,B,77185,Lognes,https://apiv2.fftt.com/api/files/412656/Règlement Lognes 0625.pdf
-3142,Tournoi PP Nord Gironde,2025-06-07T00:00:00,2025-06-08T00:00:00,B,33820,ETAULIERS,https://apiv2.fftt.com/api/files/446763/2025-02-23 (PPNG - Réglement tournoi 2025).pdf
-3141,Tournoi National de Saint-Divy,2025-06-07T00:00:00,2025-06-09T00:00:00,B,29800,SAINT DIVY,https://apiv2.fftt.com/api/files/412452/Tournoi Saint-Divy Sport TT 2025 - Règlement.docx.pdf
-3107,LAVAL BOURNY TENNIS DE TABLE,2025-06-07T00:00:00,2025-06-08T00:00:00,B,53000,LAVAL,https://apiv2.fftt.com/api/files/443650/réglement tournoi 2025 Laval Bourny.pdf
-3098,Tournoi National de la bulle 2025,2025-06-07T00:00:00,2025-06-09T00:00:00,B,51200,EPERNAY,https://apiv2.fftt.com/api/files/411140/2025-02-14 reglement tournoi de la bulle 2025 fftt.pdf
-3090,16ème Tournoi International de Perpignan,2025-06-07T00:00:00,2025-06-08T00:00:00,I,66100,Perpignan,https://apiv2.fftt.com/api/files/399348/Reglement Tournoi PRTT 2025.pdf
-3087,24 Heures de Tennis de Table d'Aix en Provence,2025-06-07T00:00:00,2025-06-08T00:00:00,P,13090,AIX EN PROVENCE,
-3082,4ème tournoi international,2025-06-07T00:00:00,2025-06-08T00:00:00,I,03100,MONTLUCON,https://apiv2.fftt.com/api/files/413677/règlement et acceptation JA.pdf
-3059,Internationaux Jeunes de Mulhouse 2025,2025-06-07T00:00:00,2025-06-08T00:00:00,I,68200,MULHOUSE,https://apiv2.fftt.com/api/files/389609/REGLEMENT Internationaux Jeunes de Mulhouse 2025.pdf
-3031,Iron Ping 2025,2025-06-07T00:00:00,2025-06-08T00:00:00,P,42500,Le Chambon-Feugerolles,
-2996,Tournoi National B BETHUNE-BEUVRY ASTT 2025,2025-06-07T00:00:00,2025-06-08T00:00:00,B,62400,BETHUNE,https://apiv2.fftt.com/api/files/443110/Règlement Tournoi des 7 et 8 Juin 2025 .pdf
-2956,TOURNOI DE LESCAR,2025-06-07T00:00:00,2025-06-08T00:00:00,B,64230,LESCAR,https://apiv2.fftt.com/api/files/434047/Règlement tournoi Lescar.pdf
-2934,30ème tournoi Ludovic Bayart,2025-06-07T00:00:00,2025-06-08T00:00:00,R,37210,Parçay-Meslay,https://apiv2.fftt.com/api/files/412655/REGLEMENT-30-TOURNOI des 7 et 8 juin 2025.pdf
-3124,"TOURNOI NATIONAL 24 heures de Dijon par équipes et H,adicap",2025-06-07T00:00:00,2025-06-08T00:00:00,B,21000,DIJON,https://apiv2.fftt.com/api/files/410475/Règlement tournoi national 24h de Dijon 06 2025.pdf
-3138,11ème Tournoi National de Sarrebourg,2025-06-07T00:00:00,2025-06-08T00:00:00,B,57400,Sarrebourg,https://apiv2.fftt.com/api/files/422029/Reglement2025.pdf
-3044,Tournoi AL VILLECRESNES TT,2025-06-07T00:00:00,2025-06-09T00:00:00,B,94440,Villecresnes,https://apiv2.fftt.com/api/files/446710/Reglement tournoi National B Villecresnes_modifié.pdf
-3139,8ème tournoi national B du TT Fougères/Javené/Lécousse,2025-06-08T00:00:00,2025-06-09T00:00:00,B,35133,JAVENE,https://apiv2.fftt.com/api/files/412297/Règlement-Tournoi-08-09-juin-2025(1).pdf
-3144,OPEN FEMININ WHITI COURTAGES,2025-06-08T00:00:00,2025-06-08T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/413585/Réglement Open Féminin 2025 V2B.pdf
-3203,Tournoi national B de Flers (61),2025-06-08T00:00:00,2025-06-09T00:00:00,B,61100,Flers,https://apiv2.fftt.com/api/files/444684/Règlement tournoi 2025 TTFLERS.pdf
-3174,11° Tournoi National ASSUP Fos sur Mer,2025-06-08T00:00:00,2025-06-08T00:00:00,B,13270,Fos sur Mer,https://apiv2.fftt.com/api/files/422026/Réglement Tournoi ASSUP 2025.pdf
-3132,Tournoi National B - Faches-Thumesnil TT,2025-06-13T00:00:00,2025-06-15T00:00:00,B,59155,Faches-Thumesnil,https://apiv2.fftt.com/api/files/411108/Règlement tournoi Faches 2025.pdf
-3156,NANTES SAINT JO TENNIS DE TABLE 2025,2025-06-13T00:00:00,2025-06-15T00:00:00,B,44300,NANTES,https://apiv2.fftt.com/api/files/413658/NSJTT-tournoi_National_2025_rglt.pdf
-3145,Tournoi National de Cugnaux/Villeneuve-Tolosane,2025-06-14T00:00:00,2025-06-15T00:00:00,B,31270,Cugnaux,https://apiv2.fftt.com/api/files/412798/tournoi JSCVTT 2025 REGLEMENT v0.1.pdf
-3146,TOURNOI NATIONAL de TENNIS DE TABLE TRIEL SUR SEINE,2025-06-14T00:00:00,2025-06-15T00:00:00,B,78510,TRIEL SUR SEINE,https://apiv2.fftt.com/api/files/412735/Reglement tournoi TTT vfinal.pdf
-3215,Tournoi Jeunes de MANOM  2025,2025-06-14T00:00:00,2025-06-14T00:00:00,D,57100,Manom,https://apiv2.fftt.com/api/files/447816/2025  tournoi de TT jeunes 2025.pdf
-3195,"TOURNOI NATIONAL D'EZY SUR EURE ""Challenge Dominique Verdier""",2025-06-14T00:00:00,2025-06-14T00:00:00,B,27530,Ezy Sur Eure,https://apiv2.fftt.com/api/files/433855/Règlement_Tournoi_2025.pdf
-3003,TOURNOI NATIONAL S.A.MERIGNAC,2025-06-14T00:00:00,2025-06-14T00:00:00,B,33700,merignac,https://apiv2.fftt.com/api/files/344981/Tournoi sam reglement.pdf
-3120,Tournoi National B PLESCOP (56),2025-06-14T00:00:00,2025-06-15T00:00:00,B,56890,PLESCOP,https://apiv2.fftt.com/api/files/412300/REGLEMENT TOURNOI NATIONAL PLESCOP 14_15_juin_2025.pdf
-3217,tournoi departemental US saint-maur,2025-06-14T00:00:00,2025-06-14T00:00:00,D,36250,saint maur,
-3068,Tournoi GÉRARD CATEL,2025-06-14T00:00:00,2025-06-14T00:00:00,R,80630,Beauval,https://apiv2.fftt.com/api/files/400086/Règlement tournoi .pdf
-3175,Tournoi National Josué Menant 2025 - VIVY (49) 14 & 15 juin 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,49680,VIVY,https://apiv2.fftt.com/api/files/423564/Reglement TNJM 2025 - 14 - 15 juin 2025.pdf
-3131,TOURNOI NATIONAL B US KREMLIN-BICÊTRE,2025-06-14T00:00:00,2025-06-15T00:00:00,B,94270,Le Kremlin-Bicêtre,https://apiv2.fftt.com/api/files/442614/USKB.pdf
-3093,CA BEGLAIS Tournoi National 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,33130,Begles,https://apiv2.fftt.com/api/files/399506/Reglement Tournoi CA Beglais 2025.pdf
-3166,Tournoi National B Saint-Rémy-Chevreuse-Tennis de Table,2025-06-14T00:00:00,2025-06-15T00:00:00,B,78470,ST REMY LES CHEVREUSE,https://apiv2.fftt.com/api/files/444479/SRCTT_Réglement_Tournoi_2025-06-2.pdf
-3094,TOURNOI NATIONAL B DE NEUVES MAISONS,2025-06-14T00:00:00,2025-06-15T00:00:00,B,54230,NEUVES MAISONS,https://apiv2.fftt.com/api/files/408820/Réglement tournoi national 2025.xlsx - Réglement.pdf
-3015,Tournoi National B du PPC BAVANS,2025-06-15T00:00:00,2025-06-15T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/389999/Règlement tournoi national B 2025 PPC Bavans.pdf
-3184,9 éme Tournoi Régional de FONTAINE LE DUN,2025-06-15T00:00:00,2025-06-15T00:00:00,R,76740,Fontaine-le-Dun,https://apiv2.fftt.com/api/files/424737/REGLEMENT TOURNOI 2025.pdf
+3058,Tournoi National B du TT CAPPELLE-EN-PÉVÈLE,2025-06-20T00:00:00,2025-06-22T00:00:00,B,59242,CAPPELLE-EN-PÉVÈLE,https://apiv2.fftt.com/api/files/434159/Réglement Tournoi National B 2025 vDMO-20250223 2.pdf
+3163,4EME EDITION DU TOURNOI INTER-ENTREPRISES PAR EQUIPE,2025-06-20T00:00:00,2025-06-20T00:00:00,P,17100,SAINTES,https://apiv2.fftt.com/api/files/420080/reglement tournoi 2025 version du 14-2-2025.pdf
+3161,Tournoi National de Betton,2025-06-21T00:00:00,2025-06-22T00:00:00,B,35830,Betton,https://apiv2.fftt.com/api/files/415904/Reglement 2024-2025 version 1.pdf
+3103,Tournoi national B ZUP JEUNES Nogent sur Oise,2025-06-21T00:00:00,2025-06-22T00:00:00,B,60180,Nogent sur Oise,https://apiv2.fftt.com/api/files/424773/Règlement tournoi national B ZUP JEUNES Nogent sur Oise V2.pdf
+2995,Finales tournoi jeunes,2025-06-21T00:00:00,2025-06-21T00:00:00,P,26270,SAULCE SUR RHONE,
+3170,Tournoi National B de Saint-Orens (31),2025-06-21T00:00:00,2025-06-22T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/424759/Règlement tournoi national 2025.pdf
+3198,Tournoi National Féminin à Saint Etienne,2025-06-21T00:00:00,2025-06-21T00:00:00,B,42100,Saint-Étienne,https://apiv2.fftt.com/api/files/444503/Reglement TOURNOI  NATIONAL FEMININ DE TENNIS DE TABLE.pdf
+3173,31ème Open du Nice Cavigal Tennis de Table,2025-06-21T00:00:00,2025-06-22T00:00:00,B,06200,Nice,https://apiv2.fftt.com/api/files/433404/Reglement tournoi NationalB 2025.pdf
+3030,Open National CAM Bordeaux TT 2025,2025-06-21T00:00:00,2025-06-22T00:00:00,B,33200,Bordeaux,https://apiv2.fftt.com/api/files/362046/TN CAM Bordeaux 21 & 22 Juin 2025.pdf
+3073,21ème Open Catalan de Tennis de Table,2025-06-22T00:00:00,2025-06-22T00:00:00,B,66350,TOULOUGES,https://apiv2.fftt.com/api/files/413718/Reglement OPEN CATALAN 2025 V2.pdf
