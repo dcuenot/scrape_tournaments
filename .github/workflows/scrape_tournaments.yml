@@ -39,7 +39,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add *.csv
+        git add csv/*.csv
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update tournament data [skip ci]" && git push)
     
     - name: Prepare email content
