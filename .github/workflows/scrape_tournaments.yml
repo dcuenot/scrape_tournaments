@@ -26,6 +26,7 @@ jobs:
     
     - name: Run scraper
       id: scrape
+      continue-on-error: true
       run: |
         python scrape_tournaments.py
         exit_code=$?
@@ -33,9 +34,11 @@ jobs:
         if [ $exit_code -eq 2 ]; then
           echo "New tournaments found"
           echo "new_tournaments=true" >> $GITHUB_OUTPUT
+          exit 0
         elif [ $exit_code -eq 0 ]; then
           echo "No new tournaments"
           echo "new_tournaments=false" >> $GITHUB_OUTPUT
+          exit 0
         else
           echo "Script failed with exit code $exit_code"
           exit $exit_code
