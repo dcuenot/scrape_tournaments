@@ -1,17 +1,22 @@
 import requests
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 from pprint import pprint
 
 def scrape_tournaments():
     url = "https://apiv2.fftt.com/api/tournament_requests"
+    
+    # Calculate dates
+    today = datetime.now()
+    six_months_later = today + timedelta(days=180)  # approximately 6 months
+    
     params = {
         "page": 1,
         "itemsPerPage": 200,
         "order[startDate]": "asc",
-        "startDate[after]": "2025-05-07T00:00:00",
-        "endDate[before]": "2025-12-31T00:00:00"
+        "startDate[after]": today.strftime("%Y-%m-%dT00:00:00"),
+        "endDate[before]": six_months_later.strftime("%Y-%m-%dT00:00:00")
     }
     
     headers = {
@@ -33,9 +38,10 @@ def scrape_tournaments():
                 'name': tournament.get('name'),
                 'startDate': tournament.get('startDate'),
                 'endDate': tournament.get('endDate'),
-                'location': tournament.get('location'),
-                'category': tournament.get('category'),
-                'status': tournament.get('status')
+                'type': tournament.get('type'),
+                'postalCode': tournament.get('address').get('postalCode'),
+                'location': tournament.get('address').get('addressLocality'),
+                'rules': tournament.get('rules').get('url') if tournament.get('rules') is not None else ''
             }
             tournaments.append(tournament_data)
         
