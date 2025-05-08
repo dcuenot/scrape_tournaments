@@ -51,21 +51,21 @@ def scrape_tournaments():
         # Check for existing tournaments
         new_tournaments = []
         if os.path.exists('tournois.csv'):
-            existing_df = pd.read_csv('tournois.csv')
+            existing_df = pd.read_csv('csv/tournois.csv')
             existing_ids = set(existing_df['id'])
             new_tournaments = df[~df['id'].isin(existing_ids)]
             
             # Save new tournaments to a separate file if there are any
-            if not new_tournaments.empty:
-                new_tournaments.to_csv('new_tournaments.csv', index=False)
+            if len(new_tournaments) > 0:
+                new_tournaments.to_csv('csv/new_tournaments.csv', index=False)
                 print(f"Found {len(new_tournaments)} new tournaments")
         
         # Save all tournaments
-        df.to_csv('tournois.csv', index=False)
+        df.to_csv('csv/tournois.csv', index=False)
         print(f"Successfully saved {len(tournaments)} tournaments to tournois.csv")
         
         # Return True if new tournaments were found
-        return not new_tournaments.empty
+        return len(new_tournaments) > 0
         
     except Exception as e:
         print(f"Error occurred: {str(e)}")
