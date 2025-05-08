@@ -62,5 +62,4 @@ jobs:
           
           $(cat csv/new_tournaments.csv)
         to: damsvdf@yahoo.fr
-        from: ${{ secrets.EMAIL_USERNAME }}
-        content_type: text/plain 
+        from: ${{ secrets.EMAIL_USERNAME }} 
