@@ -31,19 +31,8 @@ jobs:
         python scrape_tournaments.py
         exit_code=$?
         set -e
-        echo "Script exited with code: $exit_code"
-        if [ $exit_code -eq 2 ]; then
-          echo "New tournaments found"
-          echo "new_tournaments=true" >> $GITHUB_OUTPUT
-          exit 0
-        elif [ $exit_code -eq 0 ]; then
-          echo "No new tournaments"
-          echo "new_tournaments=false" >> $GITHUB_OUTPUT
-          exit 0
-        else
-          echo "Script failed with exit code $exit_code"
-          exit $exit_code
-        fi
+        [ $exit_code -eq 2 ] && echo "new_tournaments=true" >> $GITHUB_OUTPUT
+        exit $exit_code
     
     - name: Commit and push if changed
       if: steps.scrape.outputs.new_tournaments == 'true'
