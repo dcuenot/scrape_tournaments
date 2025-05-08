@@ -31,7 +31,7 @@ jobs:
         python scrape_tournaments.py
         exit_code=$?
         set -e
-        [ $exit_code -eq 2 ] && echo "new_tournaments=true" >> $GITHUB_OUTPUT
+        [ $exit_code -eq 2 ] && echo "new_tournaments=true" >> $GITHUB_OUTPUT && exit 0
         exit $exit_code
     
     - name: Commit and push if changed
