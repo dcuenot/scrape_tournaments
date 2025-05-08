@@ -70,15 +70,16 @@ jobs:
     - name: Send WhatsApp message
       if: steps.scrape.outputs.new_tournaments == 'true'
       run: |
-        # Create JSON payload using jq
-        echo '{
-          "messaging_product": "whatsapp",
-          "to": "${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}",
-          "type": "text",
-          "text": {
-            "body": $message
+        # Create JSON payload
+        message=$(cat message.txt | jq -Rs .)
+        echo "{
+          \"messaging_product\": \"whatsapp\",
+          \"to\": \"${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}\",
+          \"type\": \"text\",
+          \"text\": {
+            \"body\": $message
           }
-        }' | jq --arg message "$(cat message.txt)" '.text.body = $message' > payload.json
+        }" > payload.json
         
         # Send the message
         curl -X POST "https://graph.facebook.com/v17.0/${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}/messages" \
