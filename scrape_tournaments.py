@@ -65,8 +65,10 @@ def scrape_tournaments():
         df.to_csv('csv/tournois.csv', index=False)
         print(f"Successfully saved {len(tournaments)} tournaments to tournois.csv")
         
-        # Return 1 if new tournaments were found, 0 otherwise
-        return 2 if len(new_tournaments) > 0 else 0
+        # Return 2 if new tournaments were found, 0 otherwise
+        exit_code = 2 if len(new_tournaments) > 0 else 0
+        print(f"Exiting with code: {exit_code}")
+        return exit_code
         
     except Exception as e:
         print(f"Error occurred: {str(e)}")
