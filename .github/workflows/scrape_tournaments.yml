@@ -28,8 +28,10 @@ jobs:
       id: scrape
       continue-on-error: true
       run: |
+        set +e
         python scrape_tournaments.py
         exit_code=$?
+        set -e
         echo "Script exited with code: $exit_code"
         if [ $exit_code -eq 2 ]; then
           echo "New tournaments found"
