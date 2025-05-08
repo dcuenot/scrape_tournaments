@@ -39,8 +39,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add *.csv
-        git commit -m "Update tournament data [skip ci]"
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update tournament data [skip ci]" && git push)
     
     - name: Send email notification
       if: steps.scrape.outputs.new_tournaments == 'true'
