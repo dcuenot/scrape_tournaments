@@ -25,11 +25,38 @@ jobs:
         pip install -r requirements.txt
     
     - name: Run scraper
-      run: python scrape_tournaments.py
+      id: scrape
+      run: |
+        if python scrape_tournaments.py; then
+          echo "new_tournaments=true" >> $GITHUB_OUTPUT
+        else
+          echo "new_tournaments=false" >> $GITHUB_OUTPUT
+        fi
     
     - name: Commit and push if changed
+      if: steps.scrape.outputs.new_tournaments == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add tournois.csv
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update tournament data [skip ci]" && git push) 
+        git add tournois.csv new_tournaments.csv
+        git commit -m "Update tournament data [skip ci]"
+        git push
+    
+    - name: Send email notification
+      if: steps.scrape.outputs.new_tournaments == 'true'
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: "Nouveaux tournois disponibles"
+        body: |
+          De nouveaux tournois sont disponibles !
+          
+          Voici les détails des nouveaux tournois :
+          
+          $(cat new_tournaments.csv)
+        to: damsvdf@yahoo.fr
+        from: ${{ secrets.EMAIL_USERNAME }}
+        content_type: text/plain 
