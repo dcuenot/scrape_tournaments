@@ -38,7 +38,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add tournois.csv new_tournaments.csv
+        git add *.csv
         git commit -m "Update tournament data [skip ci]"
         git push
     
