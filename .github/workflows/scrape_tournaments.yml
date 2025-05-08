@@ -42,7 +42,20 @@ jobs:
         git add *.csv
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update tournament data [skip ci]" && git push)
     
-    - name: Send email notification
+    - name: Prepare email content
+      if: steps.scrape.outputs.new_tournaments == 'true'
+      id: email
+      run: |
+        echo "De nouveaux tournois sont disponibles !" > email.txt
+        echo "" >> email.txt
+        echo "Voici les détails des nouveaux tournois :" >> email.txt
+        echo "" >> email.txt
+        cat csv/new_tournaments.csv >> email.txt
+        echo "content<<EOF" >> $GITHUB_ENV
+        cat email.txt >> $GITHUB_ENV
+        echo "EOF" >> $GITHUB_ENV
+    
+    - name: Send email
       if: steps.scrape.outputs.new_tournaments == 'true'
       uses: dawidd6/action-send-mail@v3
       with:
@@ -51,11 +64,6 @@ jobs:
         username: ${{ secrets.EMAIL_USERNAME }}
         password: ${{ secrets.EMAIL_PASSWORD }}
         subject: "Nouveaux tournois disponibles"
-        body: |
-          De nouveaux tournois sont disponibles !
-          
-          Voici les détails des nouveaux tournois :
-          
-          $(cat csv/new_tournaments.csv)
+        body: ${{ env.content }}
         to: damsvdf@yahoo.fr
         from: ${{ secrets.EMAIL_USERNAME }} 
