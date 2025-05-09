@@ -4,6 +4,27 @@ from datetime import datetime, timedelta
 import os
 from pprint import pprint
 import sys
+import googlemaps
+
+# Configuration
+ORIGIN = "Fontenay-sous-bois, 94120, France"
+GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
+
+def calculate_distance(gmaps, origin, destination):
+    try:
+        # Get distance matrix
+        result = gmaps.distance_matrix(origin, destination, mode="driving")
+        
+        # Extract duration and distance
+        if result['status'] == 'OK':
+            element = result['rows'][0]['elements'][0]
+            if element['status'] == 'OK':
+                duration = element['duration']['text']
+                distance = element['distance']['text']
+                return f"{distance} ({duration})"
+    except Exception as e:
+        print(f"Error calculating distance: {e}")
+    return "Distance non disponible"
 
 def scrape_tournaments():
     url = "https://apiv2.fftt.com/api/tournament_requests"
@@ -42,7 +63,8 @@ def scrape_tournaments():
                 'type': tournament.get('type'),
                 'postalCode': tournament.get('address').get('postalCode'),
                 'location': tournament.get('address').get('addressLocality'),
-                'rules': tournament.get('rules').get('url') if tournament.get('rules') is not None else ''
+                'rules': tournament.get('rules').get('url') if tournament.get('rules') is not None else '',
+                'distance': ''  # Initialize empty distance
             }
             tournaments.append(tournament_data)
         
@@ -56,10 +78,27 @@ def scrape_tournaments():
             existing_ids = set(existing_df['id'])
             new_tournaments = df[~df['id'].isin(existing_ids)]
             
-            # Save new tournaments to a separate file if there are any
+            # Calculate distances only for new tournaments
             if len(new_tournaments) > 0:
+                # Initialize Google Maps client
+                gmaps = googlemaps.Client(key=GOOGLE_MAPS_API_KEY)
+                
+                # Add distance information to new tournaments
+                new_tournaments['distance'] = new_tournaments.apply(
+                    lambda row: calculate_distance(
+                        gmaps,
+                        ORIGIN,
+                        f"{row['location']}, {row['postalCode']}, France"
+                    ),
+                    axis=1
+                )
+                
+                # Save new tournaments to a separate file
                 new_tournaments.to_csv('csv/new_tournaments.csv', index=False)
                 print(f"Found {len(new_tournaments)} new tournaments")
+                
+                # Update distances in the main DataFrame
+                df.loc[new_tournaments.index, 'distance'] = new_tournaments['distance']
         
         # Save all tournaments
         df.to_csv('csv/tournois.csv', index=False)

@@ -26,6 +26,8 @@ jobs:
     
     - name: Run scraper
       id: scrape
+      env:
+        GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
       run: |
         set +e
         python scrape_tournaments.py
@@ -51,7 +53,7 @@ jobs:
         echo "" >> message.txt
         
         # Read CSV and format each tournament
-        while IFS=, read -r id name startDate endDate type postalCode location rules; do
+        while IFS=, read -r id name startDate endDate type postalCode location rules distance; do
           # Skip header line
           if [ "$id" != "id" ]; then
             # Format dates
@@ -73,6 +75,7 @@ jobs:
             echo "📅 Du $startDate au $endDate" >> message.txt
             echo "📍 $location ($postalCode)" >> message.txt
             echo "🏅 Type: $type" >> message.txt
+            echo "🚗 $distance" >> message.txt
             if [ ! -z "$rules" ]; then
               echo "📄 Règlement: $rules" >> message.txt
             fi
