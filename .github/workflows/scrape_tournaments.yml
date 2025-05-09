@@ -45,11 +45,41 @@ jobs:
       if: steps.scrape.outputs.new_tournaments == 'true'
       id: message
       run: |
-        echo "De nouveaux tournois sont disponibles !" > message.txt
+        echo "🏓 *NOUVEAUX TOURNOIS DISPONIBLES* 🏓" > message.txt
         echo "" >> message.txt
-        echo "Voici les détails des nouveaux tournois :" >> message.txt
+        echo "Voici les nouveaux tournois ajoutés :" >> message.txt
         echo "" >> message.txt
-        cat csv/new_tournaments.csv >> message.txt
+        
+        # Read CSV and format each tournament
+        while IFS=, read -r id name startDate endDate type postalCode location rules; do
+          # Skip header line
+          if [ "$id" != "id" ]; then
+            # Format dates
+            startDate=$(date -d "$startDate" +"%d/%m/%Y")
+            endDate=$(date -d "$endDate" +"%d/%m/%Y")
+            
+            # Format tournament type
+            case $type in
+              "B") type="National B" ;;
+              "I") type="International" ;;
+              "R") type="Régional" ;;
+              "D") type="Départemental" ;;
+              "P") type="Promotion" ;;
+              *) type=$type ;;
+            esac
+            
+            # Add tournament info
+            echo "🏆 *$name*" >> message.txt
+            echo "📅 Du $startDate au $endDate" >> message.txt
+            echo "📍 $location ($postalCode)" >> message.txt
+            echo "🏅 Type: $type" >> message.txt
+            if [ ! -z "$rules" ]; then
+              echo "📄 Règlement: $rules" >> message.txt
+            fi
+            echo "" >> message.txt
+          fi
+        done < csv/new_tournaments.csv
+        
         echo "content<<EOF" >> $GITHUB_ENV
         cat message.txt >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV
