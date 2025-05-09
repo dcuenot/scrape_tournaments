@@ -33,7 +33,7 @@ def scrape_tournaments():
     
     # Calculate dates
     today = datetime.now()
-    six_months_later = today + timedelta(days=180)  # exactly 6 months
+    six_months_later = today + timedelta(days=10)  # exactly 6 months
     
     params = {
         "page": 1,
@@ -59,7 +59,7 @@ def scrape_tournaments():
         for tournament in data.get('hydra:member', []):
             tournament_data = {
                 'id': tournament.get('id'),
-                'name': tournament.get('name'),
+                'name': tournament.get('name').replace(',', ''),
                 'startDate': tournament.get('startDate'),
                 'endDate': tournament.get('endDate'),
                 'type': tournament.get('type'),
