@@ -10,7 +10,7 @@ def scrape_tournaments():
     
     # Calculate dates
     today = datetime.now()
-    six_months_later = today + timedelta(days=60)  # approximately 6 months
+    six_months_later = today + timedelta(days=90)  # approximately 6 months
     
     params = {
         "page": 1,
