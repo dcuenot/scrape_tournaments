@@ -7,13 +7,15 @@ import sys
 import googlemaps
 
 # Configuration
-ORIGIN = "Fontenay-sous-bois, 94120, France"
 GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
 
-def calculate_distance(gmaps, origin, destination):
+def calculate_distance_from_fontenay(destination):
     try:
+        # Initialize Google Maps client
+        gmaps = googlemaps.Client(key=GOOGLE_MAPS_API_KEY)
+        
         # Get distance matrix
-        result = gmaps.distance_matrix(origin, destination, mode="driving")
+        result = gmaps.distance_matrix("Fontenay-sous-bois, 94120, France", destination, mode="driving")
         
         # Extract duration and distance
         if result['status'] == 'OK':
@@ -31,7 +33,7 @@ def scrape_tournaments():
     
     # Calculate dates
     today = datetime.now()
-    six_months_later = today + timedelta(days=10)  # approximately 6 months
+    six_months_later = today + timedelta(days=180)  # exactly 6 months
     
     params = {
         "page": 1,
@@ -80,14 +82,9 @@ def scrape_tournaments():
             
             # Calculate distances only for new tournaments
             if len(new_tournaments) > 0:
-                # Initialize Google Maps client
-                gmaps = googlemaps.Client(key=GOOGLE_MAPS_API_KEY)
-                
                 # Add distance information to new tournaments
                 new_tournaments['distance'] = new_tournaments.apply(
-                    lambda row: calculate_distance(
-                        gmaps,
-                        ORIGIN,
+                    lambda row: calculate_distance_from_fontenay(
                         f"{row['location']}, {row['postalCode']}, France"
                     ),
                     axis=1
