@@ -35,5 +35,4 @@ env/
 .env
 
 # CSV files
-csv/*.csv
 !csv/.gitkeep 
