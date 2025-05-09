@@ -47,10 +47,15 @@ jobs:
       if: steps.scrape.outputs.new_tournaments == 'true'
       id: message
       run: |
-        echo "🏓 *NOUVEAUX TOURNOIS DISPONIBLES* 🏓" > message.txt
-        echo "" >> message.txt
-        echo "Voici les nouveaux tournois ajoutés :" >> message.txt
-        echo "" >> message.txt
+        # Prepare WhatsApp message (Markdown)
+        echo "🏓 *NOUVEAUX TOURNOIS DISPONIBLES* 🏓" > whatsapp_message.txt
+        echo "" >> whatsapp_message.txt
+        echo "Voici les nouveaux tournois ajoutés :" >> whatsapp_message.txt
+        echo "" >> whatsapp_message.txt
+        
+        # Prepare email message (HTML)
+        echo "<h1>🏓 NOUVEAUX TOURNOIS DISPONIBLES 🏓</h1>" > email_message.txt
+        echo "<p>Voici les nouveaux tournois ajoutés :</p>" >> email_message.txt
         
         # Read CSV and format each tournament
         while IFS=, read -r id name startDate endDate type postalCode location rules distance; do
@@ -62,29 +67,46 @@ jobs:
             
             # Format tournament type
             case $type in
-              "B") type="National B" ;;
-              "I") type="International" ;;
-              "R") type="Régional" ;;
-              "D") type="Départemental" ;;
-              "P") type="Promotion" ;;
-              *) type=$type ;;
+              "A") type="🏅 Type: National A" ;;
+              "B") type="🥈 Type: National B" ;;
+              "I") type="🥈 Type: International" ;;
+              "R") type="🥉 Type: Régional" ;;
+              "D") type="🥉 Type: Départemental" ;;
+              "P") type="🎖️ Type: Promotion" ;;
+              *) type="🎗️ Type: $type" ;;
             esac
             
-            # Add tournament info
-            echo "🏆 *$name*" >> message.txt
-            echo "📅 Du $startDate au $endDate" >> message.txt
-            echo "📍 $location ($postalCode)" >> message.txt
-            echo "🏅 Type: $type" >> message.txt
-            echo "🚗 $distance" >> message.txt
+            # Add tournament info to WhatsApp message (Markdown)
+            echo "🏆 *$name*" >> whatsapp_message.txt
+            echo "📅 Du $startDate au $endDate" >> whatsapp_message.txt
+            echo "$type" >> whatsapp_message.txt
+            echo "📍 $location ($postalCode)" >> whatsapp_message.txt
+            echo "🚗 $distance" >> whatsapp_message.txt
             if [ ! -z "$rules" ]; then
-              echo "📄 Règlement: $rules" >> message.txt
+              echo "📄 Règlement: [$rules]($rules)" >> whatsapp_message.txt
             fi
-            echo "" >> message.txt
+            echo "" >> whatsapp_message.txt
+            
+            # Add tournament info to email message (HTML)
+            echo "<h2>🏆 $name</h2>" >> email_message.txt
+            echo "<p>📅 Du $startDate au $endDate</p>" >> email_message.txt
+            echo "<p>$type</p>" >> email_message.txt
+            echo "<p>📍 $location ($postalCode)</p>" >> email_message.txt
+            echo "<p>🚗 $distance</p>" >> email_message.txt
+            if [ ! -z "$rules" ]; then
+              echo "<p>📄 Règlement: <a href='$rules'>$rules</a></p>" >> email_message.txt
+            fi
+            echo "<hr>" >> email_message.txt
           fi
         done < csv/new_tournaments.csv
         
-        echo "content<<EOF" >> $GITHUB_ENV
-        cat message.txt >> $GITHUB_ENV
+        # Store messages in environment variables
+        echo "whatsapp_content<<EOF" >> $GITHUB_ENV
+        cat whatsapp_message.txt >> $GITHUB_ENV
+        echo "EOF" >> $GITHUB_ENV
+        
+        echo "email_content<<EOF" >> $GITHUB_ENV
+        cat email_message.txt >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV
     
     - name: Send email
@@ -96,26 +118,27 @@ jobs:
         username: ${{ secrets.EMAIL_USERNAME }}
         password: ${{ secrets.EMAIL_PASSWORD }}
         subject: "Nouveaux tournois disponibles"
-        body: ${{ env.content }}
+        body: ${{ env.email_content }}
         to: damsvdf@yahoo.fr
         from: ${{ secrets.EMAIL_USERNAME }}
     
-    - name: Send WhatsApp message
-      if: steps.scrape.outputs.new_tournaments == 'true'
-      run: |
-        # Create JSON payload
-        message=$(cat message.txt | jq -Rs .)
-        echo "{
-          \"messaging_product\": \"whatsapp\",
-          \"to\": \"${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}\",
-          \"type\": \"text\",
-          \"text\": {
-            \"body\": $message
-          }
-        }" > payload.json
-        
-        # Send the message
-        curl -X POST "https://graph.facebook.com/v17.0/${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}/messages" \
-          -H "Authorization: Bearer ${{ secrets.WHATSAPP_TOKEN }}" \
-          -H "Content-Type: application/json" \
-          -d @payload.json
+    # WhatsApp integration temporarily disabled
+    # - name: Send WhatsApp message
+    #   if: steps.scrape.outputs.new_tournaments == 'true'
+    #   run: |
+    #     # Create JSON payload
+    #     message=$(cat whatsapp_message.txt | jq -Rs .)
+    #     echo "{
+    #       \"messaging_product\": \"whatsapp\",
+    #       \"to\": \"${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}\",
+    #       \"type\": \"text\",
+    #       \"text\": {
+    #         \"body\": $message
+    #       }
+    #     }" > payload.json
+    #     
+    #     # Send the message
+    #     curl -X POST "https://graph.facebook.com/v17.0/${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}/messages" \
+    #       -H "Authorization: Bearer ${{ secrets.WHATSAPP_TOKEN }}" \
+    #       -H "Content-Type: application/json" \
+    #       -d @payload.json
