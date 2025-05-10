@@ -115,30 +115,29 @@ jobs:
       with:
         server_address: smtp.gmail.com
         server_port: 465
-        username: ${{ secrets.EMAIL_USERNAME }}
+        username: $EMAIL_USERNAME
         password: ${{ secrets.EMAIL_PASSWORD }}
         subject: "Nouveaux tournois disponibles"
         body: ${{ env.email_content }}
         to: damsvdf@yahoo.fr
-        from: ${{ secrets.EMAIL_USERNAME }}
+        from: $EMAIL_USERNAME
     
-    # WhatsApp integration temporarily disabled
-    # - name: Send WhatsApp message
-    #   if: steps.scrape.outputs.new_tournaments == 'true'
-    #   run: |
-    #     # Create JSON payload
-    #     message=$(cat whatsapp_message.txt | jq -Rs .)
-    #     echo "{
-    #       \"messaging_product\": \"whatsapp\",
-    #       \"to\": \"${{ secrets.WHATSAPP_RECIPIENT_NUMBER }}\",
-    #       \"type\": \"text\",
-    #       \"text\": {
-    #         \"body\": $message
-    #       }
-    #     }" > payload.json
-    #     
-    #     # Send the message
-    #     curl -X POST "https://graph.facebook.com/v17.0/${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}/messages" \
-    #       -H "Authorization: Bearer ${{ secrets.WHATSAPP_TOKEN }}" \
-    #       -H "Content-Type: application/json" \
-    #       -d @payload.json
+    - name: Send WhatsApp message
+      if: steps.scrape.outputs.new_tournaments == 'true'
+      run: |
+        # Create JSON payload
+        message=$(cat whatsapp_message.txt | jq -Rs .)
+        echo "{
+          \"messaging_product\": \"whatsapp\",
+          \"to\": \"$WHATSAPP_RECIPIENT_NUMBER\",
+          \"type\": \"text\",
+          \"text\": {
+            \"body\": $message
+          }
+        }" > payload.json
+        
+        # Send the message
+        curl -X POST "https://graph.facebook.com/v17.0/$WHATSAPP_PHONE_NUMBER_ID/messages" \
+          -H "Authorization: Bearer ${{ secrets.WHATSAPP_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -d @payload.json
