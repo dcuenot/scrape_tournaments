@@ -18,6 +18,9 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3110,TOURNOI DES GRANDS VINS DE L'ENTRE DEUX MERS,2025-05-29T00:00:00,2025-05-29T00:00:00,R,33420,BRANNE,https://apiv2.fftt.com/api/files/423804/reglement tournoi branne2025.pdf,
 3134,Grand Prix de la Ville de Reims 2025,2025-05-29T00:00:00,2025-05-29T00:00:00,B,51100,REIMS,https://apiv2.fftt.com/api/files/411490/Grand Prix de la ville de Reims 2025.pdf,
 3190,Tournoi CSM Eaubonne 2025,2025-05-29T00:00:00,2025-05-31T00:00:00,B,95600,EAUBONNE,https://apiv2.fftt.com/api/files/433557/2025_Règlement Tournoi_CSM-Eaubonne_v2.pdf,
+3104,TNP 2025 - Tournoi National de POITIERS,2025-05-29T00:00:00,2025-05-31T00:00:00,A,86000,POITIERS,https://apiv2.fftt.com/api/files/412259/Règlement TNP 2025.pdf,348 km (3 hours 38 mins)
+3178,Tournoi national de La Tronche Meylan Grenoble 2025,2025-05-30T00:00:00,2025-06-01T00:00:00,B,38240,Meylan,https://apiv2.fftt.com/api/files/424533/Règlement tournoi TTTMG 2025.pdf,598 km (5 hours 43 mins)
+3136,12ème Tournoi national des Images d'Epinal,2025-05-31T00:00:00,2025-06-01T00:00:00,B,88000,EPINAL,https://apiv2.fftt.com/api/files/412270/Réglement tournoi national 2025.pdf,387 km (3 hours 57 mins)
 3112,3ème Tournoi National B BTT Misterping,2025-05-31T00:00:00,2025-06-01T00:00:00,B,59780,Baisieux,https://apiv2.fftt.com/api/files/424964/20250219_REGLEMENT_version2_dans_SPID (1).pdf,
 3091,Tournoi National B - Aubenas-Vals,2025-05-31T00:00:00,2025-06-01T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/399486/Réglement_Tournoi.pdf,
 3111,CHAMPHOL ASTT - 1er TOURNOI NATIONAL B -,2025-05-31T00:00:00,2025-06-01T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/400294/Règlement tournoi de CASTT.docx.pdf,
@@ -71,32 +74,32 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3146,TOURNOI NATIONAL de TENNIS DE TABLE TRIEL SUR SEINE,2025-06-14T00:00:00,2025-06-15T00:00:00,B,78510,TRIEL SUR SEINE,https://apiv2.fftt.com/api/files/412735/Reglement tournoi TTT vfinal.pdf,
 3215,Tournoi Jeunes de MANOM  2025,2025-06-14T00:00:00,2025-06-14T00:00:00,D,57100,Manom,https://apiv2.fftt.com/api/files/447816/2025  tournoi de TT jeunes 2025.pdf,
 3094,TOURNOI NATIONAL B DE NEUVES MAISONS,2025-06-14T00:00:00,2025-06-15T00:00:00,B,54230,NEUVES MAISONS,https://apiv2.fftt.com/api/files/408820/Réglement tournoi national 2025.xlsx - Réglement.pdf,
-3093,CA BEGLAIS Tournoi National 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,33130,Begles,https://apiv2.fftt.com/api/files/399506/Reglement Tournoi CA Beglais 2025.pdf,596 km (5 hours 43 mins)
-3120,Tournoi National B PLESCOP (56),2025-06-14T00:00:00,2025-06-15T00:00:00,B,56890,PLESCOP,https://apiv2.fftt.com/api/files/412300/REGLEMENT TOURNOI NATIONAL PLESCOP 14_15_juin_2025.pdf,475 km (4 hours 42 mins)
-3195,"TOURNOI NATIONAL D'EZY SUR EURE ""Challenge Dominique Verdier""",2025-06-14T00:00:00,2025-06-14T00:00:00,B,27530,Ezy Sur Eure,https://apiv2.fftt.com/api/files/433855/Règlement_Tournoi_2025.pdf,105 km (1 hour 25 mins)
-3184,9 éme Tournoi Régional de FONTAINE LE DUN,2025-06-15T00:00:00,2025-06-15T00:00:00,R,76740,Fontaine-le-Dun,https://apiv2.fftt.com/api/files/424737/REGLEMENT TOURNOI 2025.pdf,208 km (2 hours 27 mins)
-3015,Tournoi National B du PPC BAVANS,2025-06-15T00:00:00,2025-06-15T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/389999/Règlement tournoi national B 2025 PPC Bavans.pdf,418 km (4 hours 39 mins)
-3058,Tournoi National B du TT CAPPELLE-EN-PÉVÈLE,2025-06-20T00:00:00,2025-06-22T00:00:00,B,59242,CAPPELLE-EN-PÉVÈLE,https://apiv2.fftt.com/api/files/434159/Réglement Tournoi National B 2025 vDMO-20250223 2.pdf,214 km (2 hours 22 mins)
-3163,4EME EDITION DU TOURNOI INTER-ENTREPRISES PAR EQUIPE,2025-06-20T00:00:00,2025-06-20T00:00:00,P,17100,SAINTES,https://apiv2.fftt.com/api/files/420080/reglement tournoi 2025 version du 14-2-2025.pdf,481 km (4 hours 38 mins)
-3170,Tournoi National B de Saint-Orens (31),2025-06-21T00:00:00,2025-06-22T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/424759/Règlement tournoi national 2025.pdf,693 km (6 hours 46 mins)
-2995,Finales tournoi jeunes,2025-06-21T00:00:00,2025-06-21T00:00:00,P,26270,SAULCE SUR RHONE,,600 km (5 hours 48 mins)
-3161,Tournoi National de Betton,2025-06-21T00:00:00,2025-06-22T00:00:00,B,35830,Betton,https://apiv2.fftt.com/api/files/415904/Reglement 2024-2025 version 1.pdf,361 km (3 hours 31 mins)
-3198,Tournoi National Féminin à Saint Etienne,2025-06-21T00:00:00,2025-06-21T00:00:00,B,42100,Saint-Étienne,https://apiv2.fftt.com/api/files/444503/Reglement TOURNOI  NATIONAL FEMININ DE TENNIS DE TABLE.pdf,529 km (5 hours 10 mins)
-3173,31ème Open du Nice Cavigal Tennis de Table,2025-06-21T00:00:00,2025-06-22T00:00:00,B,06200,Nice,https://apiv2.fftt.com/api/files/433404/Reglement tournoi NationalB 2025.pdf,936 km (8 hours 58 mins)
-3030,Open National CAM Bordeaux TT 2025,2025-06-21T00:00:00,2025-06-22T00:00:00,B,33200,Bordeaux,https://apiv2.fftt.com/api/files/362046/TN CAM Bordeaux 21 & 22 Juin 2025.pdf,596 km (5 hours 44 mins)
-3103,Tournoi national B ZUP JEUNES Nogent sur Oise,2025-06-21T00:00:00,2025-06-22T00:00:00,B,60180,Nogent sur Oise,https://apiv2.fftt.com/api/files/424773/Règlement tournoi national B ZUP JEUNES Nogent sur Oise V2.pdf,64.5 km (55 mins)
-3073,21ème Open Catalan de Tennis de Table,2025-06-22T00:00:00,2025-06-22T00:00:00,B,66350,TOULOUGES,https://apiv2.fftt.com/api/files/413718/Reglement OPEN CATALAN 2025 V2.pdf,863 km (8 hours 9 mins)
-3202,3èmeTournoi Régional Longuenesse TT,2025-06-28T00:00:00,2025-06-29T00:00:00,R,62219,LONGUENESSE,https://apiv2.fftt.com/api/files/443221/Reglement tournoi régional 2025.pdf,255 km (2 hours 39 mins)
-3150,24 heures tennis de table du Pallet 20254,2025-06-28T00:00:00,2025-06-29T00:00:00,A,44330,le pallet,https://apiv2.fftt.com/api/files/413529/Reglement 24 Heures tennis de table du Pallet 2025.pdf,402 km (3 hours 53 mins)
-3154,Tournoi National du TROYES O.S - NOËS 2025,2025-06-28T00:00:00,2025-06-29T00:00:00,B,10000,TROYES,https://apiv2.fftt.com/api/files/433174/Règlement Tournoi TOS 2025.pdf,174 km (1 hour 54 mins)
-3113,TOURNOI REGIONAL DU TENNIS DE TABLE DE MONTELIER (Drôme),2025-06-28T00:00:00,2025-06-28T00:00:00,R,26120,MONTELIER,https://apiv2.fftt.com/api/files/405396/TTMontelier_reglement2025.pdf,586 km (5 hours 42 mins)
-3196,Tournoi National Cercle Paul Bert Rennes,2025-06-28T00:00:00,2025-06-29T00:00:00,B,35200,RENNES,https://apiv2.fftt.com/api/files/433860/Règlement Tournoi National 2025 CPB Rapatel.pdf,356 km (3 hours 28 mins)
-3137,12H DU GBTT 2025,2025-06-28T00:00:00,2025-06-28T00:00:00,R,38190,VILLARD-BONNOT,https://apiv2.fftt.com/api/files/434059/Re-glement du tournoi 2025.pdf,608 km (5 hours 50 mins)
-2901,TOURNOI NATIONAL B CLERY ST ANDRE,2025-06-28T00:00:00,2025-06-29T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/413722/Règlement 2025.pdf,158 km (1 hour 48 mins)
-3061,PING-NEMOURS - TOURNOI NATIONAL B ,2025-06-28T00:00:00,2025-06-29T00:00:00,B,77140,NEMOURS,https://apiv2.fftt.com/api/files/412746/TOURNOI PING NEMOURS 2025 N°xxxx-2024-B.pdf,90.7 km (1 hour 8 mins)
-3035,TOURNOI NATIONAL B DU SPORT TENNIS DE TABLE DE MÉZÉRIAT,2025-06-28T00:00:00,2025-06-29T00:00:00,B,01660,Mézériat,https://apiv2.fftt.com/api/files/364619/Reglement du tournoi.pdf,422 km (4 hours 6 mins)
-3186,Tournoi National SQY PING,2025-06-28T00:00:00,2025-06-29T00:00:00,B,78450,VILLEPREUX,https://apiv2.fftt.com/api/files/450062/Règlement - Tournoi national SQY PING 2025.pdf,60.2 km (53 mins)
-3100,Tournoi Régional de Mions,2025-06-28T00:00:00,2025-06-28T00:00:00,R,69780,MIONS,https://apiv2.fftt.com/api/files/400028/Règlement tournoi Mions 2025 pdf.pdf,489 km (4 hours 45 mins)
-3188,Tournoi Régional de Bourgoin-Jallieu,2025-06-29T00:00:00,2025-06-29T00:00:00,R,38300,BOURGOIN-JALLIEU,https://apiv2.fftt.com/api/files/428111/Reglement tournoi TTBJ 2025.pdf,521 km (5 hours 1 min)
-3193,Tournoi régional Septembre 2025 - La Ville aux Dames,2025-09-06T00:00:00,2025-09-07T00:00:00,R,37700,La Ville aux Dames,https://apiv2.fftt.com/api/files/433857/REGLEMENT Tournoi Septembre 24-25.pdf,250 km (2 hours 35 mins)
-3179,12ème TOURNOI REGIONAL DU PPCI,2025-11-01T00:00:00,2025-11-02T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/424532/Règlement 12eme tournoi PPCI.pdf,261 km (2 hours 47 mins)
+3093,CA BEGLAIS Tournoi National 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,33130,Begles,https://apiv2.fftt.com/api/files/399506/Reglement Tournoi CA Beglais 2025.pdf,
+3120,Tournoi National B PLESCOP (56),2025-06-14T00:00:00,2025-06-15T00:00:00,B,56890,PLESCOP,https://apiv2.fftt.com/api/files/412300/REGLEMENT TOURNOI NATIONAL PLESCOP 14_15_juin_2025.pdf,
+3195,"TOURNOI NATIONAL D'EZY SUR EURE ""Challenge Dominique Verdier""",2025-06-14T00:00:00,2025-06-14T00:00:00,B,27530,Ezy Sur Eure,https://apiv2.fftt.com/api/files/433855/Règlement_Tournoi_2025.pdf,
+3184,9 éme Tournoi Régional de FONTAINE LE DUN,2025-06-15T00:00:00,2025-06-15T00:00:00,R,76740,Fontaine-le-Dun,https://apiv2.fftt.com/api/files/424737/REGLEMENT TOURNOI 2025.pdf,
+3015,Tournoi National B du PPC BAVANS,2025-06-15T00:00:00,2025-06-15T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/389999/Règlement tournoi national B 2025 PPC Bavans.pdf,
+3058,Tournoi National B du TT CAPPELLE-EN-PÉVÈLE,2025-06-20T00:00:00,2025-06-22T00:00:00,B,59242,CAPPELLE-EN-PÉVÈLE,https://apiv2.fftt.com/api/files/434159/Réglement Tournoi National B 2025 vDMO-20250223 2.pdf,
+3163,4EME EDITION DU TOURNOI INTER-ENTREPRISES PAR EQUIPE,2025-06-20T00:00:00,2025-06-20T00:00:00,P,17100,SAINTES,https://apiv2.fftt.com/api/files/420080/reglement tournoi 2025 version du 14-2-2025.pdf,
+3170,Tournoi National B de Saint-Orens (31),2025-06-21T00:00:00,2025-06-22T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/424759/Règlement tournoi national 2025.pdf,
+2995,Finales tournoi jeunes,2025-06-21T00:00:00,2025-06-21T00:00:00,P,26270,SAULCE SUR RHONE,,
+3161,Tournoi National de Betton,2025-06-21T00:00:00,2025-06-22T00:00:00,B,35830,Betton,https://apiv2.fftt.com/api/files/415904/Reglement 2024-2025 version 1.pdf,
+3198,Tournoi National Féminin à Saint Etienne,2025-06-21T00:00:00,2025-06-21T00:00:00,B,42100,Saint-Étienne,https://apiv2.fftt.com/api/files/444503/Reglement TOURNOI  NATIONAL FEMININ DE TENNIS DE TABLE.pdf,
+3173,31ème Open du Nice Cavigal Tennis de Table,2025-06-21T00:00:00,2025-06-22T00:00:00,B,06200,Nice,https://apiv2.fftt.com/api/files/433404/Reglement tournoi NationalB 2025.pdf,
+3030,Open National CAM Bordeaux TT 2025,2025-06-21T00:00:00,2025-06-22T00:00:00,B,33200,Bordeaux,https://apiv2.fftt.com/api/files/362046/TN CAM Bordeaux 21 & 22 Juin 2025.pdf,
+3103,Tournoi national B ZUP JEUNES Nogent sur Oise,2025-06-21T00:00:00,2025-06-22T00:00:00,B,60180,Nogent sur Oise,https://apiv2.fftt.com/api/files/424773/Règlement tournoi national B ZUP JEUNES Nogent sur Oise V2.pdf,
+3073,21ème Open Catalan de Tennis de Table,2025-06-22T00:00:00,2025-06-22T00:00:00,B,66350,TOULOUGES,https://apiv2.fftt.com/api/files/413718/Reglement OPEN CATALAN 2025 V2.pdf,
+3202,3èmeTournoi Régional Longuenesse TT,2025-06-28T00:00:00,2025-06-29T00:00:00,R,62219,LONGUENESSE,https://apiv2.fftt.com/api/files/443221/Reglement tournoi régional 2025.pdf,
+3150,24 heures tennis de table du Pallet 20254,2025-06-28T00:00:00,2025-06-29T00:00:00,A,44330,le pallet,https://apiv2.fftt.com/api/files/413529/Reglement 24 Heures tennis de table du Pallet 2025.pdf,
+3154,Tournoi National du TROYES O.S - NOËS 2025,2025-06-28T00:00:00,2025-06-29T00:00:00,B,10000,TROYES,https://apiv2.fftt.com/api/files/433174/Règlement Tournoi TOS 2025.pdf,
+3113,TOURNOI REGIONAL DU TENNIS DE TABLE DE MONTELIER (Drôme),2025-06-28T00:00:00,2025-06-28T00:00:00,R,26120,MONTELIER,https://apiv2.fftt.com/api/files/405396/TTMontelier_reglement2025.pdf,
+3196,Tournoi National Cercle Paul Bert Rennes,2025-06-28T00:00:00,2025-06-29T00:00:00,B,35200,RENNES,https://apiv2.fftt.com/api/files/433860/Règlement Tournoi National 2025 CPB Rapatel.pdf,
+3137,12H DU GBTT 2025,2025-06-28T00:00:00,2025-06-28T00:00:00,R,38190,VILLARD-BONNOT,https://apiv2.fftt.com/api/files/434059/Re-glement du tournoi 2025.pdf,
+2901,TOURNOI NATIONAL B CLERY ST ANDRE,2025-06-28T00:00:00,2025-06-29T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/413722/Règlement 2025.pdf,
+3061,PING-NEMOURS - TOURNOI NATIONAL B ,2025-06-28T00:00:00,2025-06-29T00:00:00,B,77140,NEMOURS,https://apiv2.fftt.com/api/files/412746/TOURNOI PING NEMOURS 2025 N°xxxx-2024-B.pdf,
+3035,TOURNOI NATIONAL B DU SPORT TENNIS DE TABLE DE MÉZÉRIAT,2025-06-28T00:00:00,2025-06-29T00:00:00,B,01660,Mézériat,https://apiv2.fftt.com/api/files/364619/Reglement du tournoi.pdf,
+3186,Tournoi National SQY PING,2025-06-28T00:00:00,2025-06-29T00:00:00,B,78450,VILLEPREUX,https://apiv2.fftt.com/api/files/450062/Règlement - Tournoi national SQY PING 2025.pdf,
+3100,Tournoi Régional de Mions,2025-06-28T00:00:00,2025-06-28T00:00:00,R,69780,MIONS,https://apiv2.fftt.com/api/files/400028/Règlement tournoi Mions 2025 pdf.pdf,
+3188,Tournoi Régional de Bourgoin-Jallieu,2025-06-29T00:00:00,2025-06-29T00:00:00,R,38300,BOURGOIN-JALLIEU,https://apiv2.fftt.com/api/files/428111/Reglement tournoi TTBJ 2025.pdf,
+3193,Tournoi régional Septembre 2025 - La Ville aux Dames,2025-09-06T00:00:00,2025-09-07T00:00:00,R,37700,La Ville aux Dames,https://apiv2.fftt.com/api/files/433857/REGLEMENT Tournoi Septembre 24-25.pdf,
+3179,12ème TOURNOI REGIONAL DU PPCI,2025-11-01T00:00:00,2025-11-02T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/424532/Règlement 12eme tournoi PPCI.pdf,
