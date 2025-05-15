@@ -158,8 +158,13 @@ class PingPocketQuery(object):
         joueurs = []
         for licence in PingPocketQuery._get_list_licences():
             detail = PingPocketQuery._get_licence_details(licence['id'], licence['sex'])
-            joueurs.append(detail)
+            if detail:  # Only add if we successfully got the details
+                joueurs.append(detail)
             time.sleep(2)
+
+        if not joueurs:
+            print("No valid player data found")
+            return pd.DataFrame()
 
         df_joueurs = pd.DataFrame.from_dict(joueurs)
         df_joueurs.set_index('licence', inplace=True)
@@ -185,39 +190,49 @@ class PingPocketQuery(object):
     @staticmethod
     def _get_licence_details(licenceId, sex):
         soup = PingPocketQuery._api_call('licencies/'+licenceId+'?CLUB_ID='+PingPocketQuery.CLUB)
+        if not soup:
+            print(f"Failed to get details for licence {licenceId}")
+            return None
 
-        name = soup.find('h1').text.strip()
-        spans = soup.find('div', class_='info border').findAll('span')
+        try:
+            name = soup.find('h1').text.strip()
+            spans = soup.find('div', class_='info border').findAll('span')
 
-        categorie = spans[0].text.strip()
-        typeLicence = spans[4].text.strip()
+            categorie = spans[0].text.strip()
+            typeLicence = spans[4].text.strip()
 
-        innerContent = soup.find('ul', class_="rounded").findAll('li')
-        pointsMensuels = innerContent[1].find('small').text.strip()
-        if innerContent[2].find('small'):
-            pointsDebutPhase = innerContent[2].find('small').text.strip()
-            progressionMensuelle = innerContent[3].find('small').text.strip()
-            progressionGenerale = innerContent[4].find('small').text.strip()
-        else:
-            pointsDebutPhase = None
-            progressionMensuelle = None
-            progressionGenerale = None
+            innerContent = soup.find('ul', class_="rounded").findAll('li')
+            
+            # Helper function to safely get text from small tag
+            def get_safe_text(element, index):
+                if element and len(element) > index:
+                    small = element[index].find('small')
+                    return small.text.strip() if small else None
+                return None
 
-        return {
-            'licence': licenceId,
-            'typeLicence': typeLicence,
-            'sex': 'F' if sex == 'female' else 'H',
-            'name': name,
-            'categorie': categorie,
-            'pointsDebutPhase': pointsDebutPhase,
-            'pointsMensuels': pointsMensuels,
-            'progressionMensuelle': progressionMensuelle,
-            'progressionGenerale': progressionGenerale
-        }
+            pointsMensuels = get_safe_text(innerContent, 1)
+            pointsDebutPhase = get_safe_text(innerContent, 2)
+            progressionMensuelle = get_safe_text(innerContent, 3)
+            progressionGenerale = get_safe_text(innerContent, 4)
+
+            return {
+                'licence': licenceId,
+                'typeLicence': typeLicence,
+                'sex': 'F' if sex == 'female' else 'H',
+                'name': name,
+                'categorie': categorie,
+                'pointsDebutPhase': pointsDebutPhase,
+                'pointsMensuels': pointsMensuels,
+                'progressionMensuelle': progressionMensuelle,
+                'progressionGenerale': progressionGenerale
+            }
+        except Exception as e:
+            print(f"Error processing licence {licenceId}: {str(e)}")
+            return None
             
 
     @staticmethod
-    def _api_call(url, max_retries=3, initial_delay=2):
+    def _api_call(url, max_retries=3, initial_delay=1):
         print(f"Calling API: {url}")
         headers = {
             "X-Requested-With": "XMLHttpRequest",
@@ -233,8 +248,6 @@ class PingPocketQuery(object):
         
         for attempt in range(max_retries):
             try:
-                # Add a delay between requests
-                time.sleep(initial_delay)
                 
                 response = PingPocketQuery.SCRAPER.get('https://www.pingpocket.fr/app/fftt/' + url, 
                                   headers=headers)
