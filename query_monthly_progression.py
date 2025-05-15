@@ -12,6 +12,7 @@ class PingPocketQuery(object):
 
     CLUB = '08940073'  # USFTT 08940073 / Longvic: 02210081
     ONLINE = True
+    SESSION = requests.Session()
 
     @staticmethod
     def run():
@@ -228,11 +229,18 @@ class PingPocketQuery(object):
         # Add a delay between requests
         time.sleep(2)
         
-        response = requests.get('https://www.pingpocket.fr/app/fftt/' + url, 
+        # First, visit the main page to get cookies
+        if not PingPocketQuery.SESSION.cookies:
+            print("Getting initial cookies...")
+            PingPocketQuery.SESSION.get('https://www.pingpocket.fr/app/fftt/', headers=headers)
+            time.sleep(2)
+        
+        response = PingPocketQuery.SESSION.get('https://www.pingpocket.fr/app/fftt/' + url, 
                               headers=headers)
         
         print(f"Response status code: {response.status_code}")
         print(f"Response headers: {response.headers}")
+        print(f"Cookies: {PingPocketQuery.SESSION.cookies.get_dict()}")
         
         if response.status_code == 200:
             return BeautifulSoup(response.text, 'html.parser')
