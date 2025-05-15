@@ -212,8 +212,18 @@ class PingPocketQuery(object):
     @staticmethod
     def _api_call(url):
         print(url)
+        headers = {
+            "X-Requested-With": "XMLHttpRequest",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Cache-Control": "max-age=0"
+        }
         response = requests.get('https://www.pingpocket.fr/app/fftt/' + url, 
-                                headers={"X-Requested-With":"XMLHttpRequest"})
+                              headers=headers)
 
         if response.status_code == 200:
             return BeautifulSoup(response.text, 'html.parser')
