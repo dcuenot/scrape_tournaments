@@ -124,8 +124,8 @@ class PingPocketQuery(object):
                         date_cell = cells[column_index]
                         if date_cell:
                             date_text = date_cell.text.strip()
-                            # Extract just the date part (e.g., '13 Mai' -> '13 Mai')
-                            date_text = date_text.split('.')[0].strip()
+                            # Extract just the number (e.g., '13 Mai' -> '13')
+                            date_text = date_text.split()[0].strip()
                             return date_text
         return None
     
