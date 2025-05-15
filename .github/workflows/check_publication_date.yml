@@ -66,10 +66,13 @@ jobs:
                     cells = row.find_all('td')
                     # Get the column index for current month
                     column_index = MONTH_TO_COLUMN.get(current_month)
+                    print(column_index)
                     if column_index is not None and len(cells) > column_index:
                         date_cell = cells[column_index]
+                        print(date_cell)
                         if date_cell:
                             date_text = date_cell.text.strip()
+                            print(date_text)
                             # Extract just the date part (e.g., '13 Mai' -> '13 Mai')
                             date_text = date_text.split('.')[0].strip()
                             print(f'::set-output name=pub_date::{date_text}')
