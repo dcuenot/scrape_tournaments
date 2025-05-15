@@ -218,7 +218,7 @@ class PingPocketQuery(object):
             
 
     @staticmethod
-    def _api_call(url):
+    def _api_call(url, max_retries=3, initial_delay=1):
         print(f"Calling API: {url}")
         headers = {
             "X-Requested-With": "XMLHttpRequest",
@@ -232,20 +232,40 @@ class PingPocketQuery(object):
         }
         print(f"Using headers: {headers}")
         
-        # Add a delay between requests
-        time.sleep(2)
-        
-        response = PingPocketQuery.SCRAPER.get('https://www.pingpocket.fr/app/fftt/' + url, 
-                              headers=headers)
-        
-        print(f"Response status code: {response.status_code}")
-        print(f"Response headers: {response.headers}")
-        
-        if response.status_code == 200:
-            return BeautifulSoup(response.text, 'html.parser')
-        else:
-            print(f"Erreur lors de la récupération de la page : {response.status_code}")
-            print(f"Response content: {response.text}")
+        for attempt in range(max_retries):
+            try:
+                # Add a delay between requests
+                time.sleep(2)
+                
+                response = PingPocketQuery.SCRAPER.get('https://www.pingpocket.fr/app/fftt/' + url, 
+                                  headers=headers)
+                
+                print(f"Response status code: {response.status_code}")
+                print(f"Response headers: {response.headers}")
+                
+                if response.status_code == 200:
+                    return BeautifulSoup(response.text, 'html.parser')
+                else:
+                    print(f"Erreur lors de la récupération de la page : {response.status_code}")
+                    print(f"Response content: {response.text}")
+                    
+                    if attempt < max_retries - 1:
+                        delay = initial_delay * (2 ** attempt)  # Exponential backoff
+                        print(f"Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})")
+                        time.sleep(delay)
+                    else:
+                        print("Max retries reached. Giving up.")
+                        return None
+                        
+            except Exception as e:
+                print(f"Exception occurred: {str(e)}")
+                if attempt < max_retries - 1:
+                    delay = initial_delay * (2 ** attempt)
+                    print(f"Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})")
+                    time.sleep(delay)
+                else:
+                    print("Max retries reached. Giving up.")
+                    return None
 
 
 if __name__ == '__main__':
