@@ -128,6 +128,8 @@ class PingPocketQuery(object):
                             date_text = date_text.split()[0].strip()
                             # Format day with 2 digits (e.g., '5' -> '05')
                             date_text = date_text.zfill(2)
+                            # Convert month to string and format with 2 digits
+                            current_month = str(current_month).zfill(2)
                             return f"{datetime.now().year}-{current_month}-{date_text}"
         return None
     
