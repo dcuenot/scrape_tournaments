@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 pandas
+        pip install -r requirements.txt
     
     - name: Get current month's publication date
       id: get_date
@@ -37,11 +37,11 @@ jobs:
         # Convert to datetime
         pub_datetime=$(date -d "$pub_date" +%s)
         
-        # Get tomorrow's date
-        tomorrow=$(date -d "2025-05-13" +%s)
+        # Get yesterday's date
+        yesterday=$(date -d "2025-05-13" +%s)
         
         # Compare dates
-        if [ $pub_datetime -eq $tomorrow ]; then
+        if [ $pub_datetime -eq $yesterday ]; then
           echo "should_run=true" >> $GITHUB_OUTPUT
         else
           echo "should_run=false" >> $GITHUB_OUTPUT
