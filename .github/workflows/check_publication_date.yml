@@ -64,7 +64,7 @@ jobs:
         pub_datetime=$(date -d "$pub_date" +%s)
         
         # Get tomorrow's date
-        tomorrow=$(date -d "tomorrow" +%s)
+        tomorrow=$(date -d "2025-05-13" +%s)
         
         # Compare dates
         if [ $pub_datetime -eq $tomorrow ]; then
