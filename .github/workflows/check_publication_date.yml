@@ -25,75 +25,20 @@ jobs:
     - name: Get current month's publication date
       id: get_date
       run: |
-        python -c "
-        import requests
-        from bs4 import BeautifulSoup
-        from datetime import datetime
-        
-        # Mapping of months to column indices (0-based)
-        MONTH_TO_COLUMN = {
-            1: 4,   # Janvier -> 1ère colonne
-            2: 5,   # Février -> 2ème colonne
-            3: 6,   # Mars -> 3ème colonne
-            4: 7,   # Avril -> 4ème colonne
-            5: 8,   # Mai -> 9ème colonne
-            6: 9,   # Juin -> 10ème colonne
-            7: 10,  # Juillet -> 11ème colonne
-            8: 11,  # Août -> 12ème colonne
-            9: 12,  # Septembre -> 13ème colonne
-            10: 1, # Octobre -> 14ème colonne
-            11: 2, # Novembre -> 15ème colonne
-            12: 3  # Décembre -> 16ème colonne
-        }
-        
-        # Get the webpage content
-        url = 'https://www.fftt.com/site/articles/calendrier-publications'
-        response = requests.get(url)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Find the table with publication dates
-        table = soup.find('table')
-        if table:
-            # Get current month
-            current_month = datetime.now().month
-            
-            # Find all rows in the table
-            rows = table.find_all('tr')
-            for row in rows:
-                # Look for the row containing 'Non Premium'
-                if 'Non Premium' in row.text:
-                    # Get all cells in this row
-                    cells = row.find_all('td')
-                    # Get the column index for current month
-                    column_index = MONTH_TO_COLUMN.get(current_month)
-                    print(column_index)
-                    print(len(cells))
-                    if column_index is not None and len(cells) > column_index:
-                        date_cell = cells[column_index]
-                        print(date_cell)
-                        if date_cell:
-                            date_text = date_cell.text.strip()
-                            print(date_text)
-                            # Extract just the date part (e.g., '13 Mai' -> '13 Mai')
-                            date_text = date_text.split('.')[0].strip()
-                            print(f'::set-output name=pub_date::{date_text}')
-                            break
-        "
+        PUB_DATE=$(python -c "from query_monthly_progression import get_publication_date; print(get_publication_date())")
+        echo "pub_date=$PUB_DATE" >> $GITHUB_OUTPUT
     
     - name: Check if we should run progression script
       id: check_date
       run: |
         # Get the publication date from previous step
         pub_date="${{ steps.get_date.outputs.pub_date }}"
-        echo $pub_date
         
         # Convert to datetime
         pub_datetime=$(date -d "$pub_date" +%s)
-        echo $pub_datetime
         
         # Get tomorrow's date
         tomorrow=$(date -d "2025-05-13" +%s)
-        echo $tomorrow
         
         # Compare dates
         if [ $pub_datetime -eq $tomorrow ]; then
