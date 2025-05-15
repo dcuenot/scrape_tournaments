@@ -67,6 +67,7 @@ jobs:
                     # Get the column index for current month
                     column_index = MONTH_TO_COLUMN.get(current_month)
                     print(column_index)
+                    print(len(cells))
                     if column_index is not None and len(cells) > column_index:
                         date_cell = cells[column_index]
                         print(date_cell)
