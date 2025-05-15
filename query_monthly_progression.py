@@ -211,7 +211,7 @@ class PingPocketQuery(object):
 
     @staticmethod
     def _api_call(url):
-        print(url)
+        print(f"Calling API: {url}")
         headers = {
             "X-Requested-With": "XMLHttpRequest",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -220,15 +220,25 @@ class PingPocketQuery(object):
             "Accept-Encoding": "gzip, deflate, br",
             "Connection": "keep-alive",
             "Upgrade-Insecure-Requests": "1",
-            "Cache-Control": "max-age=0"
+            "Cache-Control": "max-age=0",
+            "Referer": "https://www.pingpocket.fr/app/fftt/"
         }
+        print(f"Using headers: {headers}")
+        
+        # Add a delay between requests
+        time.sleep(2)
+        
         response = requests.get('https://www.pingpocket.fr/app/fftt/' + url, 
                               headers=headers)
-
+        
+        print(f"Response status code: {response.status_code}")
+        print(f"Response headers: {response.headers}")
+        
         if response.status_code == 200:
             return BeautifulSoup(response.text, 'html.parser')
         else:
             print(f"Erreur lors de la récupération de la page : {response.status_code}")
+            print(f"Response content: {response.text}")
 
 
 if __name__ == '__main__':
