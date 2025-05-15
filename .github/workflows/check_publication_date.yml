@@ -59,15 +59,15 @@ jobs:
       run: |
         # Get the publication date from previous step
         pub_date="${{ steps.get_date.outputs.pub_date }}"
-        print(pub_date)
+        echo $pub_date
         
         # Convert to datetime
         pub_datetime=$(date -d "$pub_date" +%s)
-        print(pub_datetime)
+        echo $pub_datetime
         
         # Get tomorrow's date
         tomorrow=$(date -d "2025-05-13" +%s)
-        print(tomorrow)
+        echo $tomorrow
         
         # Compare dates
         if [ $pub_datetime -eq $tomorrow ]; then
