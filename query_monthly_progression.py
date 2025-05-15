@@ -5,6 +5,7 @@ import time
 import pandas as pd
 import warnings
 from datetime import datetime
+import cloudscraper
 
 warnings.simplefilter(action='ignore')
 
@@ -12,7 +13,13 @@ class PingPocketQuery(object):
 
     CLUB = '08940073'  # USFTT 08940073 / Longvic: 02210081
     ONLINE = True
-    SESSION = requests.Session()
+    SCRAPER = cloudscraper.create_scraper(
+        browser={
+            'browser': 'chrome',
+            'platform': 'windows',
+            'mobile': False
+        }
+    )
 
     @staticmethod
     def run():
@@ -215,7 +222,6 @@ class PingPocketQuery(object):
         print(f"Calling API: {url}")
         headers = {
             "X-Requested-With": "XMLHttpRequest",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
             "Accept-Language": "fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3",
             "Accept-Encoding": "identity",
@@ -229,18 +235,11 @@ class PingPocketQuery(object):
         # Add a delay between requests
         time.sleep(2)
         
-        # First, visit the main page to get cookies
-        if not PingPocketQuery.SESSION.cookies:
-            print("Getting initial cookies...")
-            PingPocketQuery.SESSION.get('https://www.pingpocket.fr/app/fftt/', headers=headers)
-            time.sleep(2)
-        
-        response = PingPocketQuery.SESSION.get('https://www.pingpocket.fr/app/fftt/' + url, 
+        response = PingPocketQuery.SCRAPER.get('https://www.pingpocket.fr/app/fftt/' + url, 
                               headers=headers)
         
         print(f"Response status code: {response.status_code}")
         print(f"Response headers: {response.headers}")
-        print(f"Cookies: {PingPocketQuery.SESSION.cookies.get_dict()}")
         
         if response.status_code == 200:
             return BeautifulSoup(response.text, 'html.parser')
