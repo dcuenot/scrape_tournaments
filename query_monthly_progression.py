@@ -126,7 +126,9 @@ class PingPocketQuery(object):
                             date_text = date_cell.text.strip()
                             # Extract just the number (e.g., '13 Mai' -> '13')
                             date_text = date_text.split()[0].strip()
-                            return date_text
+                            # Format day with 2 digits (e.g., '5' -> '05')
+                            date_text = date_text.zfill(2)
+                            return f"{datetime.now().year}-{current_month}-{date_text}"
         return None
     
     @staticmethod
