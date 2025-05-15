@@ -169,7 +169,6 @@ class PingPocketQuery(object):
     @staticmethod
     def _get_list_licences():
         soup = PingPocketQuery._api_call('clubs/'+ PingPocketQuery.CLUB +'/licencies?SORT=CATEGORY')
-        print(soup)
         innerContent = soup.find('ul', class_="edgetoedge")
         
         res = []
