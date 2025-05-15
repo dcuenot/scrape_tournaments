@@ -218,7 +218,7 @@ class PingPocketQuery(object):
             
 
     @staticmethod
-    def _api_call(url, max_retries=3, initial_delay=1):
+    def _api_call(url, max_retries=3, initial_delay=2):
         print(f"Calling API: {url}")
         headers = {
             "X-Requested-With": "XMLHttpRequest",
@@ -235,7 +235,7 @@ class PingPocketQuery(object):
         for attempt in range(max_retries):
             try:
                 # Add a delay between requests
-                time.sleep(2)
+                time.sleep(initial_delay)
                 
                 response = PingPocketQuery.SCRAPER.get('https://www.pingpocket.fr/app/fftt/' + url, 
                                   headers=headers)
