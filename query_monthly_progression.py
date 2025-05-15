@@ -79,6 +79,57 @@ class PingPocketQuery(object):
             veteran_h.to_excel(writer, sheet_name='Veteran H')
 
     @staticmethod
+    def get_publication_date():
+        """
+        Get the publication date for non-premium users from the FFTT website.
+        Returns the date as a string in the format 'DD Month' (e.g., '13 Mai').
+        """
+        # Mapping of months to column indices (0-based)
+        MONTH_TO_COLUMN = {
+            1: 4,   # Janvier -> 5ème colonne
+            2: 5,   # Février -> 6ème colonne
+            3: 6,   # Mars -> 7ème colonne
+            4: 7,   # Avril -> 8ème colonne
+            5: 8,   # Mai -> 9ème colonne
+            6: 9,   # Juin -> 10ème colonne
+            7: 10,  # Juillet -> 11ème colonne
+            8: 11,  # Août -> 12ème colonne
+            9: 12,  # Septembre -> 13ème colonne
+            10: 1,  # Octobre -> 2ème colonne
+            11: 2,  # Novembre -> 3ème colonne
+            12: 3   # Décembre -> 4ème colonne
+        }
+        
+        # Get the webpage content
+        url = 'https://www.fftt.com/site/articles/calendrier-publications'
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Find the table with publication dates
+        table = soup.find('table')
+        if table:
+            # Get current month
+            current_month = datetime.now().month
+            
+            # Find all rows in the table
+            rows = table.find_all('tr')
+            for row in rows:
+                # Look for the row containing 'Non Premium'
+                if 'Non Premium' in row.text:
+                    # Get all cells in this row
+                    cells = row.find_all('th')
+                    # Get the column index for current month
+                    column_index = MONTH_TO_COLUMN.get(current_month)
+                    if column_index is not None and len(cells) > column_index:
+                        date_cell = cells[column_index]
+                        if date_cell:
+                            date_text = date_cell.text.strip()
+                            # Extract just the date part (e.g., '13 Mai' -> '13 Mai')
+                            date_text = date_text.split('.')[0].strip()
+                            return date_text
+        return None
+    
+    @staticmethod
     def _filter_by_categorie(df, categorie, sex):
         print()
         print('***** ' + categorie + ' - ' + sex)
@@ -164,60 +215,6 @@ class PingPocketQuery(object):
         else:
             print(f"Erreur lors de la récupération de la page : {response.status_code}")
 
-def get_publication_date():
-    """
-    Get the publication date for non-premium users from the FFTT website.
-    Returns the date as a string in the format 'DD Month' (e.g., '13 Mai').
-    """
-    # Mapping of months to column indices (0-based)
-    MONTH_TO_COLUMN = {
-        1: 4,   # Janvier -> 5ème colonne
-        2: 5,   # Février -> 6ème colonne
-        3: 6,   # Mars -> 7ème colonne
-        4: 7,   # Avril -> 8ème colonne
-        5: 8,   # Mai -> 9ème colonne
-        6: 9,   # Juin -> 10ème colonne
-        7: 10,  # Juillet -> 11ème colonne
-        8: 11,  # Août -> 12ème colonne
-        9: 12,  # Septembre -> 13ème colonne
-        10: 1,  # Octobre -> 2ème colonne
-        11: 2,  # Novembre -> 3ème colonne
-        12: 3   # Décembre -> 4ème colonne
-    }
-    
-    # Get the webpage content
-    url = 'https://www.fftt.com/site/articles/calendrier-publications'
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    
-    # Find the table with publication dates
-    table = soup.find('table')
-    if table:
-        # Get current month
-        current_month = datetime.now().month
-        
-        # Find all rows in the table
-        rows = table.find_all('tr')
-        for row in rows:
-            # Look for the row containing 'Non Premium'
-            if 'Non Premium' in row.text:
-                # Get all cells in this row
-                cells = row.find_all('td')
-                # Get the column index for current month
-                column_index = MONTH_TO_COLUMN.get(current_month)
-                if column_index is not None and len(cells) > column_index:
-                    date_cell = cells[column_index]
-                    if date_cell:
-                        date_text = date_cell.text.strip()
-                        # Extract just the date part (e.g., '13 Mai' -> '13 Mai')
-                        date_text = date_text.split('.')[0].strip()
-                        return date_text
-    return None
 
 if __name__ == '__main__':
     PingPocketQuery().run()
-    date = get_publication_date()
-    if date:
-        print(f"Publication date: {date}")
-    else:
-        print("Could not find publication date")

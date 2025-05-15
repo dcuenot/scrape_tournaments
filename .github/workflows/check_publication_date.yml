@@ -25,7 +25,7 @@ jobs:
     - name: Get current month's publication date
       id: get_date
       run: |
-        PUB_DATE=$(python -c "from query_monthly_progression import get_publication_date; print(get_publication_date())")
+        PUB_DATE=$(python -c "from query_monthly_progression import PingPocketQuery; print(PingPocketQuery.get_publication_date())")
         echo "pub_date=$PUB_DATE" >> $GITHUB_OUTPUT
     
     - name: Check if we should run progression script
