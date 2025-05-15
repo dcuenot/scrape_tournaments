@@ -32,18 +32,18 @@ jobs:
         
         # Mapping of months to column indices (0-based)
         MONTH_TO_COLUMN = {
-            1: 0,   # Janvier -> 1ère colonne
-            2: 1,   # Février -> 2ème colonne
-            3: 2,   # Mars -> 3ème colonne
-            4: 3,   # Avril -> 4ème colonne
+            1: 4,   # Janvier -> 1ère colonne
+            2: 5,   # Février -> 2ème colonne
+            3: 6,   # Mars -> 3ème colonne
+            4: 7,   # Avril -> 4ème colonne
             5: 8,   # Mai -> 9ème colonne
             6: 9,   # Juin -> 10ème colonne
             7: 10,  # Juillet -> 11ème colonne
             8: 11,  # Août -> 12ème colonne
             9: 12,  # Septembre -> 13ème colonne
-            10: 13, # Octobre -> 14ème colonne
-            11: 14, # Novembre -> 15ème colonne
-            12: 15  # Décembre -> 16ème colonne
+            10: 1, # Octobre -> 14ème colonne
+            11: 2, # Novembre -> 15ème colonne
+            12: 3  # Décembre -> 16ème colonne
         }
         
         # Get the webpage content
