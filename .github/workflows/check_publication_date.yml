@@ -38,9 +38,6 @@ jobs:
         # Find the table with publication dates
         table = soup.find('table')
         if table:
-            # Get current month (1-based index)
-            current_month = datetime.now().month
-            
             # Find all rows in the table
             rows = table.find_all('tr')
             for row in rows:
@@ -48,12 +45,12 @@ jobs:
                 if 'Non Premium' in row.text:
                     # Get all cells in this row
                     cells = row.find_all('td')
-                    if len(cells) > current_month:
-                        # Get the date for current month (index 1-based)
-                        date_cell = cells[current_month]
+                    # May is in the 9th column (index 8)
+                    if len(cells) > 8:
+                        date_cell = cells[8]
                         if date_cell:
                             date_text = date_cell.text.strip()
-                            # Extract just the date part (e.g., '15 oct.' -> '15 oct')
+                            # Extract just the date part (e.g., '13 Mai' -> '13 Mai')
                             date_text = date_text.split('.')[0].strip()
                             print(f'::set-output name=pub_date::{date_text}')
                             break
