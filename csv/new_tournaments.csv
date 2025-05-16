@@ -1,2 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3201,12ème Tournoi Régional Noël CHIRAC,2025-06-15T00:00:00,2025-06-15T00:00:00,R,34260,Le Bousquet d'Orb,https://apiv2.fftt.com/api/files/453423/Règlementation Tournoi FRBO du  15 juin 2025 VER2.pdf,718 km (7 hours 6 mins)
+3144,OPEN FEMININ WHITI COURTAGES,2025-06-08T00:00:00,2025-06-08T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/413585/Réglement Open Féminin 2025 V2B.pdf,371 km (3 hours 49 mins)
+3183,Tournoi National de US JOIGNY TT 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,89300,JOIGNY,https://apiv2.fftt.com/api/files/424653/Reglement Tournoi national PDF.pdf,158 km (1 hour 46 mins)
+3185,TOURNOI_LA_FERRIERE_24/25,2025-06-28T00:00:00,2025-06-29T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/450312/Règlement Tournoi Nat B 28&29-06-2025.pdf,423 km (4 hours 9 mins)
