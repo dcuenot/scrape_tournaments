@@ -57,14 +57,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3115,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2025-06-07T00:00:00,2025-06-07T00:00:00,R,38290,La Verpillière,https://apiv2.fftt.com/api/files/408555/REGLEMENT TOURNOI 2025.pdf,
 3203,Tournoi national B de Flers (61),2025-06-08T00:00:00,2025-06-09T00:00:00,B,61100,Flers,https://apiv2.fftt.com/api/files/444684/Règlement tournoi 2025 TTFLERS.pdf,
 3174,11° Tournoi National ASSUP Fos sur Mer,2025-06-08T00:00:00,2025-06-08T00:00:00,B,13270,Fos sur Mer,https://apiv2.fftt.com/api/files/422026/Réglement Tournoi ASSUP 2025.pdf,
-3144,OPEN FEMININ WHITI COURTAGES,2025-06-08T00:00:00,2025-06-08T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/413585/Réglement Open Féminin 2025 V2B.pdf,371 km (3 hours 49 mins)
+3144,OPEN FEMININ WHITI COURTAGES,2025-06-08T00:00:00,2025-06-08T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/413585/Réglement Open Féminin 2025 V2B.pdf,
 3139,8ème tournoi national B du TT Fougères/Javené/Lécousse,2025-06-08T00:00:00,2025-06-09T00:00:00,B,35133,JAVENE,https://apiv2.fftt.com/api/files/412297/Règlement-Tournoi-08-09-juin-2025(1).pdf,
 3132,Tournoi National B - Faches-Thumesnil TT,2025-06-13T00:00:00,2025-06-15T00:00:00,B,59155,Faches-Thumesnil,https://apiv2.fftt.com/api/files/411108/Règlement tournoi Faches 2025.pdf,
 3156,NANTES SAINT JO TENNIS DE TABLE 2025,2025-06-13T00:00:00,2025-06-15T00:00:00,B,44300,NANTES,https://apiv2.fftt.com/api/files/451153/NSJTT-tournoi_National_2025_rglt.pdf,
 3146,TOURNOI NATIONAL de TENNIS DE TABLE TRIEL SUR SEINE,2025-06-14T00:00:00,2025-06-15T00:00:00,B,78510,TRIEL SUR SEINE,https://apiv2.fftt.com/api/files/412735/Reglement tournoi TTT vfinal.pdf,
 3003,TOURNOI NATIONAL S.A.MERIGNAC,2025-06-14T00:00:00,2025-06-14T00:00:00,B,33700,merignac,https://apiv2.fftt.com/api/files/344981/Tournoi sam reglement.pdf,
 3217,tournoi departemental US saint-maur,2025-06-14T00:00:00,2025-06-14T00:00:00,D,36250,saint maur,,
-3183,Tournoi National de US JOIGNY TT 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,89300,JOIGNY,https://apiv2.fftt.com/api/files/424653/Reglement Tournoi national PDF.pdf,158 km (1 hour 46 mins)
+3183,Tournoi National de US JOIGNY TT 2025,2025-06-14T00:00:00,2025-06-15T00:00:00,B,89300,JOIGNY,https://apiv2.fftt.com/api/files/424653/Reglement Tournoi national PDF.pdf,
 3068,Tournoi GÉRARD CATEL,2025-06-14T00:00:00,2025-06-14T00:00:00,R,80630,Beauval,https://apiv2.fftt.com/api/files/400086/Règlement tournoi .pdf,
 3166,Tournoi National B Saint-Rémy-Chevreuse-Tennis de Table,2025-06-14T00:00:00,2025-06-15T00:00:00,B,78470,ST REMY LES CHEVREUSE,https://apiv2.fftt.com/api/files/444479/SRCTT_Réglement_Tournoi_2025-06-2.pdf,
 3195,"TOURNOI NATIONAL D'EZY SUR EURE ""Challenge Dominique Verdier""",2025-06-14T00:00:00,2025-06-14T00:00:00,B,27530,Ezy Sur Eure,https://apiv2.fftt.com/api/files/433855/Règlement_Tournoi_2025.pdf,
@@ -97,7 +97,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 2901,TOURNOI NATIONAL B CLERY ST ANDRE,2025-06-28T00:00:00,2025-06-29T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/413722/Règlement 2025.pdf,
 3100,Tournoi Régional de Mions,2025-06-28T00:00:00,2025-06-28T00:00:00,R,69780,MIONS,https://apiv2.fftt.com/api/files/400028/Règlement tournoi Mions 2025 pdf.pdf,
 3061,PING-NEMOURS - TOURNOI NATIONAL B ,2025-06-28T00:00:00,2025-06-29T00:00:00,B,77140,NEMOURS,https://apiv2.fftt.com/api/files/412746/TOURNOI PING NEMOURS 2025 N°xxxx-2024-B.pdf,
-3185,TOURNOI_LA_FERRIERE_24/25,2025-06-28T00:00:00,2025-06-29T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/450312/Règlement Tournoi Nat B 28&29-06-2025.pdf,423 km (4 hours 9 mins)
+3185,TOURNOI_LA_FERRIERE_24/25,2025-06-28T00:00:00,2025-06-29T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/450312/Règlement Tournoi Nat B 28&29-06-2025.pdf,
 3186,Tournoi National SQY PING,2025-06-28T00:00:00,2025-06-29T00:00:00,B,78450,VILLEPREUX,https://apiv2.fftt.com/api/files/450062/Règlement - Tournoi national SQY PING 2025.pdf,
 3035,TOURNOI NATIONAL B DU SPORT TENNIS DE TABLE DE MÉZÉRIAT,2025-06-28T00:00:00,2025-06-29T00:00:00,B,01660,Mézériat,https://apiv2.fftt.com/api/files/364619/Reglement du tournoi.pdf,
 3188,Tournoi Régional de Bourgoin-Jallieu,2025-06-29T00:00:00,2025-06-29T00:00:00,R,38300,BOURGOIN-JALLIEU,https://apiv2.fftt.com/api/files/428111/Reglement tournoi TTBJ 2025.pdf,
