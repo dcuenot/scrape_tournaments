@@ -1,10 +1,8 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3188,Tournoi Régional de Bourgoin-Jallieu,2025-06-29T00:00:00,2025-06-29T00:00:00,R,38300,BOURGOIN-JALLIEU,https://apiv2.fftt.com/api/files/428111/Reglement tournoi TTBJ 2025.pdf,
-3240,Tournoi départemental gamardais,2025-06-29T00:00:00,2025-06-29T00:00:00,D,40380,"40380 Gamarde-les-Bains, France",https://apiv2.fftt.com/api/files/466342/REGLEMENT TOURNOI DEPARTEMENTAL DE TENNIS DE TABLE 2025.pdf,
 3230,6 ème tournoi du PPCWattignies,2025-08-29T00:00:00,2025-08-31T00:00:00,B,59139,Wattignies,https://apiv2.fftt.com/api/files/465676/Reglement Tournoi 2025 National B PPCW 6ème édition.pdf,
 3207,Internationaux Jeunes de Charleville Mézières (IJCM),2025-08-30T00:00:00,2025-08-31T00:00:00,I,08000,CHARLEVILLE-MEZIERES,https://apiv2.fftt.com/api/files/444435/2025@IJCM_reglement.pdf,
-3209,11 eme tournoi national de chatenois les forges ,2025-09-06T00:00:00,2025-09-07T00:00:00,B,90700,CHATENOIS-LES-FORGES,https://apiv2.fftt.com/api/files/467097/règlement tournoi 2025.pdf,
 3193,Tournoi régional Septembre 2025 - La Ville aux Dames,2025-09-06T00:00:00,2025-09-07T00:00:00,R,37700,La Ville aux Dames,https://apiv2.fftt.com/api/files/433857/REGLEMENT Tournoi Septembre 24-25.pdf,
+3209,11 eme tournoi national de chatenois les forges ,2025-09-06T00:00:00,2025-09-07T00:00:00,B,90700,CHATENOIS-LES-FORGES,https://apiv2.fftt.com/api/files/467097/règlement tournoi 2025.pdf,
 3226,Tournoi national B de Maisons Laffitte,2025-09-06T00:00:00,2025-09-07T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/464139/Reglement tournoi national Maisons-Laffitte 06-07.09.25.pdf,
 3243,TPURNOI REGIONAL US C BOIS GUILLAUME,2025-09-13T00:00:00,2025-09-14T00:00:00,R,76230,BOIS GUILLAUME,https://apiv2.fftt.com/api/files/468518/Règlement tournoi 2025_USCBTT.pdf,
 3228,2ème tournoi départemental de Longueil Ste Marie,2025-09-14T00:00:00,2025-09-14T00:00:00,D,60126,Longueil Ste Marie,https://apiv2.fftt.com/api/files/465028/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE-2.pdf,
