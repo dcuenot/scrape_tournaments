@@ -1,3 +1,7 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3181,Grand Prix Le Gaulois,2025-09-06T00:00:00,2025-09-07T00:00:00,I,49100,ANGERS,https://apiv2.fftt.com/api/files/468976/Règlement du Grand Prix International Le Gaulois.pdf_compressed.pdf,302 km (2 hours 53 mins)
-3224,TOURNOI NATIONAL B du TT NIEPPE,2025-09-06T00:00:00,2025-09-07T00:00:00,B,59850,NIEPPE,https://apiv2.fftt.com/api/files/465692/Reglement TT Nieppe 2025.pdf,237 km (2 hours 34 mins)
+3227,cabourg tennis de table,2025-09-07T00:00:00,2025-09-07T00:00:00,B,14390,cabourg,https://apiv2.fftt.com/api/files/465016/tournoi 2025.pdf,237 km (2 hours 29 mins)
+3233,Tournoi National B de SUCY EN BRIE,2025-09-13T00:00:00,2025-09-14T00:00:00,B,94370,SUCY EN BRIE,https://apiv2.fftt.com/api/files/465190/ReglementTournoi25.pdf,21.6 km (27 mins)
+3225,10ème Tournoi National B de Tennis de Table de Fontenay le Comte,2025-09-13T00:00:00,2025-09-14T00:00:00,B,85200,FONTENAY LE COMTE,https://apiv2.fftt.com/api/files/468703/Réglement tournoi national B -10ème 13 et 14 sept 2025-compressé.pdf,461 km (4 hours 20 mins)
+3117,LOT OF SPIN ,2025-09-13T00:00:00,2025-09-14T00:00:00,B,46130,BRETENOUX,https://apiv2.fftt.com/api/files/469440/DEF2025 REGLEMENT TOURNOI NATIONAL B.pdf,535 km (5 hours 26 mins)
+3205,13ème Tournoi du PAYS COURVILLOIS,2025-09-20T00:00:00,2025-09-21T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/444345/Microsoft Word - Réglement 2025.pdf,118 km (1 hour 29 mins)
+3239,Tournoi National du TT Seyssinois,2025-09-20T00:00:00,2025-09-21T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/469276/Règlement TTS 2025 avec attest.JA.pdf,583 km (5 hours 29 mins)
