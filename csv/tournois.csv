@@ -1,8 +1,8 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
 3230,6 ème tournoi du PPCWattignies,2025-08-29T00:00:00,2025-08-31T00:00:00,B,59139,Wattignies,https://apiv2.fftt.com/api/files/465676/Reglement Tournoi 2025 National B PPCW 6ème édition.pdf,
 3207,Internationaux Jeunes de Charleville Mézières (IJCM),2025-08-30T00:00:00,2025-08-31T00:00:00,I,08000,CHARLEVILLE-MEZIERES,https://apiv2.fftt.com/api/files/444435/2025@IJCM_reglement.pdf,
-3248,Open de Marseille 2025,2025-08-31T00:00:00,2025-08-31T00:00:00,B,13015,Marseille,https://apiv2.fftt.com/api/files/469239/Règlement Open de Marseille 2025 avant homologation 28062025.pdf,801 km (7 hours 40 mins)
-3232,TOURNOI NATIONAL DE LA CITE DU CRISTAL,2025-09-06T00:00:00,2025-09-07T00:00:00,B,54120,BACCARAT,https://apiv2.fftt.com/api/files/469605/reglement.pdf,381 km (4 hours 12 mins)
+3248,Open de Marseille 2025,2025-08-31T00:00:00,2025-08-31T00:00:00,B,13015,Marseille,https://apiv2.fftt.com/api/files/469239/Règlement Open de Marseille 2025 avant homologation 28062025.pdf,
+3232,TOURNOI NATIONAL DE LA CITE DU CRISTAL,2025-09-06T00:00:00,2025-09-07T00:00:00,B,54120,BACCARAT,https://apiv2.fftt.com/api/files/469605/reglement.pdf,
 3226,Tournoi national B de Maisons Laffitte,2025-09-06T00:00:00,2025-09-07T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/464139/Reglement tournoi national Maisons-Laffitte 06-07.09.25.pdf,
 3224,TOURNOI NATIONAL B du TT NIEPPE,2025-09-06T00:00:00,2025-09-07T00:00:00,B,59850,NIEPPE,https://apiv2.fftt.com/api/files/465692/Reglement TT Nieppe 2025.pdf,
 3222,TOURNOI DE VILLENAVE D'ORNON,2025-09-06T00:00:00,2025-09-07T00:00:00,B,33140,Villenave D Ornon,https://apiv2.fftt.com/api/files/453677/RÈGLEMENT 2025.pdf,
@@ -18,7 +18,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3117,LOT OF SPIN ,2025-09-13T00:00:00,2025-09-14T00:00:00,B,46130,BRETENOUX,https://apiv2.fftt.com/api/files/469440/DEF2025 REGLEMENT TOURNOI NATIONAL B.pdf,
 3225,10ème Tournoi National B de Tennis de Table de Fontenay le Comte,2025-09-13T00:00:00,2025-09-14T00:00:00,B,85200,FONTENAY LE COMTE,https://apiv2.fftt.com/api/files/468703/Réglement tournoi national B -10ème 13 et 14 sept 2025-compressé.pdf,
 3228,2ème tournoi départemental de Longueil Ste Marie,2025-09-14T00:00:00,2025-09-14T00:00:00,D,60126,Longueil Ste Marie,https://apiv2.fftt.com/api/files/465028/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE-2.pdf,
-3239,Tournoi National du TT Seyssinois,2025-09-20T00:00:00,2025-09-21T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/469276/Règlement TTS 2025 avec attest.JA.pdf,
+3239,Tournoi National du TT Seyssinois,2025-09-20T00:00:00,2025-09-21T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/469722/Règlement TTS 2025 avec attest.JA.pdf,
 3205,13ème Tournoi du PAYS COURVILLOIS,2025-09-20T00:00:00,2025-09-21T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/444345/Microsoft Word - Réglement 2025.pdf,
 3244,Tournoi National de l'EP Lognes,2025-10-25T00:00:00,2025-10-26T00:00:00,B,77185,Lognes,https://apiv2.fftt.com/api/files/468589/Reglement tournoi Lognes octobre 2025.pdf,
 3179,12ème TOURNOI REGIONAL DU PPCI,2025-11-01T00:00:00,2025-11-02T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/424532/Règlement 12eme tournoi PPCI.pdf,
