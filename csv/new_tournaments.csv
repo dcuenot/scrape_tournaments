@@ -1,2 +1,5 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3221,TOURNOI RÉGIONAL DU C.T.T. DÉOLS,2026-01-17T00:00:00,2026-01-17T00:00:00,R,36130,DÉOLS,https://apiv2.fftt.com/api/files/453540/Règlement Tournoi 2025 2026.pdf,276 km (2 hours 45 mins)
+3251,Tournoi National B du Leforest Tennis de Table 2025,2025-09-06T00:00:00,2025-09-07T00:00:00,B,62790,Leforest,https://apiv2.fftt.com/api/files/469618/🏓 Règlement Officiel — Tournoi National B du Leforest Tennis de Table 2025.pdf,196 km (2 hours 7 mins)
+3254,29ème tournoi d'Avignon,2025-09-14T00:00:00,2025-09-14T00:00:00,B,84000,AVIGNON,https://apiv2.fftt.com/api/files/469535/Règlement Tournoi d'Avignon 2025.pdf,706 km (6 hours 43 mins)
+3194,Tournoi régional Janvier 2026 - La Ville aux Dames,2026-01-17T00:00:00,2026-01-18T00:00:00,R,37700,La Ville aux Dames,https://apiv2.fftt.com/api/files/433858/REGLEMENT Tournoi Janvier 24-25.pdf,250 km (2 hours 33 mins)
+3204,TOURNOI REGIONAL DU CJF TT,2026-01-18T00:00:00,2026-01-18T00:00:00,R,45400,FLEURY LES AUBRAIS,https://apiv2.fftt.com/api/files/444038/réglement tournoi régional 2026 - 18-01-26.pdf,139 km (1 hour 33 mins)
