@@ -3,7 +3,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3230,6 ème tournoi du PPCWattignies,2025-08-29T00:00:00,2025-08-31T00:00:00,B,59139,Wattignies,https://apiv2.fftt.com/api/files/465676/Reglement Tournoi 2025 National B PPCW 6ème édition.pdf,
 3207,Internationaux Jeunes de Charleville Mézières (IJCM),2025-08-30T00:00:00,2025-08-31T00:00:00,I,08000,CHARLEVILLE-MEZIERES,https://apiv2.fftt.com/api/files/444435/2025@IJCM_reglement.pdf,
 3248,Open de Marseille 2025,2025-08-31T00:00:00,2025-08-31T00:00:00,B,13015,Marseille,https://apiv2.fftt.com/api/files/469239/Règlement Open de Marseille 2025 avant homologation 28062025.pdf,
-3241,13ème Tournoi Régional Brestois TRB 2025,2025-09-06T00:00:00,2025-09-07T00:00:00,R,29200,Brest,https://apiv2.fftt.com/api/files/466878/Tournoi Régional Brestois 2025 - réglement.pdf,Distance non disponible
+3241,13ème Tournoi Régional Brestois TRB 2025,2025-09-06T00:00:00,2025-09-07T00:00:00,R,29200,Brest,https://apiv2.fftt.com/api/files/466878/Tournoi Régional Brestois 2025 - réglement.pdf,
 3220,Tournoi Olivet - National B,2025-09-06T00:00:00,2025-09-07T00:00:00,B,45160,Olivet,https://apiv2.fftt.com/api/files/467022/Règlement-Officiel-2025.pdf,
 3222,TOURNOI DE VILLENAVE D'ORNON,2025-09-06T00:00:00,2025-09-07T00:00:00,B,33140,Villenave D Ornon,https://apiv2.fftt.com/api/files/453677/RÈGLEMENT 2025.pdf,
 3224,TOURNOI NATIONAL B du TT NIEPPE,2025-09-06T00:00:00,2025-09-07T00:00:00,B,59850,NIEPPE,https://apiv2.fftt.com/api/files/465692/Reglement TT Nieppe 2025.pdf,
@@ -15,7 +15,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3261,Open d'Istres 2025,2025-09-06T00:00:00,2025-09-07T00:00:00,B,13800,ISTRES,https://apiv2.fftt.com/api/files/469675/REGLEMENT OPEN NATIONAL ISTRES 2025 VF.pdf,
 3193,Tournoi régional Septembre 2025 - La Ville aux Dames,2025-09-06T00:00:00,2025-09-07T00:00:00,R,37700,La Ville aux Dames,https://apiv2.fftt.com/api/files/469744/REGLEMENT Tournoi Septembre_2025.pdf,
 3181,Grand Prix Le Gaulois,2025-09-06T00:00:00,2025-09-07T00:00:00,I,49100,ANGERS,https://apiv2.fftt.com/api/files/468976/Règlement du Grand Prix International Le Gaulois.pdf_compressed.pdf,
-3231,Tournoi de rentrée du TT Grâces,2025-09-07T00:00:00,2025-09-07T00:00:00,R,22200,Grâces,https://apiv2.fftt.com/api/files/465183/réglement avec annexe prix et horaires_2025.pdf,Distance non disponible
+3231,Tournoi de rentrée du TT Grâces,2025-09-07T00:00:00,2025-09-07T00:00:00,R,22200,Grâces,https://apiv2.fftt.com/api/files/465183/réglement avec annexe prix et horaires_2025.pdf,
 3227,cabourg tennis de table,2025-09-07T00:00:00,2025-09-07T00:00:00,B,14390,cabourg,https://apiv2.fftt.com/api/files/465016/tournoi 2025.pdf,
 3276,Tournoi de Varzy,2025-09-07T00:00:00,2025-09-07T00:00:00,R,58210,Varzy,https://apiv2.fftt.com/api/files/470003/reglement_tournoi_reg_2025.pdf,
 3225,10ème Tournoi National B de Tennis de Table de Fontenay le Comte,2025-09-13T00:00:00,2025-09-14T00:00:00,B,85200,FONTENAY LE COMTE,https://apiv2.fftt.com/api/files/468703/Réglement tournoi national B -10ème 13 et 14 sept 2025-compressé.pdf,
