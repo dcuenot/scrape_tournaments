@@ -1,2 +1,5 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3284,TROPHEE GRIEDER ORTT,2025-09-07T00:00:00,2025-09-07T00:00:00,R,51100,REIMS,https://apiv2.fftt.com/api/files/470427/Reglement Tournoi Grieder ORTT 2025.pdf,Distance non disponible
+3208,Tournoi national du TT Fronton,2025-10-25T00:00:00,2025-10-26T00:00:00,B,31620,Fronton,https://apiv2.fftt.com/api/files/470745/Reglement TT Fronton 2025.pdf,Distance non disponible
+3214,TOURNOI DE DRAVEIL TT,2025-10-25T00:00:00,2025-10-26T00:00:00,B,91210,DRAVEIL,https://apiv2.fftt.com/api/files/446773/Règlement Tournoi Draveil 2025 fin 2.pdf,Distance non disponible
+3281,TOURNOI NATIONAL B - AS CORMELLES TT (14),2025-11-01T00:00:00,2025-11-02T00:00:00,B,14412,CORMELLES LE ROYAL,https://apiv2.fftt.com/api/files/470149/Règlement et tableaux Tournoi National B ASCTT 2025.pdf,Distance non disponible
+3260,Tournoi national B US Changé Tennis de Table,2025-11-01T00:00:00,2025-11-02T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/469659/Règlement tournoi national Changé.pdf,Distance non disponible
