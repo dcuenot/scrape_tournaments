@@ -1,3 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3274,11e Tournoi National B du TTI Saint-Laurent-Blangy,2025-10-25T00:00:00,2025-10-26T00:00:00,B,62223,SAINT LAURENT BLANGY,https://apiv2.fftt.com/api/files/470549/réglement_tournoi_2025.pdf,Distance non disponible
-3268,US GRAVIGNY TT,2025-10-25T00:00:00,2025-10-25T00:00:00,B,27390,GRAVIGNY,https://apiv2.fftt.com/api/files/470756/Règlement Tournoi National B US GRAVIGNY TT.pdf,Distance non disponible
+3245,2nd Open Thermal de Vittel,2025-11-01T00:00:00,2025-11-02T00:00:00,A,88800,Vittel,https://apiv2.fftt.com/api/files/470607/2eme Open Thermal de Vittel - National A (v4)_compressed.pdf,Distance non disponible
+3275,TOURNOI NATIONAL B DE LA FLECHE 2025,2025-11-01T00:00:00,2025-11-02T00:00:00,B,72200,La Flèche,https://apiv2.fftt.com/api/files/470001/Reglement Tournoi La Flèche 2025 V04.pdf,Distance non disponible
+3257,Tournoi CHAMBERY TT 2026,2026-01-17T00:00:00,2026-01-17T00:00:00,B,73000,CHAMBERY,https://apiv2.fftt.com/api/files/469645/Règlement Tournoi Chambery TT 2026 + engagement JA3.pdf,Distance non disponible
