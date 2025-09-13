@@ -1,4 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3245,2nd Open Thermal de Vittel,2025-11-01T00:00:00,2025-11-02T00:00:00,A,88800,Vittel,https://apiv2.fftt.com/api/files/470607/2eme Open Thermal de Vittel - National A (v4)_compressed.pdf,Distance non disponible
-3275,TOURNOI NATIONAL B DE LA FLECHE 2025,2025-11-01T00:00:00,2025-11-02T00:00:00,B,72200,La Flèche,https://apiv2.fftt.com/api/files/470001/Reglement Tournoi La Flèche 2025 V04.pdf,Distance non disponible
-3257,Tournoi CHAMBERY TT 2026,2026-01-17T00:00:00,2026-01-17T00:00:00,B,73000,CHAMBERY,https://apiv2.fftt.com/api/files/469645/Règlement Tournoi Chambery TT 2026 + engagement JA3.pdf,Distance non disponible
+3292,36ème Tournoi National B Tennis de Table du CSC Thouars,2025-11-01T00:00:00,2025-11-02T00:00:00,B,79100,Sainte-Verge - THOUARS,https://apiv2.fftt.com/api/files/471328/Règlement du 36ème Tournoi 2025 CSCT.pdf,Distance non disponible
