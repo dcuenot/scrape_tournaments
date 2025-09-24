@@ -1,4 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3282,Tournoi National du Réveil Chambonnaire,2025-10-25T00:00:00,2025-10-25T00:00:00,B,42500,Le Chambon Feugerolles,https://apiv2.fftt.com/api/files/470309/reglement_et_attest_JA_2025.pdf,Distance non disponible
-3256,20ème tournoi régional de Tennis de Table de Montesson,2025-11-02T00:00:00,2025-11-02T00:00:00,R,78360,MONTESSON,https://apiv2.fftt.com/api/files/469623/Règlement Tournoi régional TTM 2025.pdf,Distance non disponible
-3303,Tournoi Régional de St Germain les Corbeil,2026-01-17T00:00:00,2026-01-18T00:00:00,R,91250,Saint Germain les Corbeil,https://apiv2.fftt.com/api/files/484597/Réglement Tournoi St germain.pdf,Distance non disponible
+3290,Tournoi National André Perrier (TT St Jeannais),2025-11-01T00:00:00,2025-11-01T00:00:00,B,38440,St Jean de Bournay,https://apiv2.fftt.com/api/files/471968/Attestation_JA_RD_2025_TTSJ_FFTT-combiné.pdf,Distance non disponible
