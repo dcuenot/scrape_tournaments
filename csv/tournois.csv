@@ -9,7 +9,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3268,US GRAVIGNY TT,2025-10-25T00:00:00,2025-10-25T00:00:00,B,27390,GRAVIGNY,https://apiv2.fftt.com/api/files/470756/Règlement Tournoi National B US GRAVIGNY TT.pdf,
 3274,11e Tournoi National B du TTI Saint-Laurent-Blangy,2025-10-25T00:00:00,2025-10-26T00:00:00,B,62223,SAINT LAURENT BLANGY,https://apiv2.fftt.com/api/files/472543/réglement_tournoi_2025.pdf,
 3282,Tournoi National du Réveil Chambonnaire,2025-10-25T00:00:00,2025-10-25T00:00:00,B,42500,Le Chambon Feugerolles,https://apiv2.fftt.com/api/files/470309/reglement_et_attest_JA_2025.pdf,
-3320,Tournoi Régional LA RICHE 25 et 26 oct 2025,2025-10-25T00:00:00,2025-10-26T00:00:00,R,37520,LA RICHE,https://apiv2.fftt.com/api/files/497219/Règlement tournoi régional LA Riche2025versionfinale.pdf,Distance non disponible
+3320,Tournoi Régional LA RICHE 25 et 26 oct 2025,2025-10-25T00:00:00,2025-10-26T00:00:00,R,37520,LA RICHE,https://apiv2.fftt.com/api/files/497219/Règlement tournoi régional LA Riche2025versionfinale.pdf,
 3214,TOURNOI DE DRAVEIL TT,2025-10-25T00:00:00,2025-10-26T00:00:00,B,91210,DRAVEIL,https://apiv2.fftt.com/api/files/446773/Règlement Tournoi Draveil 2025 fin 2.pdf,
 3208,Tournoi national du TT Fronton,2025-10-25T00:00:00,2025-10-26T00:00:00,B,31620,Fronton,https://apiv2.fftt.com/api/files/470745/Reglement TT Fronton 2025.pdf,
 3218,TOURNOI NATIONAL DE CLERMONT FERRAND - Open des Volcans 2025,2025-10-25T00:00:00,2025-10-26T00:00:00,B,63122,CEYRAT,https://apiv2.fftt.com/api/files/470762/Reglement Challenge Open des Volcans 2025.pdf,
@@ -20,14 +20,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3292,36ème Tournoi National B Tennis de Table du CSC Thouars,2025-11-01T00:00:00,2025-11-02T00:00:00,B,79100,Sainte-Verge - THOUARS,https://apiv2.fftt.com/api/files/474955/36ème édition Tournoi du CSCT.pdf,
 3245,2nd Open Thermal de Vittel,2025-11-01T00:00:00,2025-11-02T00:00:00,A,88800,Vittel,https://apiv2.fftt.com/api/files/470607/2eme Open Thermal de Vittel - National A (v4)_compressed.pdf,
 3260,Tournoi national B US Changé Tennis de Table,2025-11-01T00:00:00,2025-11-02T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/469659/Règlement tournoi national Changé.pdf,
-3307,Tournoi International 2025 de Bazeilles ,2025-11-01T00:00:00,2025-11-02T00:00:00,B,08140,Bazeilles,https://apiv2.fftt.com/api/files/476002/ReglementTournoiBazeilles-2025-v0.pdf,Distance non disponible
+3307,Tournoi International 2025 de Bazeilles ,2025-11-01T00:00:00,2025-11-02T00:00:00,B,08140,Bazeilles,https://apiv2.fftt.com/api/files/476002/ReglementTournoiBazeilles-2025-v0.pdf,
 3281,TOURNOI NATIONAL B - AS CORMELLES TT (14),2025-11-01T00:00:00,2025-11-02T00:00:00,B,14412,CORMELLES LE ROYAL,https://apiv2.fftt.com/api/files/470149/Règlement et tableaux Tournoi National B ASCTT 2025.pdf,
 3256,20ème tournoi régional de Tennis de Table de Montesson,2025-11-02T00:00:00,2025-11-02T00:00:00,R,78360,MONTESSON,https://apiv2.fftt.com/api/files/469623/Règlement Tournoi régional TTM 2025.pdf,
 3269,1er Tournoi Régional de l' US Orléans TT,2025-11-02T00:00:00,2025-11-02T00:00:00,R,45000,orléans,https://apiv2.fftt.com/api/files/469881/Règlement tournoi régional USO TT.pdf,
-3313,TOUTNOI NATIONAL DE THORIGNE-FOUILLARD,2025-11-08T00:00:00,2025-11-09T00:00:00,B,35235,THORIGNE-FOUILLARD,https://apiv2.fftt.com/api/files/479002/Règlement tournoi 2025.pdf,Distance non disponible
+3313,TOUTNOI NATIONAL DE THORIGNE-FOUILLARD,2025-11-08T00:00:00,2025-11-09T00:00:00,B,35235,THORIGNE-FOUILLARD,https://apiv2.fftt.com/api/files/479002/Règlement tournoi 2025.pdf,
 3314,"Tournoi National ""jeu set & Féminisation"" à Grand Champ (56)",2025-11-11T00:00:00,2025-11-11T00:00:00,B,56390,GRAND CHAMP,https://apiv2.fftt.com/api/files/479341/REGLEMENT TOURNOI NATIONAL PLESCOP 11 NOVEMBRE 2025.pdf,
 3197,TOURNOI de NOEL MIRIBEL TT,2025-12-21T00:00:00,2025-12-21T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/473098/REGLEMENT TOURNOI DE NOEL MIRIBEL TT 21 12 2025.pdf,
-3309,Tournoi National Cat B US Cherbourg 2025,2025-12-21T00:00:00,2025-12-21T00:00:00,B,50100,Cherbourg en Cotentin,https://apiv2.fftt.com/api/files/476157/Réglement tournoi National USCherbourg 2025.pdf,Distance non disponible
+3309,Tournoi National Cat B US Cherbourg 2025,2025-12-21T00:00:00,2025-12-21T00:00:00,B,50100,Cherbourg en Cotentin,https://apiv2.fftt.com/api/files/476157/Réglement tournoi National USCherbourg 2025.pdf,
 3257,Tournoi CHAMBERY TT 2026,2026-01-17T00:00:00,2026-01-17T00:00:00,B,73000,CHAMBERY,https://apiv2.fftt.com/api/files/469645/Règlement Tournoi Chambery TT 2026 + engagement JA3.pdf,
 3303,Tournoi Régional de St Germain les Corbeil,2026-01-17T00:00:00,2026-01-18T00:00:00,R,91250,Saint Germain les Corbeil,https://apiv2.fftt.com/api/files/484597/Réglement Tournoi St germain.pdf,
 3221,TOURNOI RÉGIONAL DU C.T.T. DÉOLS,2026-01-17T00:00:00,2026-01-17T00:00:00,R,36130,DÉOLS,https://apiv2.fftt.com/api/files/453540/Règlement Tournoi 2025 2026.pdf,
