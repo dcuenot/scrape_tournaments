@@ -1,5 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3320,Tournoi Régional LA RICHE 25 et 26 oct 2025,2025-10-25T00:00:00,2025-10-26T00:00:00,R,37520,LA RICHE,https://apiv2.fftt.com/api/files/497219/Règlement tournoi régional LA Riche2025versionfinale.pdf,Distance non disponible
-3307,Tournoi International 2025 de Bazeilles ,2025-11-01T00:00:00,2025-11-02T00:00:00,B,08140,Bazeilles,https://apiv2.fftt.com/api/files/476002/ReglementTournoiBazeilles-2025-v0.pdf,Distance non disponible
-3313,TOUTNOI NATIONAL DE THORIGNE-FOUILLARD,2025-11-08T00:00:00,2025-11-09T00:00:00,B,35235,THORIGNE-FOUILLARD,https://apiv2.fftt.com/api/files/479002/Règlement tournoi 2025.pdf,Distance non disponible
-3309,Tournoi National Cat B US Cherbourg 2025,2025-12-21T00:00:00,2025-12-21T00:00:00,B,50100,Cherbourg en Cotentin,https://apiv2.fftt.com/api/files/476157/Réglement tournoi National USCherbourg 2025.pdf,Distance non disponible
+3319,TROPHEE GRIDER TAGNON,2025-10-26T00:00:00,2025-10-26T00:00:00,R,08300,TAGNON,https://apiv2.fftt.com/api/files/491013/Reglement Tournoi Grieder Tagnon 2025.pdf,Distance non disponible
+3286,41ème Tournoi National de Miramas,2025-11-08T00:00:00,2025-11-09T00:00:00,B,13140,MIRAMAS,https://apiv2.fftt.com/api/files/472055/Règlement Tournoi Miramas 2025.pdf,Distance non disponible
+3242,LE MANS SARTHE TT - CREDIT MUTUEL,2026-01-17T00:00:00,2026-01-18T00:00:00,B,72000,Le Mans,https://apiv2.fftt.com/api/files/476403/250816 Reglt Tournoi Le Mans 2026 - v4.pdf,Distance non disponible
