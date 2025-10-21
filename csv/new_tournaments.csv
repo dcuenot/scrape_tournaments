@@ -1,6 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3333,Jeu sets et féminisation ,2025-11-08T00:00:00,2025-11-08T00:00:00,B,59115,Leers,https://apiv2.fftt.com/api/files/501541/Règlement JSF LeersOSTT 811.pdf,Distance non disponible
-3308,15ème tournoi National de Tennis de Table de Dieppe,2026-01-03T00:00:00,2026-01-04T00:00:00,B,76200,Dieppe,https://apiv2.fftt.com/api/files/488202/Règlement 2026.pdf,Distance non disponible
-3321,Tournoi national B du Comité d'Eure et Loir de Tennis de Table,2026-01-03T00:00:00,2026-01-04T00:00:00,B,28000,CHARTRES,https://apiv2.fftt.com/api/files/497332/Règlement tournoi national Comité28 - 03 et 04 janvier 2026.pdf,Distance non disponible
-3246,2E TOURNOI NATIONAL TT BEAUVAIS,2026-01-31T00:00:00,2026-02-01T00:00:00,B,60000,BEAUVAIS,https://apiv2.fftt.com/api/files/468930/REGLEMENT TOURNOI HOMOLOGUE 2026.pdf,Distance non disponible
-3325,Tournoi US Arnage Tennis de Table,2026-02-28T00:00:00,2026-03-01T00:00:00,B,72230,Arnage,https://apiv2.fftt.com/api/files/498410/Reglement Tournoi Arnage 2026.pdf,Distance non disponible
+3310, 5eme tournoi national B ,2025-12-20T00:00:00,2025-12-21T00:00:00,B,59460,Jeumont,https://apiv2.fftt.com/api/files/476383/RèGLEMTN TOURNOI 2025.pdf,Distance non disponible
