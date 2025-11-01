@@ -1,2 +1,5 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3348,Les 12h du CP Mioland,2026-01-31T00:00:00,2026-01-31T00:00:00,R,69780,MIONS,https://apiv2.fftt.com/api/files/512175/REGLEMENT DEF LES 12H CPMIOLAND.pdf,Distance non disponible
+3340,Tournoi hivernal de Pérols 2025,2025-11-02T00:00:00,2025-11-02T00:00:00,R,34470,PEROLS,https://apiv2.fftt.com/api/files/511935/Reglement et récompenses - Tournoi hivernal Pérols 2025.pdf,Distance non disponible
+3331,Tournoi National du CSTT Ferrière-la-grande,2025-12-06T00:00:00,2025-12-07T00:00:00,B,59680,Ferrière-la-grande,https://apiv2.fftt.com/api/files/501398/Reglement 2025.pdf,Distance non disponible
+3353,Tournoi régional de Montrond-les-Bains,2025-12-20T00:00:00,2025-12-20T00:00:00,R,42210,MONTROND LES BAINS,https://apiv2.fftt.com/api/files/512408/Tournoi Régional de Montrond-les-Bains 20-12-2025 avec attestation JA.pdf,Distance non disponible
+3262,"DEUXIEME TOURNOI NATIONAL B "" VILLE DE CASTELSARRASIN""",2026-01-17T00:00:00,2026-01-18T00:00:00,B,82100,CASTELSARRASIN,https://apiv2.fftt.com/api/files/511062/2ème Tournoi National B 17 et 18 janvier 2026 dernier.pdf,Distance non disponible
