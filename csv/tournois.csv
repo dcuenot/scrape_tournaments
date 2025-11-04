@@ -20,6 +20,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3197,TOURNOI de NOEL MIRIBEL TT,2025-12-21T00:00:00,2025-12-21T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/512234/REGLEMENT TOURNOI DE NOEL MIRIBEL TT 21 12 2025 et JA3.pdf,
 3308,15ème tournoi National de Tennis de Table de Dieppe,2026-01-03T00:00:00,2026-01-04T00:00:00,B,76200,Dieppe,https://apiv2.fftt.com/api/files/488202/Règlement 2026.pdf,
 3321,Tournoi national B du Comité d'Eure et Loir de Tennis de Table,2026-01-03T00:00:00,2026-01-04T00:00:00,B,28000,CHARTRES,https://apiv2.fftt.com/api/files/497332/Règlement tournoi national Comité28 - 03 et 04 janvier 2026.pdf,
+3346,Tournoi de Tennis de Table,2026-01-04T00:00:00,2026-01-04T00:00:00,R,53200,Laigné,https://apiv2.fftt.com/api/files/511981/Réglement tournoi laigné.pdf,Distance non disponible
 3221,TOURNOI RÉGIONAL DU C.T.T. DÉOLS,2026-01-17T00:00:00,2026-01-17T00:00:00,R,36130,DÉOLS,https://apiv2.fftt.com/api/files/453540/Règlement Tournoi 2025 2026.pdf,
 3242,LE MANS SARTHE TT - CREDIT MUTUEL,2026-01-17T00:00:00,2026-01-18T00:00:00,B,72000,Le Mans,https://apiv2.fftt.com/api/files/500036/251004 Reglt Tournoi Le Mans 2026 - vDéf.pdf,
 3194,Tournoi régional Janvier 2026 - La Ville aux Dames,2026-01-17T00:00:00,2026-01-18T00:00:00,R,37700,La Ville aux Dames,https://apiv2.fftt.com/api/files/509408/REGLEMENT Tournoi Janvier2026.pdf,
@@ -27,9 +28,9 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3262,"DEUXIEME TOURNOI NATIONAL B "" VILLE DE CASTELSARRASIN""",2026-01-17T00:00:00,2026-01-18T00:00:00,B,82100,CASTELSARRASIN,https://apiv2.fftt.com/api/files/511062/2ème Tournoi National B 17 et 18 janvier 2026 dernier.pdf,
 3303,Tournoi Régional de St Germain les Corbeil,2026-01-17T00:00:00,2026-01-18T00:00:00,R,91250,Saint Germain les Corbeil,https://apiv2.fftt.com/api/files/484597/Réglement Tournoi St germain.pdf,
 3204,TOURNOI REGIONAL DU CJF TT,2026-01-18T00:00:00,2026-01-18T00:00:00,R,45400,FLEURY LES AUBRAIS,https://apiv2.fftt.com/api/files/444038/réglement tournoi régional 2026 - 18-01-26.pdf,
-3246,2E TOURNOI NATIONAL TT BEAUVAIS,2026-01-31T00:00:00,2026-02-01T00:00:00,B,60000,BEAUVAIS,https://apiv2.fftt.com/api/files/468930/REGLEMENT TOURNOI HOMOLOGUE 2026.pdf,
 3348,Les 12h du CP Mioland,2026-01-31T00:00:00,2026-01-31T00:00:00,R,69780,MIONS,https://apiv2.fftt.com/api/files/512557/REGLEMENT DEF LES 12H CPMIOLAND.pdf,
+3246,2E TOURNOI NATIONAL TT BEAUVAIS,2026-01-31T00:00:00,2026-02-01T00:00:00,B,60000,BEAUVAIS,https://apiv2.fftt.com/api/files/468930/REGLEMENT TOURNOI HOMOLOGUE 2026.pdf,
 3280,Open jeunes d'Yvetot,2026-02-21T00:00:00,2026-02-22T00:00:00,B,76190,Yvetot,https://apiv2.fftt.com/api/files/470082/Réglement Open jeunes Yvetot 2026.pdf,
 3285,1er tournoi régional de Surgères,2026-02-22T00:00:00,2026-02-22T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/512358/reglement tournoi 2026.pdf,
-3337,1er tournoi Régional FREVENT TT,2026-02-28T00:00:00,2026-02-28T00:00:00,R,62270,FREVENT,https://apiv2.fftt.com/api/files/511015/Règlement Tournoi Frévent.pdf,Distance non disponible
+3337,1er tournoi Régional FREVENT TT,2026-02-28T00:00:00,2026-02-28T00:00:00,R,62270,FREVENT,https://apiv2.fftt.com/api/files/511015/Règlement Tournoi Frévent.pdf,
 3325,Tournoi US Arnage Tennis de Table,2026-02-28T00:00:00,2026-03-01T00:00:00,B,72230,Arnage,https://apiv2.fftt.com/api/files/498410/Reglement Tournoi Arnage 2026.pdf,
