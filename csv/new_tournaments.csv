@@ -1,10 +1,3 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3324,Tournoi National VISUAL,2026-01-03T00:00:00,2026-01-04T00:00:00,B,35510,Cesson-sévigné,https://apiv2.fftt.com/api/files/498398/Reglement tournoi 3-4 janvier 2026.pdf,Distance non disponible
-3219,TOURNOI NATIONAL B DE TENNIS DE TABLE À SAINTE-PAZANNE,2026-01-03T00:00:00,2026-01-04T00:00:00,B,44680,STE PAZANNE,https://apiv2.fftt.com/api/files/512718/2026 - Tournoi - réglement v1.pdf,Distance non disponible
-3357,TOURNOI NATIONAL B - ELISABETH NUNES HIPPEL - UMS TT PONTAULT-COMBAULT,2026-01-03T00:00:00,2026-01-04T00:00:00,B,77340,PONTAULT-COMBAULT,https://apiv2.fftt.com/api/files/524895/2026 TOURNOI.pdf,Distance non disponible
-3298,TOURNOI NATIONAL B JEUNE GARDE TOURCOING,2026-01-03T00:00:00,2026-01-04T00:00:00,B,59200,TOURCOING,https://apiv2.fftt.com/api/files/471827/Reglement2026 v2.pdf,Distance non disponible
-3359,Open de Provence 2026 (Ex Pernoel),2026-01-17T00:00:00,2026-01-18T00:00:00,B,84210,Pernes les Fontaines,https://apiv2.fftt.com/api/files/512624/Open de Provence 2026 - Règlement.pdf,Distance non disponible
-3317,Tournoi National de Vitré 2026,2026-01-17T00:00:00,2026-01-18T00:00:00,B,35500,Vitré,https://apiv2.fftt.com/api/files/488303/REGLEMENT TOURNOI VITRE NATIONAL B 2026.pdf,Distance non disponible
-3339,2ème TOURNOI NATIONAL B DE NIORT TT,2026-01-31T00:00:00,2026-02-01T00:00:00,B,79000,Niort,https://apiv2.fftt.com/api/files/511316/reglement Tournoi national Niort.pdf,Distance non disponible
-3255,MONQUI PONG CONTENDER 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,69650,QUINCIEUX,https://apiv2.fftt.com/api/files/469895/reglement Tournoi MONQUI V2.pdf,Distance non disponible
-3270,Tournoi Ludovic Bayart,2026-05-23T00:00:00,2026-05-24T00:00:00,R,37210,Parçay Meslay,https://apiv2.fftt.com/api/files/469914/31e Tournoi Régional.pdf,Distance non disponible
+3372,35ème TOURNOI REGIONAL MARCEL CHARTEAU,2026-02-22T00:00:00,2026-02-22T00:00:00,R,85300,SALLERTAINE,https://apiv2.fftt.com/api/files/525048/REGLEMENT 35ème TOURNOI MARCEL CHARTEAU du 22 fevrier 2026.pdf,Distance non disponible
+3338,Tournoi regional Saint Loub'Ping,2026-04-11T00:00:00,2026-04-11T00:00:00,R,33450,Saint Loubès,https://apiv2.fftt.com/api/files/511193/Réglement Tournoi 2026.pdf,Distance non disponible
