@@ -42,7 +42,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3358,Tournoi US MIOS TT,2026-02-14T00:00:00,2026-02-14T00:00:00,B,33380,MIOS,https://apiv2.fftt.com/api/files/512611/Tournoi 2026.pdf,
 3238,Tournoi national B du Bouscat,2026-02-21T00:00:00,2026-02-22T00:00:00,B,33110,le bouscat,https://apiv2.fftt.com/api/files/502893/tournoi_bouscat_2026_reglement.pdf,
 3351,Tournoi National B Saint-Avertin 2026,2026-02-21T00:00:00,2026-02-22T00:00:00,B,37550,SAINT-AVERTIN,https://apiv2.fftt.com/api/files/512345/Réglement_Tournoi_National_B_Saint-Avertin_2026_A.pdf,
-3365,Open Jeunes du TOPTT,2026-02-21T00:00:00,2026-02-21T00:00:00,D,65000,TARBES,https://apiv2.fftt.com/api/files/514856/ReglementOpenJeunesDuTOPTT2026_V2.pdf,Distance non disponible
+3365,Open Jeunes du TOPTT,2026-02-21T00:00:00,2026-02-21T00:00:00,D,65000,TARBES,https://apiv2.fftt.com/api/files/514856/ReglementOpenJeunesDuTOPTT2026_V2.pdf,
 3280,Open jeunes d'Yvetot,2026-02-21T00:00:00,2026-02-22T00:00:00,B,76190,Yvetot,https://apiv2.fftt.com/api/files/470082/Réglement Open jeunes Yvetot 2026.pdf,
 3285,1er tournoi régional de Surgères,2026-02-22T00:00:00,2026-02-22T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/512358/reglement tournoi 2026.pdf,
 3372,35ème TOURNOI REGIONAL MARCEL CHARTEAU,2026-02-22T00:00:00,2026-02-22T00:00:00,R,85300,SALLERTAINE,https://apiv2.fftt.com/api/files/525048/REGLEMENT 35ème TOURNOI MARCEL CHARTEAU du 22 fevrier 2026.pdf,
