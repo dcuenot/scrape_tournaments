@@ -1,5 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3291,TOURNOI NATINAL B N°12 DE TENNIS DE TABLE DU CJM BOURGES TT,2026-04-18T00:00:00,2026-04-19T00:00:00,B,18000,BOURGES,https://apiv2.fftt.com/api/files/471176/REGLEMENT TOURNOI NATIONAL B TENNIS DE TABLE CJM BOURGES 2026.pdf,Distance non disponible
-3369,Tournoi des hauts fourneaux Knutange Nilvange,2026-04-18T00:00:00,2026-04-19T00:00:00,B,57240,KNUTANGE,https://apiv2.fftt.com/api/files/523977/KNTT - Tournoi National B 18-19 avril 2026 - Réglement.pdf,Distance non disponible
-3330,32ème Open du Nice Cavigal Tennis de Table,2026-04-18T00:00:00,2026-04-19T00:00:00,B,06200,Nice,https://apiv2.fftt.com/api/files/501243/Reglement tournoi NationalB 2026.pdf,Distance non disponible
-3375,Tournoi AL VILLECRESNES NATIONAL B ,2026-05-01T00:00:00,2026-05-03T00:00:00,B,94440,VILLECRESNES,https://apiv2.fftt.com/api/files/525182/Reglement tournoi National B Villecresnes_2026.pdf,Distance non disponible
+3392,1er Tournoi régional CD90TT,2026-01-18T00:00:00,2026-01-18T00:00:00,R,90300,Offemont,https://apiv2.fftt.com/api/files/536360/Tournoi_CD90TT.pdf,Distance non disponible
