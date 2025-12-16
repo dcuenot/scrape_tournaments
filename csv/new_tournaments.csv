@@ -1,2 +1,9 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3322,Tournoi départemental US Saint Maur,2026-06-13T00:00:00,2026-06-13T00:00:00,D,36250,ST MAUR,https://apiv2.fftt.com/api/files/498002/.pdf,Distance non disponible
+3344,Tournoi National B de la Chapelaine Tennis de Table,2025-12-20T00:00:00,2025-12-20T00:00:00,B,44240,La Chapelle sur Erdre,https://apiv2.fftt.com/api/files/511944/Règlement tournoi de la Chapelaine 2025.pdf,Distance non disponible
+3356,36ème Tournoi régional du TT Saint Romain de Jalionas,2026-02-15T00:00:00,2026-02-15T00:00:00,R,38460,SAINT ROMAIN DE JALIONAS,https://apiv2.fftt.com/api/files/541826/Fusion Lettre JA + Regelement tournoi.pdf,Distance non disponible
+3363,Tournoi du Tennis de Table La Motte Servolex,2026-04-18T00:00:00,2026-04-18T00:00:00,B,73290,LA MOTTE SERVOLEX,https://apiv2.fftt.com/api/files/536618/Réglement tournoi national TTLMS 2026_attestation JA.pdf,Distance non disponible
+3263,5ème tournoi national du club pongiste fourasin,2026-04-18T00:00:00,2026-04-19T00:00:00,B,17450,FOURAS,https://apiv2.fftt.com/api/files/469785/Règlement tournoi national 2026 CP Fouras -.pdf,Distance non disponible
+3380,Tournoi National B Ste Jamme MCS Tennis de Table,2026-04-18T00:00:00,2026-04-19T00:00:00,B,72380,Sainte Jamme Sur Sarthe,https://apiv2.fftt.com/api/files/536088/Règlement tournoi 2026 Version déf.pdf,Distance non disponible
+3212,9eme tournoi National B de BLOIS PING 41 02-03 mai 2026,2026-05-02T00:00:00,2026-05-03T00:00:00,B,41000,Blois,https://apiv2.fftt.com/api/files/469326/règlement tournoi 2026 v4 30062025.pdf,Distance non disponible
+3328,TOURNOI NATIONAL B VILLERS ST PAUL TT,2026-06-13T00:00:00,2026-06-14T00:00:00,B,60870,Villers Saint Paul,https://apiv2.fftt.com/api/files/512210/Règlement tournoi national B Villers Saint Paul.pdf,Distance non disponible
+3253,TOURNOI REGIONAL ES ORMES TT,2026-06-14T00:00:00,2026-06-14T00:00:00,R,45140,Ormes,https://apiv2.fftt.com/api/files/469446/Réglement tournoi Ormes 2026.pdf,Distance non disponible
