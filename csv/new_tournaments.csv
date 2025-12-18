@@ -1,5 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3376,TOURNOI NATIONAL B du VAL D'OZON TENNIS DE TABLE,2026-02-14T00:00:00,2026-02-15T00:00:00,B,69970,CHAPONNAY,https://apiv2.fftt.com/api/files/534162/Règlement Tournoi National 2026 et lettre JA.pdf,Distance non disponible
-3401,TOURNOI NATIONAL DE CLERMONT-FERRAND - Challenge Patrick Neyrat 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,63122,Ceyrat,https://apiv2.fftt.com/api/files/545332/Reglement Challenge Patrick Neyrat 2026.pdf,Distance non disponible
-3343,16ème Open jeune du Havre,2026-05-17T00:00:00,2026-05-17T00:00:00,B,76620,le Havre,https://apiv2.fftt.com/api/files/511884/Reglement open jeune 2026.pdf,Distance non disponible
-3341,10ème Vexin Ping Oise,2026-06-14T00:00:00,2026-06-14T00:00:00,B,60240,Chaumont-En-Vexin,https://apiv2.fftt.com/api/files/512056/VEXIN PING OISE 10 - REGLEMENT TOURNOI HOMOLOGUE V6.pdf,Distance non disponible
+3354,Tournoi Régional LHSMTT 2026,2026-04-18T00:00:00,2026-04-18T00:00:00,R,33160,Saint Medard en Jalles,https://apiv2.fftt.com/api/files/512534/Règlement 2026.pdf,Distance non disponible
