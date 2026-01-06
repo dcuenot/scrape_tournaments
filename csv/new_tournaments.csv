@@ -1,2 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3411,tournoi asptt reims trophée francois grieder ,2026-01-04T00:00:00,2026-01-04T00:00:00,R,51100,reims,https://apiv2.fftt.com/api/files/546513/Réglement Tournoi Grieder ASPTT Reims 2026.pdf,Distance non disponible
+3370,#3 Open Pertuis,2026-02-21T00:00:00,2026-02-22T00:00:00,B,84120,Pertuis,https://apiv2.fftt.com/api/files/524156/Tournoi National Pertuis (2).pdf,Distance non disponible
+3413,Tournoi National B du CD93TT,2026-02-28T00:00:00,2026-03-01T00:00:00,B,93200,SAINT-DENIS,https://apiv2.fftt.com/api/files/546551/2-Règlement du Tournoi National B du CD93TT 2025-2026.pdf,Distance non disponible
+3409,TOURNOI NATIONAL B D'IGNY TT,2026-02-28T00:00:00,2026-03-01T00:00:00,B,91430,IGNY,https://apiv2.fftt.com/api/files/546490/Reglement tournoi 2026.pdf,Distance non disponible
