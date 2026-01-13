@@ -25,7 +25,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3247,Tournoi de Périgné,2026-02-21T00:00:00,2026-02-21T00:00:00,B,79500,Melle,https://apiv2.fftt.com/api/files/469222/Règlement Tournoi régional de Périgné 2026.pdf,
 3280,Open jeunes d'Yvetot,2026-02-21T00:00:00,2026-02-22T00:00:00,B,76190,Yvetot,https://apiv2.fftt.com/api/files/470082/Réglement Open jeunes Yvetot 2026.pdf,
 3238,Tournoi national B du Bouscat,2026-02-21T00:00:00,2026-02-22T00:00:00,B,33110,le bouscat,https://apiv2.fftt.com/api/files/502893/tournoi_bouscat_2026_reglement.pdf,
-3370,#3 Open Pertuis,2026-02-21T00:00:00,2026-02-22T00:00:00,B,84120,Pertuis,https://apiv2.fftt.com/api/files/524156/Tournoi National Pertuis (2).pdf,
+3370,#3 Open Pertuis,2026-02-21T00:00:00,2026-02-22T00:00:00,B,84120,Pertuis,https://apiv2.fftt.com/api/files/555033/Tournoi National Pertuis (1).pdf,
 3365,Open Jeunes du TOPTT,2026-02-21T00:00:00,2026-02-21T00:00:00,D,65000,TARBES,https://apiv2.fftt.com/api/files/514856/ReglementOpenJeunesDuTOPTT2026_V2.pdf,
 3372,35ème TOURNOI REGIONAL MARCEL CHARTEAU,2026-02-22T00:00:00,2026-02-22T00:00:00,R,85300,SALLERTAINE,https://apiv2.fftt.com/api/files/525048/REGLEMENT 35ème TOURNOI MARCEL CHARTEAU du 22 fevrier 2026.pdf,
 3285,1er tournoi régional de Surgères,2026-02-22T00:00:00,2026-02-22T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/512358/reglement tournoi 2026.pdf,
@@ -37,7 +37,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3410,FOS VILLENEUVE D'ASCQ NATIONAL B 2026,2026-02-28T00:00:00,2026-03-01T00:00:00,B,59650,VILLENEUVE D'ASCQ,https://apiv2.fftt.com/api/files/546498/Réglement tournoi Nat B 2026.pdf,
 3325,Tournoi US Arnage Tennis de Table,2026-02-28T00:00:00,2026-03-01T00:00:00,B,72230,Arnage,https://apiv2.fftt.com/api/files/498410/Reglement Tournoi Arnage 2026.pdf,
 3413,Tournoi National B du CD93TT,2026-02-28T00:00:00,2026-03-01T00:00:00,B,93200,SAINT-DENIS,https://apiv2.fftt.com/api/files/546551/2-Règlement du Tournoi National B du CD93TT 2025-2026.pdf,
-3416,TOURNOI REGIONAL ROBERT VOISINNE 2026,2026-03-01T00:00:00,2026-03-01T00:00:00,R,44850,Ligné,https://apiv2.fftt.com/api/files/546817/Réglement Tournoi régional Robert Voisinne 2026 version 1.pdf,Distance non disponible
+3416,TOURNOI REGIONAL ROBERT VOISINNE 2026,2026-03-01T00:00:00,2026-03-01T00:00:00,R,44850,Ligné,https://apiv2.fftt.com/api/files/554977/Réglement Tournoi régional Robert Voisinne 2026 version 2.pdf,
 3387,TOURNOI NATIONAL B ZUP JEUNES NOGENT SUR OISE,2026-04-04T00:00:00,2026-04-05T00:00:00,B,60180,Nogent-sur-Oise,https://apiv2.fftt.com/api/files/536231/Règlement tournoi nationnal B 2026.pdf,
 3368,Tournoi national de Paques à Chalons en champagne,2026-04-04T00:00:00,2026-04-06T00:00:00,A,51000,chalons en champagne,https://apiv2.fftt.com/api/files/546811/reglement tournoi 2026 fftt.pdf,
 3335,17ème OPEN INTERNATIONAL GRAND COGNAC,2026-04-04T00:00:00,2026-04-06T00:00:00,I,16100,CHATEAUBERNARD,https://apiv2.fftt.com/api/files/501623/Open 2026.pdf,
