@@ -1,2 +1,3 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3427,Tournoi de l'ES Pouzac 2026,2026-04-25T00:00:00,2026-04-25T00:00:00,D,65200,Pouzac,https://apiv2.fftt.com/api/files/546745/Règlement_Tournoi ES Pouzac_2026.pdf,Distance non disponible
+3412,Tournoi National de Noisy le Grand Tennis de Table 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,93160,noisy-le-grand,https://apiv2.fftt.com/api/files/555549/Projet Règlement Tournoi National Noisy 2026.pdf,Distance non disponible
+3389,Tournoi Régional du Tennis de Table de GRAULHET,2026-05-01T00:00:00,2026-05-01T00:00:00,R,81300,GRAULHET,https://apiv2.fftt.com/api/files/546687/RÈGLEMENT TOURNOI TT GRAULHET du 01.05.2026.pdf,Distance non disponible
