@@ -43,8 +43,8 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3330,32ème Open du Nice Cavigal Tennis de Table,2026-04-18T00:00:00,2026-04-19T00:00:00,B,06200,Nice,https://apiv2.fftt.com/api/files/501243/Reglement tournoi NationalB 2026.pdf,
 3380,Tournoi National B Ste Jamme MCS Tennis de Table,2026-04-18T00:00:00,2026-04-19T00:00:00,B,72380,Sainte Jamme Sur Sarthe,https://apiv2.fftt.com/api/files/545483/Règlement tournoi 2026 Version déf (2).pdf,
 3427,Tournoi de l'ES Pouzac 2026,2026-04-25T00:00:00,2026-04-25T00:00:00,D,65200,Pouzac,https://apiv2.fftt.com/api/files/546745/Règlement_Tournoi ES Pouzac_2026.pdf,
-3412,Tournoi National de Noisy le Grand Tennis de Table 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,93160,noisy-le-grand,https://apiv2.fftt.com/api/files/555549/Projet Règlement Tournoi National Noisy 2026.pdf,Distance non disponible
-3389,Tournoi Régional du Tennis de Table de GRAULHET,2026-05-01T00:00:00,2026-05-01T00:00:00,R,81300,GRAULHET,https://apiv2.fftt.com/api/files/546687/RÈGLEMENT TOURNOI TT GRAULHET du 01.05.2026.pdf,Distance non disponible
+3412,Tournoi National de Noisy le Grand Tennis de Table 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,93160,noisy-le-grand,https://apiv2.fftt.com/api/files/555549/Projet Règlement Tournoi National Noisy 2026.pdf,
+3389,Tournoi Régional du Tennis de Table de GRAULHET,2026-05-01T00:00:00,2026-05-01T00:00:00,R,81300,GRAULHET,https://apiv2.fftt.com/api/files/546687/RÈGLEMENT TOURNOI TT GRAULHET du 01.05.2026.pdf,
 3375,Tournoi AL VILLECRESNES NATIONAL B ,2026-05-01T00:00:00,2026-05-03T00:00:00,B,94440,VILLECRESNES,https://apiv2.fftt.com/api/files/525182/Reglement tournoi National B Villecresnes_2026.pdf,
 3212,9eme tournoi National B de BLOIS PING 41 02-03 mai 2026,2026-05-02T00:00:00,2026-05-03T00:00:00,B,41000,Blois,https://apiv2.fftt.com/api/files/469326/règlement tournoi 2026 v4 30062025.pdf,
 3273,Tournoi départemental de SAINTINES,2026-05-14T00:00:00,2026-05-14T00:00:00,D,60410,SAINTINES,https://apiv2.fftt.com/api/files/469967/Règlement tournoi 2025.pdf,
