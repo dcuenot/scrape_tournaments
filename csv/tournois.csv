@@ -29,7 +29,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3368,Tournoi national de Paques à Chalons en champagne,2026-04-04T00:00:00,2026-04-06T00:00:00,A,51000,chalons en champagne,https://apiv2.fftt.com/api/files/546811/reglement tournoi 2026 fftt.pdf,
 3387,TOURNOI NATIONAL B ZUP JEUNES NOGENT SUR OISE,2026-04-04T00:00:00,2026-04-05T00:00:00,B,60180,Nogent-sur-Oise,https://apiv2.fftt.com/api/files/555402/Règlement tournoi nationnal B 2026_.pdf,
 3335,17ème OPEN INTERNATIONAL GRAND COGNAC,2026-04-04T00:00:00,2026-04-06T00:00:00,I,16100,CHATEAUBERNARD,https://apiv2.fftt.com/api/files/501623/Open 2026.pdf,
-3419,Tournoi national Jimmy Cusseau Nantes Saint Medard de Doulon 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,44200,Nantes,https://apiv2.fftt.com/api/files/546756/Réglement du tournoi National 2026vdef.pdf,Distance non disponible
+3419,Tournoi national Jimmy Cusseau Nantes Saint Medard de Doulon 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,44200,Nantes,https://apiv2.fftt.com/api/files/546756/Réglement du tournoi National 2026vdef.pdf,
 3418,TOURNOI NATIONAL B - E.P. ISIGNY-MONTIGNY,2026-04-06T00:00:00,2026-04-06T00:00:00,B,50540,ISIGNY LE BUAT,https://apiv2.fftt.com/api/files/546568/Règlement Tournoi E.P.I.M. 06_04_2026.pdf,
 3334,30ème Tournoi Régional de Tennis de Table de Dangé / Les Ormes,2026-04-10T00:00:00,2026-04-11T00:00:00,R,86220,DANGE ST ROMAIN,https://apiv2.fftt.com/api/files/501546/HOMOLOGATION ET REGLEMENT 2026.pdf,
 3338,Tournoi regional Saint Loub'Ping,2026-04-11T00:00:00,2026-04-11T00:00:00,R,33450,Saint Loubès,https://apiv2.fftt.com/api/files/511193/Réglement Tournoi 2026.pdf,
@@ -46,7 +46,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3427,Tournoi de l'ES Pouzac 2026,2026-04-25T00:00:00,2026-04-25T00:00:00,D,65200,Pouzac,https://apiv2.fftt.com/api/files/546745/Règlement_Tournoi ES Pouzac_2026.pdf,
 3412,Tournoi National de Noisy le Grand Tennis de Table 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,93160,noisy-le-grand,https://apiv2.fftt.com/api/files/555549/Projet Règlement Tournoi National Noisy 2026.pdf,
 3389,Tournoi Régional du Tennis de Table de GRAULHET,2026-05-01T00:00:00,2026-05-01T00:00:00,R,81300,GRAULHET,https://apiv2.fftt.com/api/files/546687/RÈGLEMENT TOURNOI TT GRAULHET du 01.05.2026.pdf,
-3371,Tournoi National B La Chapelle ALTT,2026-05-01T00:00:00,2026-05-03T00:00:00,B,72650,La Chapelle St Aubin,https://apiv2.fftt.com/api/files/557349/Reglement Tournoi 2026_V5.pdf,Distance non disponible
+3371,Tournoi National B La Chapelle ALTT,2026-05-01T00:00:00,2026-05-03T00:00:00,B,72650,La Chapelle St Aubin,https://apiv2.fftt.com/api/files/557349/Reglement Tournoi 2026_V5.pdf,
 3375,Tournoi AL VILLECRESNES NATIONAL B ,2026-05-01T00:00:00,2026-05-03T00:00:00,B,94440,VILLECRESNES,https://apiv2.fftt.com/api/files/557365/Reglement tournoi National B Villecresnes_2026.pdf,
 3212,9eme tournoi National B de BLOIS PING 41 02-03 mai 2026,2026-05-02T00:00:00,2026-05-03T00:00:00,B,41000,Blois,https://apiv2.fftt.com/api/files/469326/règlement tournoi 2026 v4 30062025.pdf,
 3273,Tournoi départemental de SAINTINES,2026-05-14T00:00:00,2026-05-14T00:00:00,D,60410,SAINTINES,https://apiv2.fftt.com/api/files/469967/Règlement tournoi 2025.pdf,
