@@ -1,17 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3444,Tournoi National ES VILLIERS TENNIS DE TABLE,2026-02-21T00:00:00,2026-02-22T00:00:00,B,94350,VILLIERS SUR MARNE,https://apiv2.fftt.com/api/files/555556/2026-ESV TT-Tournoi National-Reglement-V7.pdf,Distance non disponible
-3442,Tournoi Jean-Marcel BAR PPC Flines Les Raches 2026,2026-04-04T00:00:00,2026-04-06T00:00:00,B,59148,FLINES LES RACHES,https://apiv2.fftt.com/api/files/555414/reglement_tournoi_2026.pdf,Distance non disponible
-3236,TOURNOI INTERNATIONAL DE SELONCOURT EDITION 9,2026-04-18T00:00:00,2026-04-19T00:00:00,I,25230,SELONCOURT,https://apiv2.fftt.com/api/files/546757/Réglement Tournoi 2026.pdf,Distance non disponible
-3422,"Tournoi National B ""La Franco Suisse""",2026-04-18T00:00:00,2026-04-19T00:00:00,B,74100,Ambilly,https://apiv2.fftt.com/api/files/554030/réglement Tournoi pdf.pdf,Distance non disponible
-3390,TOURNOI RAMBOUILLET,2026-04-18T00:00:00,2026-04-19T00:00:00,B,78120,rambouillet,https://apiv2.fftt.com/api/files/558113/RAMBOUILLET TOURNOI NATIONAL B .pdf,Distance non disponible
-3414,OPEN de MONTIVILLIERS 2026,2026-04-18T00:00:00,2026-04-19T00:00:00,B,76290,MONTIVILLIERS,https://apiv2.fftt.com/api/files/546548/Reglement-Tournoi-Montivilliers-2026.pdf,Distance non disponible
-3436,TOURNOI  RÉGIONAL  FÉMININ DU CHESNAY TENNIS DE TABLE,2026-04-19T00:00:00,2026-04-19T00:00:00,R,78150,LE CHESNAY-ROCQUENCOURT,https://apiv2.fftt.com/api/files/555365/Reglement-Tournoi_Feminin_Le_Chesnay_Classique-ed6.pdf,Distance non disponible
-3402,Tournoi National de l'ASTT Herblay,2026-04-25T00:00:00,2026-04-26T00:00:00,B,95220,HERBLAY SUR SEINE,https://apiv2.fftt.com/api/files/539700/Règlement Tournoi National B ASTT Herblay - 25 & 26 avril 2026 VF.pdf,Distance non disponible
-3404, Tournoi National B 2026 Misterping,2026-04-25T00:00:00,2026-04-26T00:00:00,B,59780,BAISIEUX,https://apiv2.fftt.com/api/files/545254/Règlement Tournoi National BTT 2026_compressed.pdf,Distance non disponible
-3441,42ème Tournoi de Miramas,2026-04-25T00:00:00,2026-04-26T00:00:00,B,13140,MIRAMAS,https://apiv2.fftt.com/api/files/555395/Règlement Tournoi Miramas 2026.pdf,Distance non disponible
-3433,5e TOURNOI NATIONAL B PETIT-QUEVILLY,2026-04-25T00:00:00,2026-04-26T00:00:00,B,76140,Petit-Quevilly,https://apiv2.fftt.com/api/files/555195/Réglement officiel - 2026.pdf,Distance non disponible
-3458,48ème Tournoi National B de l'ATT DUCEY-AVRANCHES (50) - Vendredi 1er Mai 2026,2026-05-01T00:00:00,2026-05-01T00:00:00,B,50220,Ducey-Les Chéris,https://apiv2.fftt.com/api/files/557715/Reglement_Tournoi_Ducey_2026.pdf,Distance non disponible
-3432,Tournoi du 1er mai US Saint-Arnoult,2026-05-01T00:00:00,2026-05-01T00:00:00,B,78730,Saint-Arnoult-En-Yvelines,https://apiv2.fftt.com/api/files/555023/Règlement_National B_US Saint Arnoult TT_1er mai 2026.pdf,Distance non disponible
-3379,"Tournoi National ""B"" Entente Pongiste Estaires La Gorgue Merville",2026-05-01T00:00:00,2026-05-02T00:00:00,B,59940,Estaires,https://apiv2.fftt.com/api/files/545787/règlement tournoi national B Estaires 2026.pdf,Distance non disponible
-3408,Mésanger - 1er et 2 mai 2026,2026-05-01T00:00:00,2026-05-02T00:00:00,B,44522,Mésanger,https://apiv2.fftt.com/api/files/545844/2026-05-01 & 02 Règlement V1 AU 26-10-2025.pdf,Distance non disponible
-3424,Tournoi National B - Aubenas-Vals,2026-05-16T00:00:00,2026-05-17T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/546686/Réglement + attestation JA3.pdf,Distance non disponible
+3400,Tournoi National Josué Menant 2026 - VIVY (49) 25 & 26 avril 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,49680,vivy,https://apiv2.fftt.com/api/files/558148/Reglement TNJM 2026 - 25 - 26  avril 2026.pdf,Distance non disponible
+3445,ES Vitry Tennis de Table Tournoi National B,2026-05-02T00:00:00,2026-05-03T00:00:00,B,94400,VITRY SUR SEINE,https://apiv2.fftt.com/api/files/555561/ES VITRY TT TOURNOI NATIONAL B.pdf,Distance non disponible
+3440,CHAMPHOL ASTT - TOURNOI NATIONAL B 2026 -,2026-05-16T00:00:00,2026-05-17T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/555384/reglement 2026.pdf,Distance non disponible
