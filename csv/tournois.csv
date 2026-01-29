@@ -25,7 +25,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3378,2e TOURNOI NATIONAL JEUNES DE TROYES,2026-02-28T00:00:00,2026-02-28T00:00:00,B,10430,ROSIERES PRES TROYES,https://apiv2.fftt.com/api/files/536213/REGLEMENT TOURNOI NATIONAL 2026 JEUNE GARDE DE TROYES.pdf,
 3409,TOURNOI NATIONAL B D'IGNY TT,2026-02-28T00:00:00,2026-03-01T00:00:00,B,91430,IGNY,https://apiv2.fftt.com/api/files/546490/Reglement tournoi 2026.pdf,
 3410,FOS VILLENEUVE D'ASCQ NATIONAL B 2026,2026-02-28T00:00:00,2026-03-01T00:00:00,B,59650,VILLENEUVE D'ASCQ,https://apiv2.fftt.com/api/files/546498/Réglement tournoi Nat B 2026.pdf,
-3416,TOURNOI REGIONAL ROBERT VOISINNE 2026,2026-03-01T00:00:00,2026-03-01T00:00:00,R,44850,Ligné,https://apiv2.fftt.com/api/files/554977/Réglement Tournoi régional Robert Voisinne 2026 version 2.pdf,
+3416,TOURNOI REGIONAL ROBERT VOISINNE 2026,2026-03-01T00:00:00,2026-03-01T00:00:00,R,44850,Ligné,https://apiv2.fftt.com/api/files/558248/Réglement Tournoi régional Robert Voisinne 2026.pdf,
 3387,TOURNOI NATIONAL B ZUP JEUNES NOGENT SUR OISE,2026-04-04T00:00:00,2026-04-05T00:00:00,B,60180,Nogent-sur-Oise,https://apiv2.fftt.com/api/files/555402/Règlement tournoi nationnal B 2026_.pdf,
 3442,Tournoi Jean-Marcel BAR PPC Flines Les Raches 2026,2026-04-04T00:00:00,2026-04-06T00:00:00,B,59148,FLINES LES RACHES,https://apiv2.fftt.com/api/files/555414/reglement_tournoi_2026.pdf,
 3419,Tournoi national Jimmy Cusseau Nantes Saint Medard de Doulon 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,44200,Nantes,https://apiv2.fftt.com/api/files/546756/Réglement du tournoi National 2026vdef.pdf,
@@ -55,7 +55,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3412,Tournoi National de Noisy le Grand Tennis de Table 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,93160,noisy-le-grand,https://apiv2.fftt.com/api/files/555549/Projet Règlement Tournoi National Noisy 2026.pdf,
 3402,Tournoi National de l'ASTT Herblay,2026-04-25T00:00:00,2026-04-26T00:00:00,B,95220,HERBLAY SUR SEINE,https://apiv2.fftt.com/api/files/539700/Règlement Tournoi National B ASTT Herblay - 25 & 26 avril 2026 VF.pdf,
 3441,42ème Tournoi de Miramas,2026-04-25T00:00:00,2026-04-26T00:00:00,B,13140,MIRAMAS,https://apiv2.fftt.com/api/files/555395/Règlement Tournoi Miramas 2026.pdf,
-3400,Tournoi National Josué Menant 2026 - VIVY (49) 25 & 26 avril 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,49680,vivy,https://apiv2.fftt.com/api/files/558148/Reglement TNJM 2026 - 25 - 26  avril 2026.pdf,Distance non disponible
+3400,Tournoi National Josué Menant 2026 - VIVY (49) 25 & 26 avril 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,49680,vivy,https://apiv2.fftt.com/api/files/558148/Reglement TNJM 2026 - 25 - 26  avril 2026.pdf,
 3427,Tournoi de l'ES Pouzac 2026,2026-04-25T00:00:00,2026-04-25T00:00:00,D,65200,Pouzac,https://apiv2.fftt.com/api/files/546745/Règlement_Tournoi ES Pouzac_2026.pdf,
 3432,Tournoi du 1er mai US Saint-Arnoult,2026-05-01T00:00:00,2026-05-01T00:00:00,B,78730,Saint-Arnoult-En-Yvelines,https://apiv2.fftt.com/api/files/555023/Règlement_National B_US Saint Arnoult TT_1er mai 2026.pdf,
 3458,48ème Tournoi National B de l'ATT DUCEY-AVRANCHES (50) - Vendredi 1er Mai 2026,2026-05-01T00:00:00,2026-05-01T00:00:00,B,50220,Ducey-Les Chéris,https://apiv2.fftt.com/api/files/557715/Reglement_Tournoi_Ducey_2026.pdf,
@@ -64,12 +64,12 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3375,Tournoi AL VILLECRESNES NATIONAL B ,2026-05-01T00:00:00,2026-05-03T00:00:00,B,94440,VILLECRESNES,https://apiv2.fftt.com/api/files/557365/Reglement tournoi National B Villecresnes_2026.pdf,
 3389,Tournoi Régional du Tennis de Table de GRAULHET,2026-05-01T00:00:00,2026-05-01T00:00:00,R,81300,GRAULHET,https://apiv2.fftt.com/api/files/546687/RÈGLEMENT TOURNOI TT GRAULHET du 01.05.2026.pdf,
 3379,"Tournoi National ""B"" Entente Pongiste Estaires La Gorgue Merville",2026-05-01T00:00:00,2026-05-02T00:00:00,B,59940,Estaires,https://apiv2.fftt.com/api/files/545787/règlement tournoi national B Estaires 2026.pdf,
-3445,ES Vitry Tennis de Table Tournoi National B,2026-05-02T00:00:00,2026-05-03T00:00:00,B,94400,VITRY SUR SEINE,https://apiv2.fftt.com/api/files/555561/ES VITRY TT TOURNOI NATIONAL B.pdf,Distance non disponible
+3445,ES Vitry Tennis de Table Tournoi National B,2026-05-02T00:00:00,2026-05-03T00:00:00,B,94400,VITRY SUR SEINE,https://apiv2.fftt.com/api/files/555561/ES VITRY TT TOURNOI NATIONAL B.pdf,
 3212,9eme tournoi National B de BLOIS PING 41 02-03 mai 2026,2026-05-02T00:00:00,2026-05-03T00:00:00,B,41000,Blois,https://apiv2.fftt.com/api/files/469326/règlement tournoi 2026 v4 30062025.pdf,
 3273,Tournoi départemental de SAINTINES,2026-05-14T00:00:00,2026-05-14T00:00:00,D,60410,SAINTINES,https://apiv2.fftt.com/api/files/469967/Règlement tournoi 2025.pdf,
 3302,TOURNOI NATIONAL B LA BERRICHONNE CHATEAUROUX TENNIS DE TABLE,2026-05-14T00:00:00,2026-05-14T00:00:00,B,36000,CHATEAUROUX,https://apiv2.fftt.com/api/files/545800/TOURNOI NATIONAL B DE LA BERRICHONNE TENNIS DE TABLE.pdf,
 3362,TOURNOI GERARD CATEL,2026-05-16T00:00:00,2026-05-16T00:00:00,R,80630,BEAUVAL,https://apiv2.fftt.com/api/files/535554/Règlement tournoi .pdf,
-3440,CHAMPHOL ASTT - TOURNOI NATIONAL B 2026 -,2026-05-16T00:00:00,2026-05-17T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/555384/reglement 2026.pdf,Distance non disponible
+3440,CHAMPHOL ASTT - TOURNOI NATIONAL B 2026 -,2026-05-16T00:00:00,2026-05-17T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/555384/reglement 2026.pdf,
 3424,Tournoi National B - Aubenas-Vals,2026-05-16T00:00:00,2026-05-17T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/546686/Réglement + attestation JA3.pdf,
 3343,16ème Open jeune du Havre,2026-05-17T00:00:00,2026-05-17T00:00:00,B,76620,le Havre,https://apiv2.fftt.com/api/files/511884/Reglement open jeune 2026.pdf,
 3347,TOURNOI SUD LOIRE TENNIS DE TABLE 45,2026-05-17T00:00:00,2026-05-17T00:00:00,R,45590,Saint Cyr en Val,https://apiv2.fftt.com/api/files/512090/Règlement tournoi SLTT.docx.pdf,
