@@ -1,4 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3400,Tournoi National Josué Menant 2026 - VIVY (49) 25 & 26 avril 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,49680,vivy,https://apiv2.fftt.com/api/files/558148/Reglement TNJM 2026 - 25 - 26  avril 2026.pdf,Distance non disponible
-3445,ES Vitry Tennis de Table Tournoi National B,2026-05-02T00:00:00,2026-05-03T00:00:00,B,94400,VITRY SUR SEINE,https://apiv2.fftt.com/api/files/555561/ES VITRY TT TOURNOI NATIONAL B.pdf,Distance non disponible
-3440,CHAMPHOL ASTT - TOURNOI NATIONAL B 2026 -,2026-05-16T00:00:00,2026-05-17T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/555384/reglement 2026.pdf,Distance non disponible
+3426,Trophée de L’homopongistus Thuirinois,2026-04-05T00:00:00,2026-04-05T00:00:00,R,66300,Thuir,https://apiv2.fftt.com/api/files/555500/Reglement Tournoi 2026.pdf,Distance non disponible
