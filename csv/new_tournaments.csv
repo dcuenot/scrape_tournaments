@@ -1,4 +1,9 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3463,11 éme TOURNOI REGIONAL CHRISTIAN SCHWEIZER,2026-02-28T00:00:00,2026-03-01T00:00:00,R,54150,Briey,https://apiv2.fftt.com/api/files/558133/REGLEMENT DU TOURNOI REGIONAL 2026.pdf,Distance non disponible
-3434,PANALOISIRS - 10ème tournoi National B,2026-04-18T00:00:00,2026-04-18T00:00:00,B,87350,PANAZOL,https://apiv2.fftt.com/api/files/555289/règlement tournoi 2026 v1.pdf,Distance non disponible
-3452,Tournoi National Petit Mars,2026-04-18T00:00:00,2026-04-19T00:00:00,B,44390,Petit Mars,https://apiv2.fftt.com/api/files/557337/PMTT Règlement Tournoi national 2026.pdf,Distance non disponible
+3454,TOURNOI REGIONAL DU TENNIS DE TABLE DE MONTELIER (26),2026-04-18T00:00:00,2026-04-18T00:00:00,R,26120,MONTELIER,https://apiv2.fftt.com/api/files/557439/TTMontelier_reglement2026&JA.pdf,Distance non disponible
+3455,Tournoi du Racing Club de Strasbourg 2026,2026-04-18T00:00:00,2026-04-19T00:00:00,B,67100,Strasbourg,https://apiv2.fftt.com/api/files/557403/Tournoi National du Racing Club de Strasbourg 2025-2026 - Règlement.pdf,Distance non disponible
+3301,Tournoi National du SU AGEN 2026,2026-04-18T00:00:00,2026-04-19T00:00:00,B,47550,BOE,https://apiv2.fftt.com/api/files/559480/Règlement Tournoi 2026 National B du SUA Tennis de Table.pdf,Distance non disponible
+3459,Tournoi National B Saint-Rémy-Chevreuse-Tennis de Table,2026-04-25T00:00:00,2026-04-26T00:00:00,B,78470,Saint-Rémy-lès-Chevreuse,https://apiv2.fftt.com/api/files/557737/SRCTT_Règlement_Tournoi_2026-04.pdf,Distance non disponible
+3405,4 ème Grand Prix deTennis de Table de COURBEVOIE - BUTTERFLY,2026-04-25T00:00:00,2026-04-26T00:00:00,A,92400,Courbevoie,https://apiv2.fftt.com/api/files/558325/Tournoi 2026 Courbevoie.pdf,Distance non disponible
+3450,22ème Open Catalan de Tennis de Table,2026-05-03T00:00:00,2026-05-03T00:00:00,B,66350,TOULOUGES,https://apiv2.fftt.com/api/files/557255/Reglement - 22ème Open Catalan de Tennis de Table 2026.pdf,Distance non disponible
+3439,Open France Corpo Centre Val de Loire,2026-05-16T00:00:00,2026-05-17T00:00:00,B,41500,Mer,https://apiv2.fftt.com/api/files/555369/Règlement Open France corpos Centre-Val de Loire.pdf,Distance non disponible
+3443,CHALLENGE FÉLIX,2026-06-27T00:00:00,2026-06-27T00:00:00,R,31600,MURET,https://apiv2.fftt.com/api/files/559591/Règlement challenge Félix V7.pdf,Distance non disponible
