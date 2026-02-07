@@ -12,7 +12,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3247,Tournoi de Périgné,2026-02-21T00:00:00,2026-02-21T00:00:00,B,79500,Melle,https://apiv2.fftt.com/api/files/555405/Règlement Tournoi régional de Périgné 2026.pdf,
 3238,Tournoi national B du Bouscat,2026-02-21T00:00:00,2026-02-22T00:00:00,B,33110,le bouscat,https://apiv2.fftt.com/api/files/502893/tournoi_bouscat_2026_reglement.pdf,
 3351,Tournoi National B Saint-Avertin 2026,2026-02-21T00:00:00,2026-02-22T00:00:00,B,37550,SAINT-AVERTIN,https://apiv2.fftt.com/api/files/545166/Réglement_Tournoi_National_B_Saint-Avertin_2026_B.pdf,
-3472,TOURNOI REGIONAL DE L'ASTT TAISSY TROPHEE FRANCOIS GRIEDER,2026-02-22T00:00:00,2026-02-22T00:00:00,R,51500,TAISSY,https://apiv2.fftt.com/api/files/559476/reglement tournoi  astt taissy.pdf,Distance non disponible
+3472,TOURNOI REGIONAL DE L'ASTT TAISSY TROPHEE FRANCOIS GRIEDER,2026-02-22T00:00:00,2026-02-22T00:00:00,R,51500,TAISSY,https://apiv2.fftt.com/api/files/559476/reglement tournoi  astt taissy.pdf,
 3323,Tournoi National B de l'Entente Mortainaise,2026-02-22T00:00:00,2026-02-22T00:00:00,B,50140,MORTAIN,https://apiv2.fftt.com/api/files/535974/Reglement Tournoi EMTT 2026.pdf,
 3372,35ème TOURNOI REGIONAL MARCEL CHARTEAU,2026-02-22T00:00:00,2026-02-22T00:00:00,R,85300,SALLERTAINE,https://apiv2.fftt.com/api/files/525048/REGLEMENT 35ème TOURNOI MARCEL CHARTEAU du 22 fevrier 2026.pdf,
 3285,1er tournoi régional de Surgères,2026-02-22T00:00:00,2026-02-22T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/512358/reglement tournoi 2026.pdf,
@@ -30,7 +30,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3442,Tournoi Jean-Marcel BAR PPC Flines Les Raches 2026,2026-04-04T00:00:00,2026-04-06T00:00:00,B,59148,FLINES LES RACHES,https://apiv2.fftt.com/api/files/555414/reglement_tournoi_2026.pdf,
 3401,TOURNOI NATIONAL DE CLERMONT-FERRAND - Challenge Patrick Neyrat 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,63122,Ceyrat,https://apiv2.fftt.com/api/files/545332/Reglement Challenge Patrick Neyrat 2026.pdf,
 3419,Tournoi national Jimmy Cusseau Nantes Saint Medard de Doulon 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,44200,Nantes,https://apiv2.fftt.com/api/files/546756/Réglement du tournoi National 2026vdef.pdf,
-3470,Tournoi de Pâques de Batilly,2026-04-04T00:00:00,2026-04-06T00:00:00,R,54980,Batilly,https://apiv2.fftt.com/api/files/559579/Reglement tournoi+feuille d'engagement 2026.pdf,Distance non disponible
+3470,Tournoi de Pâques de Batilly,2026-04-04T00:00:00,2026-04-06T00:00:00,R,54980,Batilly,https://apiv2.fftt.com/api/files/559579/Reglement tournoi+feuille d'engagement 2026.pdf,
 3387,TOURNOI NATIONAL B ZUP JEUNES NOGENT SUR OISE,2026-04-04T00:00:00,2026-04-05T00:00:00,B,60180,Nogent-sur-Oise,https://apiv2.fftt.com/api/files/555402/Règlement tournoi nationnal B 2026_.pdf,
 3368,Tournoi national de Paques à Chalons en champagne,2026-04-04T00:00:00,2026-04-06T00:00:00,A,51000,chalons en champagne,https://apiv2.fftt.com/api/files/546811/reglement tournoi 2026 fftt.pdf,
 3426,Trophée de L’homopongistus Thuirinois,2026-04-05T00:00:00,2026-04-05T00:00:00,R,66300,Thuir,https://apiv2.fftt.com/api/files/555500/Reglement Tournoi 2026.pdf,
