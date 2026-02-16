@@ -1,2 +1,3 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3477,Tournoi régional de Crest,2026-03-28T00:00:00,2026-03-28T00:00:00,R,26400,CREST,https://apiv2.fftt.com/api/files/559786/Reglement tournoi - attestation JA.pdf,Distance non disponible
+3428,Tournoi régional du Tennis de Table de Coudekerque-Branche,2026-04-18T00:00:00,2026-04-19T00:00:00,R,59210,Coudekerque-Branche,https://apiv2.fftt.com/api/files/557538/Reglement_v5_TR.pdf,Distance non disponible
+3453,TOURNOI DES 40 ANS DU PPC MARCK,2026-05-23T00:00:00,2026-05-24T00:00:00,R,62730,Marck,https://apiv2.fftt.com/api/files/557339/tournoi40ans.pdf,Distance non disponible
