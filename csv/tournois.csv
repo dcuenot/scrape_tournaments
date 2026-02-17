@@ -40,7 +40,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3414,OPEN de MONTIVILLIERS 2026,2026-04-18T00:00:00,2026-04-19T00:00:00,B,76290,MONTIVILLIERS,https://apiv2.fftt.com/api/files/546548/Reglement-Tournoi-Montivilliers-2026.pdf,
 3434,PANALOISIRS - 10ème tournoi National B,2026-04-18T00:00:00,2026-04-18T00:00:00,B,87350,PANAZOL,https://apiv2.fftt.com/api/files/555289/règlement tournoi 2026 v1.pdf,
 3455,Tournoi du Racing Club de Strasbourg 2026,2026-04-18T00:00:00,2026-04-19T00:00:00,B,67100,Strasbourg,https://apiv2.fftt.com/api/files/559706/Tournoi National du Racing Club de Strasbourg 2025-2026 - Règlement.pdf,
-3428,Tournoi régional du Tennis de Table de Coudekerque-Branche,2026-04-18T00:00:00,2026-04-19T00:00:00,R,59210,Coudekerque-Branche,https://apiv2.fftt.com/api/files/557538/Reglement_v5_TR.pdf,Distance non disponible
+3428,Tournoi régional du Tennis de Table de Coudekerque-Branche,2026-04-18T00:00:00,2026-04-19T00:00:00,R,59210,Coudekerque-Branche,https://apiv2.fftt.com/api/files/557538/Reglement_v5_TR.pdf,
 3421,TOURNOI DES SINAGOTS  (SENE Tennis de Table),2026-04-18T00:00:00,2026-04-19T00:00:00,R,56860,SENE,https://apiv2.fftt.com/api/files/546805/Projet _SENE TT _ Règlement _ Tournoi des 18 et 19 avril 2026.pdf,
 3452,Tournoi National Petit Mars,2026-04-18T00:00:00,2026-04-19T00:00:00,B,44390,Petit Mars,https://apiv2.fftt.com/api/files/557337/PMTT Règlement Tournoi national 2026.pdf,
 3380,Tournoi National B Ste Jamme MCS Tennis de Table,2026-04-18T00:00:00,2026-04-19T00:00:00,B,72380,Sainte Jamme Sur Sarthe,https://apiv2.fftt.com/api/files/545483/Règlement tournoi 2026 Version déf (2).pdf,
@@ -82,7 +82,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3347,TOURNOI SUD LOIRE TENNIS DE TABLE 45,2026-05-17T00:00:00,2026-05-17T00:00:00,R,45590,Saint Cyr en Val,https://apiv2.fftt.com/api/files/568245/Reglement tournoi SLTT V3.pdf,
 3343,16ème Open jeune du Havre,2026-05-17T00:00:00,2026-05-17T00:00:00,B,76620,le Havre,https://apiv2.fftt.com/api/files/511884/Reglement open jeune 2026.pdf,
 3255,MONQUI PONG CONTENDER 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,69650,QUINCIEUX,https://apiv2.fftt.com/api/files/469895/reglement Tournoi MONQUI V2.pdf,
-3453,TOURNOI DES 40 ANS DU PPC MARCK,2026-05-23T00:00:00,2026-05-24T00:00:00,R,62730,Marck,https://apiv2.fftt.com/api/files/557339/tournoi40ans.pdf,Distance non disponible
+3453,TOURNOI DES 40 ANS DU PPC MARCK,2026-05-23T00:00:00,2026-05-24T00:00:00,R,62730,Marck,https://apiv2.fftt.com/api/files/557339/tournoi40ans.pdf,
 3270,31éme Tournoi Ludovic Bayart,2026-05-23T00:00:00,2026-05-25T00:00:00,R,37210,Parçay Meslay,https://apiv2.fftt.com/api/files/570335/REGLEMENT-31-TOURNOI des 23 au 25 mai 2026-V2.pdf,
 3322,Tournoi départemental US Saint Maur,2026-06-13T00:00:00,2026-06-13T00:00:00,D,36250,ST MAUR,https://apiv2.fftt.com/api/files/498002/.pdf,
 3328,TOURNOI NATIONAL B VILLERS ST PAUL TT,2026-06-13T00:00:00,2026-06-14T00:00:00,B,60870,Villers Saint Paul,https://apiv2.fftt.com/api/files/512210/Règlement tournoi national B Villers Saint Paul.pdf,
