@@ -1,12 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3415,Tournoi National 52 eme,2026-04-04T00:00:00,2026-04-05T00:00:00,B,49390,VERNANTES,https://apiv2.fftt.com/api/files/556944/reglement tournoi RVTT 2026-v4.pdf,Distance non disponible
-3465,TOURNOI NATIONAL B DE TENNIS DE TABLE DU PAYS DE L'AIGLE ET DE LA MARCHE,2026-04-18T00:00:00,2026-04-19T00:00:00,B,61300,L'AIGLE,https://apiv2.fftt.com/api/files/558278/TN_PaysAiglon_reglement-2026.pdf,Distance non disponible
-3460,TOURNOI NATIONAL B ASTT DIVION,2026-04-18T00:00:00,2026-04-19T00:00:00,B,62460,Divion,https://apiv2.fftt.com/api/files/559632/reglement 2026.pdf,Distance non disponible
-3457,tournoi national B CTT HAUBOURDIN,2026-04-18T00:00:00,2026-04-19T00:00:00,B,59320,Haubourdin,https://apiv2.fftt.com/api/files/558163/tournoi 2026(2).pdf,Distance non disponible
-3480,Tournoi National A.T.T. RAQUETTE D'O.R.,2026-04-18T00:00:00,2026-04-19T00:00:00,B,35590,L'HERMITAGE,https://apiv2.fftt.com/api/files/567739/Règlement tournoi national A.T.T. LA RAQUETTE D'O.R. 2026.pdf,Distance non disponible
-3420,Tournoi National B CTT Hergnies Fresnes,2026-04-18T00:00:00,2026-04-19T00:00:00,B,59970,Fresnes-sur-Escaut,https://apiv2.fftt.com/api/files/546584/Réglement Tounoi 2026 Fini.pdf,Distance non disponible
-3466,39ème tournoi national B de Breteuil,2026-04-19T00:00:00,2026-04-19T00:00:00,B,60120,Breteuil sur Noye,https://apiv2.fftt.com/api/files/559715/Règlement Tournoi Breteuil WG TT 2026(2).pdf,Distance non disponible
-3448,Internationaux Jeunes de Mulhouse 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,I,68200,MULHOUSE,https://apiv2.fftt.com/api/files/556837/REGLEMENT-Internationaux-Jeunes-de-Mulhouse-2026.pdf,Distance non disponible
-3451,UNION-PONGISTE-ROZ-BAGUER,2026-04-26T00:00:00,2026-04-26T00:00:00,B,35120,BAGUER-MORVAN,https://apiv2.fftt.com/api/files/557548/Réglement tournoi 2026 U.P.R.B.pdf,Distance non disponible
-3469,Tournoi national 2026 Murs Erigné tennis de table,2026-05-01T00:00:00,2026-05-02T00:00:00,B,49610,Murs Erigné,https://apiv2.fftt.com/api/files/558359/Réglement tournoi 2026 01 30 final + dotation.pdf,Distance non disponible
-3464,1er TOURNOI National B de l’AS Brévannaise Tennis de table,2026-05-23T00:00:00,2026-05-24T00:00:00,B,94450,Limeil brévannes,https://apiv2.fftt.com/api/files/558152/Règlement tournoi Asbrévannaise 23-24mai2026.pdf,Distance non disponible
+3477,Tournoi régional de Crest,2026-03-28T00:00:00,2026-03-28T00:00:00,R,26400,CREST,https://apiv2.fftt.com/api/files/559786/Reglement tournoi - attestation JA.pdf,Distance non disponible
