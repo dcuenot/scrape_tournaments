@@ -12,7 +12,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3431,TOURNOI REGIONAL DE QUINT-FONSEGRIVES 2026 : LES 30 ANS DU TOURNOI ,2026-03-01T00:00:00,2026-03-01T00:00:00,R,31130,Quint-Fonsegrives,https://apiv2.fftt.com/api/files/555403/Règlement_tournoi+Affiche.pdf,
 3477,Tournoi régional de Crest,2026-03-28T00:00:00,2026-03-28T00:00:00,R,26400,CREST,https://apiv2.fftt.com/api/files/559786/Reglement tournoi - attestation JA.pdf,
 3368,Tournoi national de Paques à Chalons en champagne,2026-04-04T00:00:00,2026-04-06T00:00:00,A,51000,chalons en champagne,https://apiv2.fftt.com/api/files/546811/reglement tournoi 2026 fftt.pdf,
-3505,Open de Lille - 9ème édition,2026-04-04T00:00:00,2026-04-05T00:00:00,I,59000,Lille,https://apiv2.fftt.com/api/files/571033/Open-de-Lille-réglement-2026.pdf,Distance non disponible
+3505,Open de Lille - 9ème édition,2026-04-04T00:00:00,2026-04-05T00:00:00,I,59000,Lille,https://apiv2.fftt.com/api/files/571033/Open-de-Lille-réglement-2026.pdf,
 3387,TOURNOI NATIONAL B ZUP JEUNES NOGENT SUR OISE,2026-04-04T00:00:00,2026-04-05T00:00:00,B,60180,Nogent-sur-Oise,https://apiv2.fftt.com/api/files/555402/Règlement tournoi nationnal B 2026_.pdf,
 3401,TOURNOI NATIONAL DE CLERMONT-FERRAND - Challenge Patrick Neyrat 2026,2026-04-04T00:00:00,2026-04-05T00:00:00,B,63122,Ceyrat,https://apiv2.fftt.com/api/files/545332/Reglement Challenge Patrick Neyrat 2026.pdf,
 3442,Tournoi Jean-Marcel BAR PPC Flines Les Raches 2026,2026-04-04T00:00:00,2026-04-06T00:00:00,B,59148,FLINES LES RACHES,https://apiv2.fftt.com/api/files/555414/reglement_tournoi_2026.pdf,
@@ -48,7 +48,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3455,Tournoi du Racing Club de Strasbourg 2026,2026-04-18T00:00:00,2026-04-19T00:00:00,B,67100,Strasbourg,https://apiv2.fftt.com/api/files/559706/Tournoi National du Racing Club de Strasbourg 2025-2026 - Règlement.pdf,
 3390,TOURNOI RAMBOUILLET,2026-04-18T00:00:00,2026-04-19T00:00:00,B,78120,rambouillet,https://apiv2.fftt.com/api/files/558113/RAMBOUILLET TOURNOI NATIONAL B .pdf,
 3457,tournoi national B CTT HAUBOURDIN,2026-04-18T00:00:00,2026-04-19T00:00:00,B,59320,Haubourdin,https://apiv2.fftt.com/api/files/558163/tournoi 2026(2).pdf,
-3510,Tournoi national B Saint Hilaire/Parigny 2026,2026-04-19T00:00:00,2026-04-19T00:00:00,B,50600,SAINT HILAIRE DU HARCOUET,https://apiv2.fftt.com/api/files/571272/Tournoi_-Réglement 2026.pdf,Distance non disponible
+3510,Tournoi national B Saint Hilaire/Parigny 2026,2026-04-19T00:00:00,2026-04-19T00:00:00,B,50600,SAINT HILAIRE DU HARCOUET,https://apiv2.fftt.com/api/files/571272/Tournoi_-Réglement 2026.pdf,
 3466,39ème tournoi national B de Breteuil,2026-04-19T00:00:00,2026-04-19T00:00:00,B,60120,Breteuil sur Noye,https://apiv2.fftt.com/api/files/559715/Règlement Tournoi Breteuil WG TT 2026(2).pdf,
 3436,TOURNOI  RÉGIONAL  FÉMININ DU CHESNAY TENNIS DE TABLE,2026-04-19T00:00:00,2026-04-19T00:00:00,R,78150,LE CHESNAY-ROCQUENCOURT,https://apiv2.fftt.com/api/files/555365/Reglement-Tournoi_Feminin_Le_Chesnay_Classique-ed6.pdf,
 3482,Tournoi de Tennis de Table,2026-04-25T00:00:00,2026-04-25T00:00:00,R,18390,ST GERMAIN DU PUY,https://apiv2.fftt.com/api/files/567958/Règlement tournoi 2026.pdf,
