@@ -1,6 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3408,Mésanger - 1er et 2 mai 2026,2026-05-01T00:00:00,2026-05-02T00:00:00,B,44522,Mésanger,https://apiv2.fftt.com/api/files/571028/2026-05-01 & 02 Règlement V3 AU 19-02-2026.pdf,Distance non disponible
-3498,Tournoi de Saint-Denis TT 93,2026-05-01T00:00:00,2026-05-03T00:00:00,B,93200,saint-denis,https://apiv2.fftt.com/api/files/570705/règlement tournoi SDTT93 2026.pdf,Distance non disponible
-3499,Tournoi du COMT PONTHIERRY 2026,2026-05-01T00:00:00,2026-05-03T00:00:00,B,77310,Saint-Fargeau-Ponthierry ,https://apiv2.fftt.com/api/files/570917/règlement tournoi 2026 Nat B COMT PONTHIERRY.docx_20260218_171915_0000.pdf,Distance non disponible
-3430,TOURNOI NATIONAL ESPERANCE LEDONIENNE,2026-05-01T00:00:00,2026-05-01T00:00:00,B,39000,Lons le Saunier,https://apiv2.fftt.com/api/files/554696/Règlement Tournoi ELTT 1er mai 2026 VDEF.pdf,Distance non disponible
-3485,6ème TOURNOI - NATIONAL B du CTT LAMBERSART,2026-05-02T00:00:00,2026-05-03T00:00:00,B,59130,Lambersart,https://apiv2.fftt.com/api/files/571030/20260210-CTTL-Tournoi2026-ReglementDotations-COUBERTIN-V4-FFTT+QrCode4930€.pdf,Distance non disponible
+3489,TOURNOI REGIONAL DE VILLEFRANCHE DE ROUERGUE,2026-05-17T00:00:00,2026-05-17T00:00:00,R,12200,VILLERFRANCHE DE ROUERGUE,https://apiv2.fftt.com/api/files/572055/TOURNOI-REGIONAL-REGLEMENT-DEFINITIF-2026.pdf,Distance non disponible
