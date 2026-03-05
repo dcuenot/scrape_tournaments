@@ -46,7 +46,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3433,5e TOURNOI NATIONAL B PETIT-QUEVILLY,2026-04-25T00:00:00,2026-04-26T00:00:00,B,76140,Petit-Quevilly,https://apiv2.fftt.com/api/files/555195/Réglement officiel - 2026.pdf,
 3459,Tournoi National B Saint-Rémy-Chevreuse-Tennis de Table,2026-04-25T00:00:00,2026-04-26T00:00:00,B,78470,Saint-Rémy-lès-Chevreuse,https://apiv2.fftt.com/api/files/557737/SRCTT_Règlement_Tournoi_2026-04.pdf,
 3402,Tournoi National de l'ASTT Herblay,2026-04-25T00:00:00,2026-04-26T00:00:00,B,95220,HERBLAY SUR SEINE,https://apiv2.fftt.com/api/files/539700/Règlement Tournoi National B ASTT Herblay - 25 & 26 avril 2026 VF.pdf,
-3508,Tournoi National B de l'ASM GigeanTT,2026-04-25T00:00:00,2026-04-26T00:00:00,B,34770,Gigean,https://apiv2.fftt.com/api/files/571457/Réglement tournoi 2026.docx-2.pdf,Distance non disponible
+3508,Tournoi National B de l'ASM GigeanTT,2026-04-25T00:00:00,2026-04-26T00:00:00,B,34770,Gigean,https://apiv2.fftt.com/api/files/571457/Réglement tournoi 2026.docx-2.pdf,
 3482,Tournoi de Tennis de Table,2026-04-25T00:00:00,2026-04-25T00:00:00,R,18390,ST GERMAIN DU PUY,https://apiv2.fftt.com/api/files/567958/Règlement tournoi 2026.pdf,
 3404, Tournoi National B 2026 Misterping,2026-04-25T00:00:00,2026-04-26T00:00:00,B,59780,BAISIEUX,https://apiv2.fftt.com/api/files/545254/Règlement Tournoi National BTT 2026_compressed.pdf,
 3405,4 ème Grand Prix deTennis de Table de COURBEVOIE - BUTTERFLY,2026-04-25T00:00:00,2026-04-26T00:00:00,A,92400,Courbevoie,https://apiv2.fftt.com/api/files/558325/Tournoi 2026 Courbevoie.pdf,
@@ -86,7 +86,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3467,Tournoi Régional du CP Mioland,2026-06-13T00:00:00,2026-06-13T00:00:00,R,69780,Mions,https://apiv2.fftt.com/api/files/559696/REGLEMENT+ATTESTATION JA.pdf,
 3322,Tournoi départemental US Saint Maur,2026-06-13T00:00:00,2026-06-13T00:00:00,D,36250,ST MAUR,https://apiv2.fftt.com/api/files/498002/.pdf,
 3328,TOURNOI NATIONAL B VILLERS ST PAUL TT,2026-06-13T00:00:00,2026-06-14T00:00:00,B,60870,Villers Saint Paul,https://apiv2.fftt.com/api/files/512210/Règlement tournoi national B Villers Saint Paul.pdf,
-3341,10ème Vexin Ping Oise,2026-06-14T00:00:00,2026-06-14T00:00:00,B,60240,Chaumont-En-Vexin,https://apiv2.fftt.com/api/files/558209/VEXIN PING OISE 10 - REGLEMENT TOURNOI HOMOLOGUE V8-1.pdf,
+3341,10ème Vexin Ping Oise,2026-06-14T00:00:00,2026-06-14T00:00:00,B,60240,Chaumont-En-Vexin,https://apiv2.fftt.com/api/files/572703/VEXIN PING OISE 10 - REGLEMENT TOURNOI HOMOLOGUE V10.pdf,
 3253,TOURNOI REGIONAL ES ORMES TT,2026-06-14T00:00:00,2026-06-14T00:00:00,R,45140,Ormes,https://apiv2.fftt.com/api/files/469446/Réglement tournoi Ormes 2026.pdf,
 3355,Tournoi National B du PPC BAVANS,2026-06-21T00:00:00,2026-06-21T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/512544/Règlement tournoi Bavans 2026.pdf,
 3234,TOURNOI NATIONAL B CLERY ST ANDRE,2026-06-27T00:00:00,2026-06-28T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/465206/Règlement 2026.pdf,
