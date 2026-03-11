@@ -1,18 +1,6 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3425,TOURNOI NATIONAL DU TT PLAISANCOIS (31),2026-04-04T00:00:00,2026-04-05T00:00:00,B,31830,Plaisance-du-Touch,https://apiv2.fftt.com/api/files/546684/Règlement Tournoi National B du TT Plaisançois 2026.docx.pdf,Distance non disponible
-3490,ATT AULNAT,2026-05-01T00:00:00,2026-05-01T00:00:00,B,63510,AULNAT,https://apiv2.fftt.com/api/files/572538/Tournoi Aulnat 1er mai 2026_compressed (1).pdf,Distance non disponible
-3517,Tournoi CSM Eaubonne 2026,2026-05-14T00:00:00,2026-05-16T00:00:00,B,95600,EAUBONNE,https://apiv2.fftt.com/api/files/571462/2026_Règlement Tournoi_NatB_CSM-Eaubonne_v2.pdf,Distance non disponible
-3438,TNP 2026 - Tournoi National de POITIERS,2026-05-14T00:00:00,2026-05-16T00:00:00,A,86000,POITIERS,https://apiv2.fftt.com/api/files/570406/Affiche et Règlement_V2_TNP 2026.pdf,Distance non disponible
-3462,12ème Tournoi National de l'ASSUP Fos sur Mer,2026-05-16T00:00:00,2026-05-17T00:00:00,B,13270,Fos sur Mer,https://apiv2.fftt.com/api/files/558119/Réglement Tournoi ASSUP 2026.pdf,Distance non disponible
-3423,TOURNOI NATIONAL B DE NEUVES MAISONS,2026-05-16T00:00:00,2026-05-17T00:00:00,B,54230,Neuves Maisons,https://apiv2.fftt.com/api/files/546666/Règlement tournoi national TTNM 2026.pdf,Distance non disponible
-3456,TOURNOI NATIONAL B DE L'ASCENSION,2026-05-16T00:00:00,2026-05-17T00:00:00,B,35400,SAINT-MALO,https://apiv2.fftt.com/api/files/557482/ReglementTournoi2026.pdf,Distance non disponible
-3417,5° tournoi international ASPTT Montluçon,2026-05-23T00:00:00,2026-05-24T00:00:00,I,03100,MONTLUCON,https://apiv2.fftt.com/api/files/571404/règlement officiel tournoi 2026.pdf,Distance non disponible
-3497,17 ème tournoi national de Perpignan,2026-05-23T00:00:00,2026-05-24T00:00:00,A,66100,PERPIGNAN,https://apiv2.fftt.com/api/files/572536/Reglement Tournoi PRTT 2026 (1).pdf,Distance non disponible
-3473,25ème TOURNOI NATIONAL D'ARLES,2026-05-23T00:00:00,2026-05-24T00:00:00,A,13200,ARLES,https://apiv2.fftt.com/api/files/559538/Règlement 25ème Tournoi NATIONAL 2026 (4).pdf,Distance non disponible
-3447,Tournoi National B - La Madeleine,2026-05-24T00:00:00,2026-05-25T00:00:00,B,59110,LA MADELEINE,https://apiv2.fftt.com/api/files/572785/2026-05-ReglementTourrnoi USM TT V2.pdf,Distance non disponible
-3429,TOURNOI NATIONAL de TRIEL SUR SEINE TENNIS DE TABLE,2026-06-13T00:00:00,2026-06-14T00:00:00,B,78510,TRIEL SUR SEINE,https://apiv2.fftt.com/api/files/551583/Reglement tournoi TTT v2.pdf,Distance non disponible
-3483,CA BEGLAIS Tournoi National 2026,2026-06-13T00:00:00,2026-06-14T00:00:00,B,33130,Begles,https://apiv2.fftt.com/api/files/568173/REGLEMENT TOURNOI 2026.pdf,Distance non disponible
-3479,Tournoi National de Maisons Alfort,2026-06-13T00:00:00,2026-06-14T00:00:00,B,94700,Maisons Alfort,https://apiv2.fftt.com/api/files/559804/Reglement tournoi National B MAISONS ALFORT[27].pdf,Distance non disponible
-3476,TOURNOI NATIONAL DU SAINT CHAMOND TENNIS DE TABLE,2026-06-13T00:00:00,2026-06-13T00:00:00,B,42400,SAINT CHAMOND,https://apiv2.fftt.com/api/files/570853/Règlement tournoi Saint-Chamond 2026 FFTT.pdf,Distance non disponible
-3475,NANTES SAINT JO TENNIS DE TABLE 2026,2026-06-19T00:00:00,2026-06-21T00:00:00,B,44300,Nantes,https://apiv2.fftt.com/api/files/559709/NSJTT-tournoi_National_2026_rglt.pdf,Distance non disponible
-3491,Tournoi National B PLESCOP (56),2026-06-20T00:00:00,2026-06-21T00:00:00,B,56890,PLESCOP,https://apiv2.fftt.com/api/files/570702/REGLEMENT TOURNOI NATIONAL PLESCOP 20_21 juin 2026.pdf,Distance non disponible
+3511,TOURNOI REGIONAL FOLCLO LORIENT OUEST,2026-05-17T00:00:00,2026-05-17T00:00:00,R,56100,LORIENT,https://apiv2.fftt.com/api/files/572775/Reglement Tournoi 2026.pdf,Distance non disponible
+3518,Tournoi National B de SAINT-DIVY(29),2026-05-23T00:00:00,2026-05-25T00:00:00,B,29800,SAINT-DIVY,https://apiv2.fftt.com/api/files/572787/Tournoi Saint-Divy Sport TT 2026 - Règlement.pdf,Distance non disponible
+3496,Tournoi National B BETHUNE BEUVRY ASTT 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,62400,BETHUNE ,https://apiv2.fftt.com/api/files/572612/Règlement Tournoi des 23 et 24 mai 2026 .pdf,Distance non disponible
+3481,2eme tournoi départemental SAINT-MEDARD TT,2026-05-23T00:00:00,2026-05-23T00:00:00,D,35250,Saint Médard sur Ille,https://apiv2.fftt.com/api/files/572582/SMTT règlement tournoi 2026.pdf,Distance non disponible
+3492,9 ème tournoi national B du TT Fougères/Javené/Lécousse,2026-05-24T00:00:00,2026-05-25T00:00:00,B,35133,JAVENE,https://apiv2.fftt.com/api/files/570137/Règlement-Tournoi-24-25-mai-2026(1).pdf,Distance non disponible
