@@ -1,6 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3511,TOURNOI REGIONAL FOLCLO LORIENT OUEST,2026-05-17T00:00:00,2026-05-17T00:00:00,R,56100,LORIENT,https://apiv2.fftt.com/api/files/572775/Reglement Tournoi 2026.pdf,Distance non disponible
-3518,Tournoi National B de SAINT-DIVY(29),2026-05-23T00:00:00,2026-05-25T00:00:00,B,29800,SAINT-DIVY,https://apiv2.fftt.com/api/files/572787/Tournoi Saint-Divy Sport TT 2026 - Règlement.pdf,Distance non disponible
-3496,Tournoi National B BETHUNE BEUVRY ASTT 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,62400,BETHUNE ,https://apiv2.fftt.com/api/files/572612/Règlement Tournoi des 23 et 24 mai 2026 .pdf,Distance non disponible
-3481,2eme tournoi départemental SAINT-MEDARD TT,2026-05-23T00:00:00,2026-05-23T00:00:00,D,35250,Saint Médard sur Ille,https://apiv2.fftt.com/api/files/572582/SMTT règlement tournoi 2026.pdf,Distance non disponible
-3492,9 ème tournoi national B du TT Fougères/Javené/Lécousse,2026-05-24T00:00:00,2026-05-25T00:00:00,B,35133,JAVENE,https://apiv2.fftt.com/api/files/570137/Règlement-Tournoi-24-25-mai-2026(1).pdf,Distance non disponible
+3504,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2026-06-27T00:00:00,2026-06-27T00:00:00,R,38290,LA VERPILLIERE,https://apiv2.fftt.com/api/files/580990/REGLEMENT TOURNOI 2026+JA.pdf,Distance non disponible
