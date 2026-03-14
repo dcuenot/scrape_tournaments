@@ -64,7 +64,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3371,Tournoi National B La Chapelle ALTT,2026-05-01T00:00:00,2026-05-03T00:00:00,B,72650,La Chapelle St Aubin,https://apiv2.fftt.com/api/files/557349/Reglement Tournoi 2026_V5.pdf,
 3379,"Tournoi National ""B"" Entente Pongiste Estaires La Gorgue Merville",2026-05-01T00:00:00,2026-05-02T00:00:00,B,59940,Estaires,https://apiv2.fftt.com/api/files/545787/règlement tournoi national B Estaires 2026.pdf,
 3389,Tournoi Régional du Tennis de Table de GRAULHET,2026-05-01T00:00:00,2026-05-01T00:00:00,R,81300,GRAULHET,https://apiv2.fftt.com/api/files/546687/RÈGLEMENT TOURNOI TT GRAULHET du 01.05.2026.pdf,
-3408,Mésanger - 1er et 2 mai 2026,2026-05-01T00:00:00,2026-05-02T00:00:00,B,44522,Mésanger,https://apiv2.fftt.com/api/files/571028/2026-05-01 & 02 Règlement V3 AU 19-02-2026.pdf,
+3408,Mésanger - 1er et 2 mai 2026,2026-05-01T00:00:00,2026-05-02T00:00:00,B,44522,Mésanger,https://apiv2.fftt.com/api/files/581104/2026-05-01 & 02 Règlement V3 AU 27-02-2026.pdf,
 3430,TOURNOI NATIONAL ESPERANCE LEDONIENNE,2026-05-01T00:00:00,2026-05-01T00:00:00,B,39000,Lons le Saunier,https://apiv2.fftt.com/api/files/554696/Règlement Tournoi ELTT 1er mai 2026 VDEF.pdf,
 3212,9eme tournoi National B de BLOIS PING 41 02-03 mai 2026,2026-05-02T00:00:00,2026-05-03T00:00:00,B,41000,Blois,https://apiv2.fftt.com/api/files/469326/règlement tournoi 2026 v4 30062025.pdf,
 3485,6ème TOURNOI - NATIONAL B du CTT LAMBERSART,2026-05-02T00:00:00,2026-05-03T00:00:00,B,59130,Lambersart,https://apiv2.fftt.com/api/files/572759/20260227-CTTL-Tournoi2026-Reglement-COUBERTIN-V3-FFTT-2451-2025-B-Bus.pdf,
@@ -114,5 +114,5 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3355,Tournoi National B du PPC BAVANS,2026-06-21T00:00:00,2026-06-21T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/512544/Règlement tournoi Bavans 2026.pdf,
 3443,CHALLENGE FÉLIX,2026-06-27T00:00:00,2026-06-27T00:00:00,R,31600,MURET,https://apiv2.fftt.com/api/files/559591/Règlement challenge Félix V7.pdf,
 3234,TOURNOI NATIONAL B CLERY ST ANDRE,2026-06-27T00:00:00,2026-06-28T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/465206/Règlement 2026.pdf,
-3504,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2026-06-27T00:00:00,2026-06-27T00:00:00,R,38290,LA VERPILLIERE,https://apiv2.fftt.com/api/files/580990/REGLEMENT TOURNOI 2026+JA.pdf,Distance non disponible
+3504,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2026-06-27T00:00:00,2026-06-27T00:00:00,R,38290,LA VERPILLIERE,https://apiv2.fftt.com/api/files/580990/REGLEMENT TOURNOI 2026+JA.pdf,
 3289,TOURNOI NATIONAL B DU SPORT TENNIS DE TABLE DE MÉZÉRIAT,2026-06-27T00:00:00,2026-06-28T00:00:00,B,01660,Mézériat,https://apiv2.fftt.com/api/files/471598/Reglement tournoi 2026.pdf,
