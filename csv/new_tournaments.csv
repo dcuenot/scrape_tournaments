@@ -1,2 +1,14 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3520,1er OPEN ROCHOIS TT,2026-05-23T00:00:00,2026-05-23T00:00:00,R,74800,La Roche sur Foron,https://apiv2.fftt.com/api/files/581089/OpenRochoisTT-LettreEngagement.pdf,Distance non disponible
+3471,TOURNOI REGIONAL SAMTT LESPARRE,2026-05-01T00:00:00,2026-05-01T00:00:00,R,33340,LESPARRE MEDOC,https://apiv2.fftt.com/api/files/572526/règlement 1er mai.pdf,Distance non disponible
+3523,GRAND PRIX DE LA VILLE DE REIMS 2026,2026-05-14T00:00:00,2026-05-14T00:00:00,B,51100,REIMS,https://apiv2.fftt.com/api/files/574392/REGLEMENT GRAND PRIX DE LA VILLE DE REIMS TOURNOI NATIONALB 2026pdf.pdf,Distance non disponible
+3512,Tournoi National B - Tony Dutombois,2026-05-16T00:00:00,2026-05-17T00:00:00,B,62330,ISBERGUES,https://apiv2.fftt.com/api/files/571275/Réglement tournoi Isbergues TT 2026.pdf,Distance non disponible
+3494,TOURNOI NATIONAL B GERARD OLIVE,2026-05-17T00:00:00,2026-05-17T00:00:00,B,50400,GRANVILLE,https://apiv2.fftt.com/api/files/570463/REGLEMENT TOURNOI 2026.pdf,Distance non disponible
+3524,Tournoi national B de Flers (61),2026-05-24T00:00:00,2026-05-25T00:00:00,B,61100,Flers,https://apiv2.fftt.com/api/files/581659/Règlement tournoi 2026 TTFLERS.pdf,Distance non disponible
+3528,13ème Tournoi national d'Epinal,2026-06-13T00:00:00,2026-06-14T00:00:00,B,88000,Épinal,https://apiv2.fftt.com/api/files/581055/Réglement tournoi national 2026 définitif.pdf,Distance non disponible
+3474,Tournoi national du Béziers T.T,2026-06-13T00:00:00,2026-06-14T00:00:00,B,34500,Béziers,https://apiv2.fftt.com/api/files/580872/Règlement tournoi 2026.pdf,Distance non disponible
+3503,TOURNOI NATIONAL B LONGUENESSE TENNIS DE TABLE,2026-06-20T00:00:00,2026-06-21T00:00:00,B,62219,LONGUENESSE,https://apiv2.fftt.com/api/files/571194/Reglement tournoi national b longuenesse tennis de table.pdf,Distance non disponible
+3486,"Tournoi national ""Jacques Hélaine"" de l'Amiens Sport Tennis de Table 2026",2026-06-20T00:00:00,2026-06-21T00:00:00,B,80000,AMIENS,https://apiv2.fftt.com/api/files/568421/Réglement TOURNOI NATIONAL 2026.pdf,Distance non disponible
+3525,Tournoi National B de Bourgoin-Jallieu,2026-06-27T00:00:00,2026-06-28T00:00:00,B,38300,BOURGOIN-JALLIEU,https://apiv2.fftt.com/api/files/580945/Reglement tournoi TTBJ 2026 Lettre JA.pdf,Distance non disponible
+3519,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/581741/Projet règlement Tournoi TOS 2026 V2.pdf,Distance non disponible
+3487,24 heures de tennis de table 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,44330,le Pallet,https://apiv2.fftt.com/api/files/568516/REGLEMENT 24H TT PALLET 2026.pdf,Distance non disponible
+3495,2e open feminin Whiti courtages,2026-06-28T00:00:00,2026-06-28T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/570480/Réglement Open Féminin 2026 V2.pdf,Distance non disponible
