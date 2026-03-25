@@ -82,8 +82,8 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3440,CHAMPHOL ASTT - TOURNOI NATIONAL B 2026 -,2026-05-16T00:00:00,2026-05-17T00:00:00,B,28300,Champhol,https://apiv2.fftt.com/api/files/555384/reglement 2026.pdf,
 3439,Open France Corpo Centre Val de Loire,2026-05-16T00:00:00,2026-05-17T00:00:00,B,41500,Mer,https://apiv2.fftt.com/api/files/555369/Règlement Open France corpos Centre-Val de Loire.pdf,
 3462,12ème Tournoi National de l'ASSUP Fos sur Mer,2026-05-16T00:00:00,2026-05-17T00:00:00,B,13270,Fos sur Mer,https://apiv2.fftt.com/api/files/558119/Réglement Tournoi ASSUP 2026.pdf,
-3461,18° Tournoi de l'ALCL TT Grand-Quevilly,2026-05-16T00:00:00,2026-05-17T00:00:00,I,76120,LE GRAND QUEVILLY,https://apiv2.fftt.com/api/files/581991/Règlement Tournoi International ALCL TT n° .... - 2026-I du 16 & 17 mai 2026.pdf,Distance non disponible
-3531,TOURNOI NATIONAL B DE L'UMS TT PONTAULT-COMBAULT,2026-05-16T00:00:00,2026-05-17T00:00:00,B,77340,Pontault-Combault,https://apiv2.fftt.com/api/files/581980/2026 TOURNOI.pdf,Distance non disponible
+3461,18° Tournoi de l'ALCL TT Grand-Quevilly,2026-05-16T00:00:00,2026-05-17T00:00:00,I,76120,LE GRAND QUEVILLY,https://apiv2.fftt.com/api/files/581991/Règlement Tournoi International ALCL TT n° .... - 2026-I du 16 & 17 mai 2026.pdf,
+3531,TOURNOI NATIONAL B DE L'UMS TT PONTAULT-COMBAULT,2026-05-16T00:00:00,2026-05-17T00:00:00,B,77340,Pontault-Combault,https://apiv2.fftt.com/api/files/581980/2026 TOURNOI.pdf,
 3424,Tournoi National B - Aubenas-Vals,2026-05-16T00:00:00,2026-05-17T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/546686/Réglement + attestation JA3.pdf,
 3423,TOURNOI NATIONAL B DE NEUVES MAISONS,2026-05-16T00:00:00,2026-05-17T00:00:00,B,54230,Neuves Maisons,https://apiv2.fftt.com/api/files/546666/Règlement tournoi national TTNM 2026.pdf,
 3456,TOURNOI NATIONAL B DE L'ASCENSION,2026-05-16T00:00:00,2026-05-17T00:00:00,B,35400,SAINT-MALO,https://apiv2.fftt.com/api/files/557482/ReglementTournoi2026.pdf,
@@ -93,14 +93,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3511,TOURNOI REGIONAL FOLCLO LORIENT OUEST,2026-05-17T00:00:00,2026-05-17T00:00:00,R,56100,LORIENT,https://apiv2.fftt.com/api/files/572775/Reglement Tournoi 2026.pdf,
 3347,TOURNOI SUD LOIRE TENNIS DE TABLE 45,2026-05-17T00:00:00,2026-05-17T00:00:00,R,45590,Saint Cyr en Val,https://apiv2.fftt.com/api/files/568245/Reglement tournoi SLTT V3.pdf,
 3494,TOURNOI NATIONAL B GERARD OLIVE,2026-05-17T00:00:00,2026-05-17T00:00:00,B,50400,GRANVILLE,https://apiv2.fftt.com/api/files/570463/REGLEMENT TOURNOI 2026.pdf,
-3513,Tournoi PP Nord Gironde,2026-05-23T00:00:00,2026-05-24T00:00:00,B,33820,ETAULIERS,https://apiv2.fftt.com/api/files/571390/2026-02-18 (PPNG - Réglement tournoi 2026).pdf,Distance non disponible
+3513,Tournoi PP Nord Gironde,2026-05-23T00:00:00,2026-05-24T00:00:00,B,33820,ETAULIERS,https://apiv2.fftt.com/api/files/571390/2026-02-18 (PPNG - Réglement tournoi 2026).pdf,
 3520,1er OPEN ROCHOIS TT,2026-05-23T00:00:00,2026-05-23T00:00:00,R,74800,La Roche sur Foron,https://apiv2.fftt.com/api/files/581089/OpenRochoisTT-LettreEngagement.pdf,
-3283,TOURNOI DE LESCAR,2026-05-23T00:00:00,2026-05-24T00:00:00,B,64230,Lescar,https://apiv2.fftt.com/api/files/581801/Règlement tournoi Lescar 2026.pdf,Distance non disponible
+3283,TOURNOI DE LESCAR,2026-05-23T00:00:00,2026-05-24T00:00:00,B,64230,Lescar,https://apiv2.fftt.com/api/files/581801/Règlement tournoi Lescar 2026.pdf,
 3270,31éme Tournoi Ludovic Bayart,2026-05-23T00:00:00,2026-05-25T00:00:00,R,37210,Parçay Meslay,https://apiv2.fftt.com/api/files/580989/REGLEMENT-31-TOURNOI des 23 au 25 mai 2026-V2.pdf,
 3255,MONQUI PONG CONTENDER 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,69650,QUINCIEUX,https://apiv2.fftt.com/api/files/469895/reglement Tournoi MONQUI V2.pdf,
 3496,Tournoi National B BETHUNE BEUVRY ASTT 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,62400,BETHUNE ,https://apiv2.fftt.com/api/files/572612/Règlement Tournoi des 23 et 24 mai 2026 .pdf,
 3497,17 ème tournoi national de Perpignan,2026-05-23T00:00:00,2026-05-24T00:00:00,A,66100,PERPIGNAN,https://apiv2.fftt.com/api/files/572536/Reglement Tournoi PRTT 2026 (1).pdf,
-3502,LAVAL BOURNY TENNIS DE TABLE,2026-05-23T00:00:00,2026-05-24T00:00:00,B,53000,LAVAL,https://apiv2.fftt.com/api/files/571012/reglement tournoi 2026 Laval Bourny.pdf,Distance non disponible
+3502,LAVAL BOURNY TENNIS DE TABLE,2026-05-23T00:00:00,2026-05-24T00:00:00,B,53000,LAVAL,https://apiv2.fftt.com/api/files/571012/reglement tournoi 2026 Laval Bourny.pdf,
 3518,Tournoi National B de SAINT-DIVY(29),2026-05-23T00:00:00,2026-05-25T00:00:00,B,29800,SAINT-DIVY,https://apiv2.fftt.com/api/files/572787/Tournoi Saint-Divy Sport TT 2026 - Règlement.pdf,
 3468,Tournoi Régional tennis de table EYSINES 23 mai 2026,2026-05-23T00:00:00,2026-05-23T00:00:00,R,33320,EYSINES,https://apiv2.fftt.com/api/files/558338/Reglement Tournoi AL Eysines 2026.pdf,
 3481,2eme tournoi départemental SAINT-MEDARD TT,2026-05-23T00:00:00,2026-05-23T00:00:00,D,35250,Saint Médard sur Ille,https://apiv2.fftt.com/api/files/572582/SMTT règlement tournoi 2026.pdf,
@@ -108,7 +108,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3464,1er TOURNOI National B de l’AS Brévannaise Tennis de table,2026-05-23T00:00:00,2026-05-24T00:00:00,B,94450,Limeil brévannes,https://apiv2.fftt.com/api/files/558152/Règlement tournoi Asbrévannaise 23-24mai2026.pdf,
 3417,5° tournoi international ASPTT Montluçon,2026-05-23T00:00:00,2026-05-24T00:00:00,I,03100,MONTLUCON,https://apiv2.fftt.com/api/files/571404/règlement officiel tournoi 2026.pdf,
 3453,TOURNOI DES 40 ANS DU PPC MARCK,2026-05-23T00:00:00,2026-05-24T00:00:00,R,62730,Marck,https://apiv2.fftt.com/api/files/557339/tournoi40ans.pdf,
-3532,Tournoi National de Boulogne-Billancourt,2026-05-23T00:00:00,2026-05-25T00:00:00,B,92100,Boulogne-Billancourt,https://apiv2.fftt.com/api/files/581754/Règlement tournoi ACBB 2026.pdf,Distance non disponible
+3532,Tournoi National de Boulogne-Billancourt,2026-05-23T00:00:00,2026-05-25T00:00:00,B,92100,Boulogne-Billancourt,https://apiv2.fftt.com/api/files/581754/Règlement tournoi ACBB 2026.pdf,
 3524,Tournoi national B de Flers (61),2026-05-24T00:00:00,2026-05-25T00:00:00,B,61100,Flers,https://apiv2.fftt.com/api/files/581659/Règlement tournoi 2026 TTFLERS.pdf,
 3447,Tournoi National B - La Madeleine,2026-05-24T00:00:00,2026-05-25T00:00:00,B,59110,LA MADELEINE,https://apiv2.fftt.com/api/files/581825/2026-05-ReglementTourrnoi USM TT V3.pdf,
 3492,9 ème tournoi national B du TT Fougères/Javené/Lécousse,2026-05-24T00:00:00,2026-05-25T00:00:00,B,35133,JAVENE,https://apiv2.fftt.com/api/files/570137/Règlement-Tournoi-24-25-mai-2026(1).pdf,
@@ -126,8 +126,8 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3475,NANTES SAINT JO TENNIS DE TABLE 2026,2026-06-19T00:00:00,2026-06-21T00:00:00,B,44300,Nantes,https://apiv2.fftt.com/api/files/559709/NSJTT-tournoi_National_2026_rglt.pdf,
 3503,TOURNOI NATIONAL B LONGUENESSE TENNIS DE TABLE,2026-06-20T00:00:00,2026-06-21T00:00:00,B,62219,LONGUENESSE,https://apiv2.fftt.com/api/files/571194/Reglement tournoi national b longuenesse tennis de table.pdf,
 3491,Tournoi National B PLESCOP (56),2026-06-20T00:00:00,2026-06-21T00:00:00,B,56890,PLESCOP,https://apiv2.fftt.com/api/files/570702/REGLEMENT TOURNOI NATIONAL PLESCOP 20_21 juin 2026.pdf,
-3509,Tournoi National B de Saint-Orens (31),2026-06-20T00:00:00,2026-06-21T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/581858/Règlement tournoi national 2026 Saint-Orens.pdf,Distance non disponible
-3506,TOURNOI NATIONAL B de MAIZIÈRES-LÈS-METZ,2026-06-20T00:00:00,2026-06-21T00:00:00,B,57280,MAIZIÈRES-LÈS-METZ,https://apiv2.fftt.com/api/files/571188/REGLEMENT-du-TOURNOI-NATIONAL-B-de-MAIZIERES-LES-METZ-2026.pdf,Distance non disponible
+3509,Tournoi National B de Saint-Orens (31),2026-06-20T00:00:00,2026-06-21T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/581858/Règlement tournoi national 2026 Saint-Orens.pdf,
+3506,TOURNOI NATIONAL B de MAIZIÈRES-LÈS-METZ,2026-06-20T00:00:00,2026-06-21T00:00:00,B,57280,MAIZIÈRES-LÈS-METZ,https://apiv2.fftt.com/api/files/571188/REGLEMENT-du-TOURNOI-NATIONAL-B-de-MAIZIERES-LES-METZ-2026.pdf,
 3486,"Tournoi national ""Jacques Hélaine"" de l'Amiens Sport Tennis de Table 2026",2026-06-20T00:00:00,2026-06-21T00:00:00,B,80000,AMIENS,https://apiv2.fftt.com/api/files/568421/Réglement TOURNOI NATIONAL 2026.pdf,
 3355,Tournoi National B du PPC BAVANS,2026-06-21T00:00:00,2026-06-21T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/512544/Règlement tournoi Bavans 2026.pdf,
 3443,CHALLENGE FÉLIX,2026-06-27T00:00:00,2026-06-27T00:00:00,R,31600,MURET,https://apiv2.fftt.com/api/files/559591/Règlement challenge Félix V7.pdf,
@@ -137,7 +137,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3519,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/590893/REGLEMENT TOURNOI NATIONAL A TROYES.pdf,
 3504,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2026-06-27T00:00:00,2026-06-27T00:00:00,R,38290,LA VERPILLIERE,https://apiv2.fftt.com/api/files/580990/REGLEMENT TOURNOI 2026+JA.pdf,
 3487,24 heures de tennis de table 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,44330,le Pallet,https://apiv2.fftt.com/api/files/568516/REGLEMENT 24H TT PALLET 2026.pdf,
-3488,TOURNOI_LA_FERRIERE_25/26,2026-06-27T00:00:00,2026-06-28T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/581758/Règlement Tournoi Nat B 27&28-06-2026.pdf,Distance non disponible
+3488,TOURNOI_LA_FERRIERE_25/26,2026-06-27T00:00:00,2026-06-28T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/581758/Règlement Tournoi Nat B 27&28-06-2026.pdf,
 3234,TOURNOI NATIONAL B CLERY ST ANDRE,2026-06-27T00:00:00,2026-06-28T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/465206/Règlement 2026.pdf,
 3495,2e open feminin Whiti courtages,2026-06-28T00:00:00,2026-06-28T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/570480/Réglement Open Féminin 2026 V2.pdf,
-3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,Distance non disponible
+3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
