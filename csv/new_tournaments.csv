@@ -1,11 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3461,18° Tournoi de l'ALCL TT Grand-Quevilly,2026-05-16T00:00:00,2026-05-17T00:00:00,I,76120,LE GRAND QUEVILLY,https://apiv2.fftt.com/api/files/581991/Règlement Tournoi International ALCL TT n° .... - 2026-I du 16 & 17 mai 2026.pdf,Distance non disponible
-3531,TOURNOI NATIONAL B DE L'UMS TT PONTAULT-COMBAULT,2026-05-16T00:00:00,2026-05-17T00:00:00,B,77340,Pontault-Combault,https://apiv2.fftt.com/api/files/581980/2026 TOURNOI.pdf,Distance non disponible
-3513,Tournoi PP Nord Gironde,2026-05-23T00:00:00,2026-05-24T00:00:00,B,33820,ETAULIERS,https://apiv2.fftt.com/api/files/571390/2026-02-18 (PPNG - Réglement tournoi 2026).pdf,Distance non disponible
-3283,TOURNOI DE LESCAR,2026-05-23T00:00:00,2026-05-24T00:00:00,B,64230,Lescar,https://apiv2.fftt.com/api/files/581801/Règlement tournoi Lescar 2026.pdf,Distance non disponible
-3502,LAVAL BOURNY TENNIS DE TABLE,2026-05-23T00:00:00,2026-05-24T00:00:00,B,53000,LAVAL,https://apiv2.fftt.com/api/files/571012/reglement tournoi 2026 Laval Bourny.pdf,Distance non disponible
-3532,Tournoi National de Boulogne-Billancourt,2026-05-23T00:00:00,2026-05-25T00:00:00,B,92100,Boulogne-Billancourt,https://apiv2.fftt.com/api/files/581754/Règlement tournoi ACBB 2026.pdf,Distance non disponible
-3509,Tournoi National B de Saint-Orens (31),2026-06-20T00:00:00,2026-06-21T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/581858/Règlement tournoi national 2026 Saint-Orens.pdf,Distance non disponible
-3506,TOURNOI NATIONAL B de MAIZIÈRES-LÈS-METZ,2026-06-20T00:00:00,2026-06-21T00:00:00,B,57280,MAIZIÈRES-LÈS-METZ,https://apiv2.fftt.com/api/files/571188/REGLEMENT-du-TOURNOI-NATIONAL-B-de-MAIZIERES-LES-METZ-2026.pdf,Distance non disponible
-3488,TOURNOI_LA_FERRIERE_25/26,2026-06-27T00:00:00,2026-06-28T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/581758/Règlement Tournoi Nat B 27&28-06-2026.pdf,Distance non disponible
-3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,Distance non disponible
+3530,PING-NEMOURS - TOURNOI NATIONAL B DES 13 ET 14 JUIN 2026,2026-06-13T00:00:00,2026-06-14T00:00:00,B,77140,Nemours,https://apiv2.fftt.com/api/files/581735/TOURNOI PING NEMOURS 2026 N°xxxx-2026-B.pdf,Distance non disponible
