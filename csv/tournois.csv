@@ -61,11 +61,13 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3501,TOURNOI REGIONAL TTHV (35) Noyal-Sur-Vilaine / Acigné,2026-05-02T00:00:00,2026-05-02T00:00:00,R,35690,Acigné,https://apiv2.fftt.com/api/files/581867/REGLEMENT TOURNOI TTHV 2026.pdf,
 3450,22ème Open Catalan de Tennis de Table,2026-05-03T00:00:00,2026-05-03T00:00:00,B,66350,TOULOUGES,https://apiv2.fftt.com/api/files/557255/Reglement - 22ème Open Catalan de Tennis de Table 2026.pdf,
 3484,TOURNOI DE L'ATOUT STEPHANOIS,2026-05-08T00:00:00,2026-05-08T00:00:00,R,82410,SAINT-ETIENNE DE TULMONT,https://apiv2.fftt.com/api/files/571246/tournoi Règlement  2026.pdf,
+3534,53 ème Tournoi de l'Ascension,2026-05-13T00:00:00,2026-05-14T00:00:00,R,29490,Guipavas,https://apiv2.fftt.com/api/files/581975/Règlement Simples 2026.pdf,Distance non disponible
 3438,TNP 2026 - Tournoi National de POITIERS,2026-05-14T00:00:00,2026-05-16T00:00:00,A,86000,POITIERS,https://apiv2.fftt.com/api/files/570406/Affiche et Règlement_V2_TNP 2026.pdf,
 3517,Tournoi CSM Eaubonne 2026,2026-05-14T00:00:00,2026-05-16T00:00:00,B,95600,EAUBONNE,https://apiv2.fftt.com/api/files/571462/2026_Règlement Tournoi_NatB_CSM-Eaubonne_v2.pdf,
 3523,GRAND PRIX DE LA VILLE DE REIMS 2026,2026-05-14T00:00:00,2026-05-14T00:00:00,B,51100,REIMS,https://apiv2.fftt.com/api/files/574392/REGLEMENT GRAND PRIX DE LA VILLE DE REIMS TOURNOI NATIONALB 2026pdf.pdf,
 3273,Tournoi départemental de SAINTINES,2026-05-14T00:00:00,2026-05-14T00:00:00,D,60410,SAINTINES,https://apiv2.fftt.com/api/files/469967/Règlement tournoi 2025.pdf,
 3529,Tournoi Régional de Wittes : Jeudi 14 Mai 2026,2026-05-14T00:00:00,2026-05-14T00:00:00,R,62120,Wittes,https://apiv2.fftt.com/api/files/589807/Règlement sportif - Tournoi Wittes 2026.pdf,
+3539,Tournoi national B AP Ouistreham,2026-05-14T00:00:00,2026-05-15T00:00:00,B,14150,Ouistreham,https://apiv2.fftt.com/api/files/593346/REGLEMENT TOURNOI NATIONAL B DE OUISTREHAM PDF.pdf,Distance non disponible
 3302,TOURNOI NATIONAL B LA BERRICHONNE CHATEAUROUX TENNIS DE TABLE,2026-05-14T00:00:00,2026-05-14T00:00:00,B,36000,CHATEAUROUX,https://apiv2.fftt.com/api/files/545800/TOURNOI NATIONAL B DE LA BERRICHONNE TENNIS DE TABLE.pdf,
 3362,TOURNOI GERARD CATEL,2026-05-16T00:00:00,2026-05-16T00:00:00,R,80630,BEAUVAL,https://apiv2.fftt.com/api/files/535554/Règlement tournoi .pdf,
 3423,TOURNOI NATIONAL B DE NEUVES MAISONS,2026-05-16T00:00:00,2026-05-17T00:00:00,B,54230,Neuves Maisons,https://apiv2.fftt.com/api/files/546666/Règlement tournoi national TTNM 2026.pdf,
@@ -77,12 +79,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3462,12ème Tournoi National de l'ASSUP Fos sur Mer,2026-05-16T00:00:00,2026-05-17T00:00:00,B,13270,Fos sur Mer,https://apiv2.fftt.com/api/files/558119/Réglement Tournoi ASSUP 2026.pdf,
 3512,Tournoi National B - Tony Dutombois,2026-05-16T00:00:00,2026-05-17T00:00:00,B,62330,ISBERGUES,https://apiv2.fftt.com/api/files/571275/Réglement tournoi Isbergues TT 2026.pdf,
 3531,TOURNOI NATIONAL B DE L'UMS TT PONTAULT-COMBAULT,2026-05-16T00:00:00,2026-05-17T00:00:00,B,77340,Pontault-Combault,https://apiv2.fftt.com/api/files/581980/2026 TOURNOI.pdf,
+3546,TOURNOI NATIONAL B PAYS COMPIEGNOIS TT (TROPHEE PHILIPPE DRUCKER),2026-05-16T00:00:00,2026-05-17T00:00:00,B,60280,Venette,https://apiv2.fftt.com/api/files/594466/REGLEMENT TOURNOI NATIONAL B 2026 - PAYS COMPIEGNOIS TT.pdf,Distance non disponible
 3343,16ème Open jeune du Havre,2026-05-17T00:00:00,2026-05-17T00:00:00,B,76620,le Havre,https://apiv2.fftt.com/api/files/511884/Reglement open jeune 2026.pdf,
 3347,TOURNOI SUD LOIRE TENNIS DE TABLE 45,2026-05-17T00:00:00,2026-05-17T00:00:00,R,45590,Saint Cyr en Val,https://apiv2.fftt.com/api/files/568245/Reglement tournoi SLTT V3.pdf,
 3489,TOURNOI REGIONAL DE VILLEFRANCHE DE ROUERGUE,2026-05-17T00:00:00,2026-05-17T00:00:00,R,12200,VILLERFRANCHE DE ROUERGUE,https://apiv2.fftt.com/api/files/592609/TOURNOI-REGIONAL-REGLEMENT-modifié-2026.pdf,
 3494,TOURNOI NATIONAL B GERARD OLIVE,2026-05-17T00:00:00,2026-05-17T00:00:00,B,50400,GRANVILLE,https://apiv2.fftt.com/api/files/570463/REGLEMENT TOURNOI 2026.pdf,
 3511,TOURNOI REGIONAL FOLCLO LORIENT OUEST,2026-05-17T00:00:00,2026-05-17T00:00:00,R,56100,LORIENT,https://apiv2.fftt.com/api/files/572775/Reglement Tournoi 2026.pdf,
 3417,5° tournoi international ASPTT Montluçon,2026-05-23T00:00:00,2026-05-24T00:00:00,I,03100,MONTLUCON,https://apiv2.fftt.com/api/files/571404/règlement officiel tournoi 2026.pdf,
+3435,Tournoi 24 heures de Dijon,2026-05-23T00:00:00,2026-05-24T00:00:00,B,21000,DIJON,https://apiv2.fftt.com/api/files/555297/Règlement Tournoi 24h Dijon tennis de table 2026.pdf,Distance non disponible
 3453,TOURNOI DES 40 ANS DU PPC MARCK,2026-05-23T00:00:00,2026-05-24T00:00:00,R,62730,Marck,https://apiv2.fftt.com/api/files/557339/tournoi40ans.pdf,
 3464,1er TOURNOI National B de l’AS Brévannaise Tennis de table,2026-05-23T00:00:00,2026-05-24T00:00:00,B,94450,Limeil brévannes,https://apiv2.fftt.com/api/files/558152/Règlement tournoi Asbrévannaise 23-24mai2026.pdf,
 3468,Tournoi Régional tennis de table EYSINES 23 mai 2026,2026-05-23T00:00:00,2026-05-23T00:00:00,R,33320,EYSINES,https://apiv2.fftt.com/api/files/558338/Reglement Tournoi AL Eysines 2026.pdf,
@@ -131,3 +135,4 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3289,TOURNOI NATIONAL B DU SPORT TENNIS DE TABLE DE MÉZÉRIAT,2026-06-27T00:00:00,2026-06-28T00:00:00,B,01660,Mézériat,https://apiv2.fftt.com/api/files/471598/Reglement tournoi 2026.pdf,
 3495,2e open feminin Whiti courtages,2026-06-28T00:00:00,2026-06-28T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/570480/Réglement Open Féminin 2026 V2.pdf,
 3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
+3547,Tournoi régional Septembre 2026 - La Ville aux Dames,2026-09-12T00:00:00,2026-09-12T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597053/REGLEMENT Tournoi Septembre26-27.pdf,Distance non disponible
