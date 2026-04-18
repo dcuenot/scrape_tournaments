@@ -1,5 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3381,TOURNOI DE DOUBLES (20è édition),2026-04-17T00:00:00,2026-04-17T00:00:00,D,16400,PUYMOYEN,https://apiv2.fftt.com/api/files/534260/Règlement-TDTTP-2026.pdf,
 3330,32ème Open du Nice Cavigal Tennis de Table,2026-04-18T00:00:00,2026-04-19T00:00:00,B,06200,Nice,https://apiv2.fftt.com/api/files/501243/Reglement tournoi NationalB 2026.pdf,
 3354,Tournoi Régional LHSMTT 2026,2026-04-18T00:00:00,2026-04-18T00:00:00,R,33160,Saint Medard en Jalles,https://apiv2.fftt.com/api/files/512534/Règlement 2026.pdf,
 3363,Tournoi du Tennis de Table La Motte Servolex,2026-04-18T00:00:00,2026-04-18T00:00:00,B,73290,LA MOTTE SERVOLEX,https://apiv2.fftt.com/api/files/536618/Réglement tournoi national TTLMS 2026_attestation JA.pdf,
@@ -54,6 +53,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3490,ATT AULNAT,2026-05-01T00:00:00,2026-05-01T00:00:00,B,63510,AULNAT,https://apiv2.fftt.com/api/files/572538/Tournoi Aulnat 1er mai 2026_compressed (1).pdf,
 3498,Tournoi de Saint-Denis TT 93,2026-05-01T00:00:00,2026-05-03T00:00:00,B,93200,saint-denis,https://apiv2.fftt.com/api/files/570705/règlement tournoi SDTT93 2026.pdf,
 3499,Tournoi du COMT PONTHIERRY 2026,2026-05-01T00:00:00,2026-05-03T00:00:00,B,77310,Saint-Fargeau-Ponthierry ,https://apiv2.fftt.com/api/files/570917/règlement tournoi 2026 Nat B COMT PONTHIERRY.docx_20260218_171915_0000.pdf,
+3553,25 ème Tournoi régional d'AUDUN LE ROMAN 2026,2026-05-01T00:00:00,2026-05-01T00:00:00,R,54560,AUDUN LE ROMAN,https://apiv2.fftt.com/api/files/602801/REGLEMENT DU TOURNOI REGIONAL prévision 2026 (modifié par Virge).pdf,Distance non disponible
 3406,Tournoi régional Coqs Rouges TT,2026-05-02T00:00:00,2026-05-02T00:00:00,R,33170,Gradignan,https://apiv2.fftt.com/api/files/545377/TOURNOI RÉGIONAL 2026 Coqs-1.pdf,
 3445,ES Vitry Tennis de Table Tournoi National B,2026-05-02T00:00:00,2026-05-03T00:00:00,B,94400,VITRY SUR SEINE,https://apiv2.fftt.com/api/files/555561/ES VITRY TT TOURNOI NATIONAL B.pdf,
 3212,9eme tournoi National B de BLOIS PING 41 02-03 mai 2026,2026-05-02T00:00:00,2026-05-03T00:00:00,B,41000,Blois,https://apiv2.fftt.com/api/files/469326/règlement tournoi 2026 v4 30062025.pdf,
