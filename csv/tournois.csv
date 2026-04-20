@@ -1,8 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3436,TOURNOI  RÉGIONAL  FÉMININ DU CHESNAY TENNIS DE TABLE,2026-04-19T00:00:00,2026-04-19T00:00:00,R,78150,LE CHESNAY-ROCQUENCOURT,https://apiv2.fftt.com/api/files/555365/Reglement-Tournoi_Feminin_Le_Chesnay_Classique-ed6.pdf,
-3466,39ème tournoi national B de Breteuil,2026-04-19T00:00:00,2026-04-19T00:00:00,B,60120,Breteuil sur Noye,https://apiv2.fftt.com/api/files/559715/Règlement Tournoi Breteuil WG TT 2026(2).pdf,
-3510,Tournoi national B Saint Hilaire/Parigny 2026,2026-04-19T00:00:00,2026-04-19T00:00:00,B,50600,SAINT HILAIRE DU HARCOUET,https://apiv2.fftt.com/api/files/571779/Réglement tournoi 2026.pdf,
-3533, 40 eme Tournoi des commerçants et vignerons de courthezon,2026-04-19T00:00:00,2026-04-19T00:00:00,R,84350,Courthezon,https://apiv2.fftt.com/api/files/594001/reglement 2026 tournoi def (1).pdf,
 3400,Tournoi National Josué Menant 2026 - VIVY (49) 25 & 26 avril 2026,2026-04-25T00:00:00,2026-04-26T00:00:00,B,49680,vivy,https://apiv2.fftt.com/api/files/558148/Reglement TNJM 2026 - 25 - 26  avril 2026.pdf,
 3402,Tournoi National de l'ASTT Herblay,2026-04-25T00:00:00,2026-04-26T00:00:00,B,95220,HERBLAY SUR SEINE,https://apiv2.fftt.com/api/files/539700/Règlement Tournoi National B ASTT Herblay - 25 & 26 avril 2026 VF.pdf,
 3404, Tournoi National B 2026 Misterping,2026-04-25T00:00:00,2026-04-26T00:00:00,B,59780,BAISIEUX,https://apiv2.fftt.com/api/files/545254/Règlement Tournoi National BTT 2026_compressed.pdf,
