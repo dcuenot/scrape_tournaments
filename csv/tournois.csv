@@ -45,7 +45,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3489,TOURNOI REGIONAL DE VILLEFRANCHE DE ROUERGUE,2026-05-17T00:00:00,2026-05-17T00:00:00,R,12200,VILLERFRANCHE DE ROUERGUE,https://apiv2.fftt.com/api/files/592609/TOURNOI-REGIONAL-REGLEMENT-modifié-2026.pdf,
 3494,TOURNOI NATIONAL B GERARD OLIVE,2026-05-17T00:00:00,2026-05-17T00:00:00,B,50400,GRANVILLE,https://apiv2.fftt.com/api/files/570463/REGLEMENT TOURNOI 2026.pdf,
 3511,TOURNOI REGIONAL FOLCLO LORIENT OUEST,2026-05-17T00:00:00,2026-05-17T00:00:00,R,56100,LORIENT,https://apiv2.fftt.com/api/files/572775/Reglement Tournoi 2026.pdf,
-3560,TOURNOI DE L'ASPTT CHALONS 2026,2026-05-17T00:00:00,2026-05-17T00:00:00,R,51000,Châlons-en-Champagne,https://apiv2.fftt.com/api/files/604481/Reglement Tournoi Grieder ASPTT Chalons 2026.pdf,Distance non disponible
+3560,TOURNOI DE L'ASPTT CHALONS 2026,2026-05-17T00:00:00,2026-05-17T00:00:00,R,51000,Châlons-en-Champagne,https://apiv2.fftt.com/api/files/604481/Reglement Tournoi Grieder ASPTT Chalons 2026.pdf,
 3417,5° tournoi international ASPTT Montluçon,2026-05-23T00:00:00,2026-05-24T00:00:00,I,03100,MONTLUCON,https://apiv2.fftt.com/api/files/571404/règlement officiel tournoi 2026.pdf,
 3435,Tournoi 24 heures de Dijon,2026-05-23T00:00:00,2026-05-24T00:00:00,B,21000,DIJON,https://apiv2.fftt.com/api/files/555297/Règlement Tournoi 24h Dijon tennis de table 2026.pdf,
 3453,TOURNOI DES 40 ANS DU PPC MARCK,2026-05-23T00:00:00,2026-05-24T00:00:00,R,62730,Marck,https://apiv2.fftt.com/api/files/557339/tournoi40ans.pdf,
@@ -77,7 +77,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3483,CA BEGLAIS Tournoi National 2026,2026-06-13T00:00:00,2026-06-14T00:00:00,B,33130,Begles,https://apiv2.fftt.com/api/files/568173/REGLEMENT TOURNOI 2026.pdf,
 3528,13ème Tournoi national d'Epinal,2026-06-13T00:00:00,2026-06-14T00:00:00,B,88000,Épinal,https://apiv2.fftt.com/api/files/581055/Réglement tournoi national 2026 définitif.pdf,
 3530,PING-NEMOURS - TOURNOI NATIONAL B DES 13 ET 14 JUIN 2026,2026-06-13T00:00:00,2026-06-14T00:00:00,B,77140,Nemours,https://apiv2.fftt.com/api/files/593239/TOURNOI PING NEMOURS 2026 N°2503-2026-B.pdf,
-3552,Tournoi jeunes de MANOM,2026-06-13T00:00:00,2026-06-13T00:00:00,D,57100,Manom,https://apiv2.fftt.com/api/files/602727/2026  tournoi de TT jeunes 2026.pdf,Distance non disponible
+3552,Tournoi jeunes de MANOM,2026-06-13T00:00:00,2026-06-13T00:00:00,D,57100,Manom,https://apiv2.fftt.com/api/files/602727/2026  tournoi de TT jeunes 2026.pdf,
 3322,Tournoi départemental US Saint Maur,2026-06-13T00:00:00,2026-06-13T00:00:00,D,36250,ST MAUR,https://apiv2.fftt.com/api/files/498002/.pdf,
 3341,10ème Vexin Ping Oise,2026-06-14T00:00:00,2026-06-14T00:00:00,B,60240,Chaumont-En-Vexin,https://apiv2.fftt.com/api/files/572703/VEXIN PING OISE 10 - REGLEMENT TOURNOI HOMOLOGUE V10.pdf,
 3253,TOURNOI REGIONAL ES ORMES TT,2026-06-14T00:00:00,2026-06-14T00:00:00,R,45140,Ormes,https://apiv2.fftt.com/api/files/469446/Réglement tournoi Ormes 2026.pdf,
