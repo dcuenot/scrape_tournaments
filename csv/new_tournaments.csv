@@ -1,3 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3560,TOURNOI DE L'ASPTT CHALONS 2026,2026-05-17T00:00:00,2026-05-17T00:00:00,R,51000,Châlons-en-Champagne,https://apiv2.fftt.com/api/files/604481/Reglement Tournoi Grieder ASPTT Chalons 2026.pdf,Distance non disponible
-3552,Tournoi jeunes de MANOM,2026-06-13T00:00:00,2026-06-13T00:00:00,D,57100,Manom,https://apiv2.fftt.com/api/files/602727/2026  tournoi de TT jeunes 2026.pdf,Distance non disponible
+3550,Tournoi du Ping Pong Club de Pérols 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,34470,Pérols,https://apiv2.fftt.com/api/files/603909/Reglement et récompenses - Tournoi Pérols 2026.pdf,Distance non disponible
+3537,TOURNOI NATIONAL S.A.MERIGNAC,2026-06-13T00:00:00,2026-06-13T00:00:00,B,33700,Mérignac,https://apiv2.fftt.com/api/files/590943/Reglement Tournoi.pdf,Distance non disponible
+3522,Tournoi de Saint-Omer,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62500,ST OMER,https://apiv2.fftt.com/api/files/572828/reglement tournoi ttso 2026.pdf,Distance non disponible
