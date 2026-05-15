@@ -1,12 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3403,TOURNOI DES GRANDS VINS DE L'ENTRE DEUX MERS,2026-05-14T00:00:00,2026-05-14T00:00:00,R,33420,BRANNE,https://apiv2.fftt.com/api/files/594352/reglement tournoi branne2026.pdf,
-3438,TNP 2026 - Tournoi National de POITIERS,2026-05-14T00:00:00,2026-05-16T00:00:00,A,86000,POITIERS,https://apiv2.fftt.com/api/files/570406/Affiche et Règlement_V2_TNP 2026.pdf,
-3517,Tournoi CSM Eaubonne 2026,2026-05-14T00:00:00,2026-05-16T00:00:00,B,95600,EAUBONNE,https://apiv2.fftt.com/api/files/571462/2026_Règlement Tournoi_NatB_CSM-Eaubonne_v2.pdf,
-3523,GRAND PRIX DE LA VILLE DE REIMS 2026,2026-05-14T00:00:00,2026-05-14T00:00:00,B,51100,REIMS,https://apiv2.fftt.com/api/files/574392/REGLEMENT GRAND PRIX DE LA VILLE DE REIMS TOURNOI NATIONALB 2026pdf.pdf,
-3273,Tournoi départemental de SAINTINES,2026-05-14T00:00:00,2026-05-14T00:00:00,D,60410,SAINTINES,https://apiv2.fftt.com/api/files/469967/Règlement tournoi 2025.pdf,
-3529,Tournoi Régional de Wittes : Jeudi 14 Mai 2026,2026-05-14T00:00:00,2026-05-14T00:00:00,R,62120,Wittes,https://apiv2.fftt.com/api/files/589807/Règlement sportif - Tournoi Wittes 2026.pdf,
-3539,Tournoi national B AP Ouistreham,2026-05-14T00:00:00,2026-05-15T00:00:00,B,14150,Ouistreham,https://apiv2.fftt.com/api/files/593346/REGLEMENT TOURNOI NATIONAL B DE OUISTREHAM PDF.pdf,
-3302,TOURNOI NATIONAL B LA BERRICHONNE CHATEAUROUX TENNIS DE TABLE,2026-05-14T00:00:00,2026-05-14T00:00:00,B,36000,CHATEAUROUX,https://apiv2.fftt.com/api/files/545800/TOURNOI NATIONAL B DE LA BERRICHONNE TENNIS DE TABLE.pdf,
 3362,TOURNOI GERARD CATEL,2026-05-16T00:00:00,2026-05-16T00:00:00,R,80630,BEAUVAL,https://apiv2.fftt.com/api/files/535554/Règlement tournoi .pdf,
 3423,TOURNOI NATIONAL B DE NEUVES MAISONS,2026-05-16T00:00:00,2026-05-17T00:00:00,B,54230,Neuves Maisons,https://apiv2.fftt.com/api/files/546666/Règlement tournoi national TTNM 2026.pdf,
 3424,Tournoi National B - Aubenas-Vals,2026-05-16T00:00:00,2026-05-17T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/546686/Réglement + attestation JA3.pdf,
