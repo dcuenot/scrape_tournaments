@@ -27,6 +27,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3538,Tournoi National de l'EP Lognes,2026-06-20T00:00:00,2026-06-21T00:00:00,B,77185,Lognes,https://apiv2.fftt.com/api/files/590960/reglement tournoi juin 2026.pdf,
 3305,Open National CAM Bordeaux TT 2026,2026-06-20T00:00:00,2026-06-21T00:00:00,B,33200,Bordeaux,https://apiv2.fftt.com/api/files/603991/TN CAM Bordeaux 20 & 21 Juin 2026.pdf,
 3355,Tournoi National B du PPC BAVANS,2026-06-21T00:00:00,2026-06-21T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/512544/Règlement tournoi Bavans 2026.pdf,
+3563,"13ème tournoi régional ""Noël CHIRAC"" de Tennis de Table ",2026-06-21T00:00:00,2026-06-21T00:00:00,R,34260,Le Bousquet d'Orb,https://apiv2.fftt.com/api/files/608656/Règlementation Tournoi FRBO du 21 juin 2026 ver1 (1) Edited.pdf,Distance non disponible
 3443,CHALLENGE FÉLIX,2026-06-27T00:00:00,2026-06-27T00:00:00,R,31600,MURET,https://apiv2.fftt.com/api/files/559591/Règlement challenge Félix V7.pdf,
 3487,24 heures de tennis de table 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,44330,le Pallet,https://apiv2.fftt.com/api/files/568516/REGLEMENT 24H TT PALLET 2026.pdf,
 3488,TOURNOI_LA_FERRIERE_25/26,2026-06-27T00:00:00,2026-06-28T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/581758/Règlement Tournoi Nat B 27&28-06-2026.pdf,

@@ -1,8 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3550,Tournoi du Ping Pong Club de Pérols 2026,2026-05-23T00:00:00,2026-05-24T00:00:00,B,34470,Pérols,https://apiv2.fftt.com/api/files/603909/Reglement et récompenses - Tournoi Pérols 2026.pdf,Distance non disponible
-3541,"TOURNOI NATIONALD'EZY SUR EURE "" Challenge Domique Verdier """,2026-06-13T00:00:00,2026-06-13T00:00:00,B,27530,Ezy sur Eure,https://apiv2.fftt.com/api/files/592572/Règlement_Tournoi_2026.pdf,Distance non disponible
-3549,TOURNOI NATIONAL DE LA JSCVTT,2026-06-13T00:00:00,2026-06-14T00:00:00,B,31270,Cugnaux,https://apiv2.fftt.com/api/files/602440/tournoi JSCVTT 2026 REGLEMENT v1.1.pdf,Distance non disponible
-3555,Tournoi National de la bulle d'Epernay,2026-06-13T00:00:00,2026-06-14T00:00:00,B,51200,EPERNAY,https://apiv2.fftt.com/api/files/605202/2026-04-26 reglement tournoi de la bulle 2026 fftt V2.pdf,Distance non disponible
-3540,Tournoi National SQY PING ,2026-06-27T00:00:00,2026-06-28T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/591151/SQY PING - Règlement tournoi national 2026.pdf,Distance non disponible
-3542,TOURNOI NATIONAL B Michel Bouckenooghe (HALLUIN),2026-06-27T00:00:00,2026-06-28T00:00:00,B,59250,HALLUIN,https://apiv2.fftt.com/api/files/602725/reglement tournoi 2026 dot.pdf,Distance non disponible
-3543,Tournoi National Cercle Paul Bert Rennes,2026-06-27T00:00:00,2026-06-28T00:00:00,B,35200,RENNES,https://apiv2.fftt.com/api/files/594399/Règlement Tournoi National 2026 CPB Rapatel.pdf,Distance non disponible
+3563,"13ème tournoi régional ""Noël CHIRAC"" de Tennis de Table ",2026-06-21T00:00:00,2026-06-21T00:00:00,R,34260,Le Bousquet d'Orb,https://apiv2.fftt.com/api/files/608656/Règlementation Tournoi FRBO du 21 juin 2026 ver1 (1) Edited.pdf,Distance non disponible
