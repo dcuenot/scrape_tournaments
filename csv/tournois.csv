@@ -1,11 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3486,"Tournoi national ""Jacques Hélaine"" de l'Amiens Sport Tennis de Table 2026",2026-06-20T00:00:00,2026-06-21T00:00:00,B,80000,AMIENS,https://apiv2.fftt.com/api/files/568421/Réglement TOURNOI NATIONAL 2026.pdf,
-3491,Tournoi National B PLESCOP (56),2026-06-20T00:00:00,2026-06-21T00:00:00,B,56890,PLESCOP,https://apiv2.fftt.com/api/files/570702/REGLEMENT TOURNOI NATIONAL PLESCOP 20_21 juin 2026.pdf,
-3503,TOURNOI NATIONAL B LONGUENESSE TENNIS DE TABLE,2026-06-20T00:00:00,2026-06-21T00:00:00,B,62219,LONGUENESSE,https://apiv2.fftt.com/api/files/634621/Reglement tournoi national b .pdf,
-3506,TOURNOI NATIONAL B de MAIZIÈRES-LÈS-METZ,2026-06-20T00:00:00,2026-06-21T00:00:00,B,57280,MAIZIÈRES-LÈS-METZ,https://apiv2.fftt.com/api/files/571188/REGLEMENT-du-TOURNOI-NATIONAL-B-de-MAIZIERES-LES-METZ-2026.pdf,
-3509,Tournoi National B de Saint-Orens (31),2026-06-20T00:00:00,2026-06-21T00:00:00,B,31650,Saint-Orens de Gameville,https://apiv2.fftt.com/api/files/581858/Règlement tournoi national 2026 Saint-Orens.pdf,
-3538,Tournoi National de l'EP Lognes,2026-06-20T00:00:00,2026-06-21T00:00:00,B,77185,Lognes,https://apiv2.fftt.com/api/files/590960/reglement tournoi juin 2026.pdf,
-3305,Open National CAM Bordeaux TT 2026,2026-06-20T00:00:00,2026-06-21T00:00:00,B,33200,Bordeaux,https://apiv2.fftt.com/api/files/603991/TN CAM Bordeaux 20 & 21 Juin 2026.pdf,
 3355,Tournoi National B du PPC BAVANS,2026-06-21T00:00:00,2026-06-21T00:00:00,B,25550,BAVANS,https://apiv2.fftt.com/api/files/512544/Règlement tournoi Bavans 2026.pdf,
 3563,"13ème tournoi régional ""Noël CHIRAC"" de Tennis de Table ",2026-06-21T00:00:00,2026-06-21T00:00:00,R,34260,Le Bousquet d'Orb,https://apiv2.fftt.com/api/files/608656/Règlementation Tournoi FRBO du 21 juin 2026 ver1 (1) Edited.pdf,
 3443,CHALLENGE FÉLIX,2026-06-27T00:00:00,2026-06-27T00:00:00,R,31600,MURET,https://apiv2.fftt.com/api/files/559591/Règlement challenge Félix V7.pdf,
