@@ -2,7 +2,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3443,CHALLENGE FÉLIX,2026-06-27T00:00:00,2026-06-27T00:00:00,R,31600,MURET,https://apiv2.fftt.com/api/files/559591/Règlement challenge Félix V7.pdf,
 3478,TOURNOI NATIONAL B GOUVIEUX LAMORLAYE SUD OISE TT,2026-06-27T00:00:00,2026-06-28T00:00:00,B,60270,Gouvieux,https://apiv2.fftt.com/api/files/559801/Reglement_tournoi_cglsott.pdf,
 3487,24 heures de tennis de table 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,44330,le Pallet,https://apiv2.fftt.com/api/files/568516/REGLEMENT 24H TT PALLET 2026.pdf,
-3488,TOURNOI_LA_FERRIERE_25/26,2026-06-27T00:00:00,2026-06-28T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/581758/Règlement Tournoi Nat B 27&28-06-2026.pdf,
+3488,TOURNOI_LA_FERRIERE_25/26,2026-06-27T00:00:00,2026-06-28T00:00:00,B,85280,La Ferrière,https://apiv2.fftt.com/api/files/636813/Règlement Tournoi Nat B 27&28-06-2026.pdf,
 3234,TOURNOI NATIONAL B CLERY ST ANDRE,2026-06-27T00:00:00,2026-06-28T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/465206/Règlement 2026.pdf,
 3504,TOURNOI DE TENNIS DE TABLE OUVERT A TOUS,2026-06-27T00:00:00,2026-06-27T00:00:00,R,38290,LA VERPILLIERE,https://apiv2.fftt.com/api/files/580990/REGLEMENT TOURNOI 2026+JA.pdf,
 3519,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-06-27T00:00:00,2026-06-28T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/590893/REGLEMENT TOURNOI NATIONAL A TROYES.pdf,
@@ -13,7 +13,11 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3289,TOURNOI NATIONAL B DU SPORT TENNIS DE TABLE DE MÉZÉRIAT,2026-06-27T00:00:00,2026-06-28T00:00:00,B,01660,Mézériat,https://apiv2.fftt.com/api/files/471598/Reglement tournoi 2026.pdf,
 3495,2e open feminin Whiti courtages,2026-06-28T00:00:00,2026-06-28T00:00:00,B,50380,SAINT PAIR SUR MER,https://apiv2.fftt.com/api/files/570480/Réglement Open Féminin 2026 V2.pdf,
 3515,24h Coupe DAVIS du TTGP 1950,2026-07-04T00:00:00,2026-07-05T00:00:00,B,16160,Gond Pontouvre,https://apiv2.fftt.com/api/files/571408/Règlement V1.pdf,
+3551,Internationaux Jeunes de Charleville Mézières (IJCM),2026-08-29T00:00:00,2026-08-30T00:00:00,I,08000,Charleville-Mézières,https://apiv2.fftt.com/api/files/602722/2026_IJCM_reglement.pdf,Distance non disponible
+3566,Tournoi National B du Plessis-Trévise,2026-08-29T00:00:00,2026-08-30T00:00:00,B,94420,Le Plessis-Trévise,https://apiv2.fftt.com/api/files/614514/REGLEMENT TOURNOI NATIONAL B DE TENNIS DE TABLE P3T 2026.pdf,Distance non disponible
 3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
+3562,"OPEN DE LYS ""JACQUES SECRETIN""",2026-09-05T00:00:00,2026-09-06T00:00:00,B,59390,LYS-LEZ-LANNOY,https://apiv2.fftt.com/api/files/615354/Règlement Lys Lez Lannoy 2026_v2.pdf,Distance non disponible
 3583,Tournoi de Varzy,2026-09-06T00:00:00,2026-09-06T00:00:00,R,58210,Varzy,https://apiv2.fftt.com/api/files/634897/RE-reglement_tournoi_reg_2026.pdf,
 3547,Tournoi régional Septembre 2026 - La Ville aux Dames,2026-09-12T00:00:00,2026-09-12T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597053/REGLEMENT Tournoi Septembre26-27.pdf,
 3522,Tournoi de Saint-Omer,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62500,ST OMER,https://apiv2.fftt.com/api/files/572828/reglement tournoi ttso 2026.pdf,
+3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/570387/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026.pdf,Distance non disponible
