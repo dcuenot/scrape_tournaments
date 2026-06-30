@@ -1,2 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3588,Tournoi départemental de Longueil Ste Marie 3 ème édition ,2026-09-13T00:00:00,2026-09-13T00:00:00,D,60126,LONGUEIL STE MARIE,https://apiv2.fftt.com/api/files/637000/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE 3-3.pdf,Distance non disponible
+3574,Tournoi national B de Maisons-Laffitte,2026-08-30T00:00:00,2026-08-30T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/616883/Reglement tournoi national Maisons-Laffitte 29-30.08.26 prov.pdf,Distance non disponible
+3557,GRAND PRIX INTERNATIONAL LE GAULOIS,2026-09-05T00:00:00,2026-09-06T00:00:00,I,49100,Angers,https://apiv2.fftt.com/api/files/604131/Reglement du Grand Prix International Le Gaulois 2026.pdf,Distance non disponible
+3570,tournoi villenave d'ornon,2026-09-05T00:00:00,2026-09-06T00:00:00,B,33140,Villenave D'Ornon,https://apiv2.fftt.com/api/files/616667/RÈGLEMENT 2026.pdf,Distance non disponible

@@ -2,8 +2,11 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3515,24h Coupe DAVIS du TTGP 1950,2026-07-04T00:00:00,2026-07-05T00:00:00,B,16160,Gond Pontouvre,https://apiv2.fftt.com/api/files/571408/Règlement V1.pdf,
 3551,Internationaux Jeunes de Charleville Mézières (IJCM),2026-08-29T00:00:00,2026-08-30T00:00:00,I,08000,Charleville-Mézières,https://apiv2.fftt.com/api/files/602722/2026_IJCM_reglement.pdf,
 3566,Tournoi National B du Plessis-Trévise,2026-08-29T00:00:00,2026-08-30T00:00:00,B,94420,Le Plessis-Trévise,https://apiv2.fftt.com/api/files/614514/REGLEMENT TOURNOI NATIONAL B DE TENNIS DE TABLE P3T 2026.pdf,
+3574,Tournoi national B de Maisons-Laffitte,2026-08-30T00:00:00,2026-08-30T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/616883/Reglement tournoi national Maisons-Laffitte 29-30.08.26 prov.pdf,Distance non disponible
 3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
+3557,GRAND PRIX INTERNATIONAL LE GAULOIS,2026-09-05T00:00:00,2026-09-06T00:00:00,I,49100,Angers,https://apiv2.fftt.com/api/files/604131/Reglement du Grand Prix International Le Gaulois 2026.pdf,Distance non disponible
 3562,"OPEN DE LYS ""JACQUES SECRETIN""",2026-09-05T00:00:00,2026-09-06T00:00:00,B,59390,LYS-LEZ-LANNOY,https://apiv2.fftt.com/api/files/615354/Règlement Lys Lez Lannoy 2026_v2.pdf,
+3570,tournoi villenave d'ornon,2026-09-05T00:00:00,2026-09-06T00:00:00,B,33140,Villenave D'Ornon,https://apiv2.fftt.com/api/files/616667/RÈGLEMENT 2026.pdf,Distance non disponible
 3583,Tournoi de Varzy,2026-09-06T00:00:00,2026-09-06T00:00:00,R,58210,Varzy,https://apiv2.fftt.com/api/files/634897/RE-reglement_tournoi_reg_2026.pdf,
 3547,Tournoi régional Septembre 2026 - La Ville aux Dames,2026-09-12T00:00:00,2026-09-12T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597053/REGLEMENT Tournoi Septembre26-27.pdf,
 3588,Tournoi départemental de Longueil Ste Marie 3 ème édition ,2026-09-13T00:00:00,2026-09-13T00:00:00,D,60126,LONGUEIL STE MARIE,https://apiv2.fftt.com/api/files/637000/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE 3-3.pdf,
