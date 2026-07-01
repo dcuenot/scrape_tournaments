@@ -1,4 +1,11 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3574,Tournoi national B de Maisons-Laffitte,2026-08-30T00:00:00,2026-08-30T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/616883/Reglement tournoi national Maisons-Laffitte 29-30.08.26 prov.pdf,Distance non disponible
-3557,GRAND PRIX INTERNATIONAL LE GAULOIS,2026-09-05T00:00:00,2026-09-06T00:00:00,I,49100,Angers,https://apiv2.fftt.com/api/files/604131/Reglement du Grand Prix International Le Gaulois 2026.pdf,Distance non disponible
-3570,tournoi villenave d'ornon,2026-09-05T00:00:00,2026-09-06T00:00:00,B,33140,Villenave D'Ornon,https://apiv2.fftt.com/api/files/616667/RÈGLEMENT 2026.pdf,Distance non disponible
+3576,Tournoi 2026 National B PPCW 7ème édition,2026-08-28T00:00:00,2026-08-30T00:00:00,B,59139,Wattignies,https://apiv2.fftt.com/api/files/625798/Reglement Définitif Tournoi 2026 National B PPCW 7ème édition.pdf,Distance non disponible
+3593,Open National de Marseille 2026,2026-08-30T00:00:00,2026-08-30T00:00:00,B,13015,Marseille,https://apiv2.fftt.com/api/files/637251/Règlement Open de Marseille 2026 avant homologation 27062026.pdf,Distance non disponible
+3527,LOT OF SPIN 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,46130,Bretenoux,https://apiv2.fftt.com/api/files/581047/2 2026 REGLEMENT TOURNOI NATIONAL B.pdf,Distance non disponible
+3559,Tournoi Olivet - National B,2026-09-05T00:00:00,2026-09-06T00:00:00,B,45160,Olivet,https://apiv2.fftt.com/api/files/604176/Re glement-Officiel-2026.pdf,Distance non disponible
+3556,9ème Tournoi National B PRGTT 74,2026-09-12T00:00:00,2026-09-13T00:00:00,B,74800,La Roche-sur-Foron,https://apiv2.fftt.com/api/files/603553/TournoiPRGTT9.pdf,Distance non disponible
+3575,TOURNOI NATIONAL B du TT NIEPPE,2026-09-12T00:00:00,2026-09-13T00:00:00,B,59850,Nieppe,https://apiv2.fftt.com/api/files/616947/Reglement TT Nieppe 2026.pdf,Distance non disponible
+3580,6ème TOURNOI DES VENDANGES,2026-09-12T00:00:00,2026-09-13T00:00:00,B,66600,RIVESALTES,https://apiv2.fftt.com/api/files/630761/reglement.pdf,Distance non disponible
+3536,14ème TOURNOI DU PAYS COURVILLOIS TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/590941/Réglement 2026.pdf,Distance non disponible
+3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,Distance non disponible
+3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,Distance non disponible
