@@ -1,2 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,Distance non disponible
+3594,TOURNOI DE CABOURG TENNIS DE TABLE 2026,2026-09-06T00:00:00,2026-09-06T00:00:00,B,14390,Cabourg,https://apiv2.fftt.com/api/files/637255/Reglement tournoi 2026 (2).pdf,Distance non disponible
+3584,30ème Tournoi d'Avignon,2026-09-13T00:00:00,2026-09-13T00:00:00,B,84000,Avignon,https://apiv2.fftt.com/api/files/635704/Règlement Tournoi d'Avignon 2026.pdf,Distance non disponible
+3564,Tournoi du NAC TT,2026-09-13T00:00:00,2026-09-13T00:00:00,R,44390,Nort-sur-Erdre,https://apiv2.fftt.com/api/files/641272/REGLEMENT TOURLOI 13.09.2026.pdf,Distance non disponible
