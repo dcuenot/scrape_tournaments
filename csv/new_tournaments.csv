@@ -1,4 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3594,TOURNOI DE CABOURG TENNIS DE TABLE 2026,2026-09-06T00:00:00,2026-09-06T00:00:00,B,14390,Cabourg,https://apiv2.fftt.com/api/files/637255/Reglement tournoi 2026 (2).pdf,Distance non disponible
-3584,30ème Tournoi d'Avignon,2026-09-13T00:00:00,2026-09-13T00:00:00,B,84000,Avignon,https://apiv2.fftt.com/api/files/635704/Règlement Tournoi d'Avignon 2026.pdf,Distance non disponible
-3564,Tournoi du NAC TT,2026-09-13T00:00:00,2026-09-13T00:00:00,R,44390,Nort-sur-Erdre,https://apiv2.fftt.com/api/files/641272/REGLEMENT TOURLOI 13.09.2026.pdf,Distance non disponible
+3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,Distance non disponible
