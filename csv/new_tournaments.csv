@@ -1,2 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,Distance non disponible
+3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,Distance non disponible
+3585,Astt Dainville,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62000,DAINVILLE,https://apiv2.fftt.com/api/files/644357/tournoi réglement DAINVILLE .pdf,Distance non disponible
+3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,Distance non disponible
