@@ -4,7 +4,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3566,Tournoi National B du Plessis-Trévise,2026-08-29T00:00:00,2026-08-30T00:00:00,B,94420,Le Plessis-Trévise,https://apiv2.fftt.com/api/files/614514/REGLEMENT TOURNOI NATIONAL B DE TENNIS DE TABLE P3T 2026.pdf,
 3574,Tournoi national B de Maisons-Laffitte,2026-08-29T00:00:00,2026-08-30T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/616883/Reglement tournoi national Maisons-Laffitte 29-30.08.26 prov.pdf,
 3593,Open National de Marseille 2026,2026-08-30T00:00:00,2026-08-30T00:00:00,B,13015,Marseille,https://apiv2.fftt.com/api/files/643948/Affiche et règlement Open National de Marseille 30 août 2026.pdf,
-3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,Distance non disponible
+3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,
 3527,LOT OF SPIN 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,46130,Bretenoux,https://apiv2.fftt.com/api/files/581047/2 2026 REGLEMENT TOURNOI NATIONAL B.pdf,
 3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
 3557,GRAND PRIX INTERNATIONAL LE GAULOIS,2026-09-05T00:00:00,2026-09-06T00:00:00,I,49100,Angers,https://apiv2.fftt.com/api/files/604131/Reglement du Grand Prix International Le Gaulois 2026.pdf,
@@ -20,14 +20,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3575,TOURNOI NATIONAL B du TT NIEPPE,2026-09-12T00:00:00,2026-09-13T00:00:00,B,59850,Nieppe,https://apiv2.fftt.com/api/files/616947/Reglement TT Nieppe 2026.pdf,
 3580,6ème TOURNOI DES VENDANGES,2026-09-12T00:00:00,2026-09-13T00:00:00,B,66600,RIVESALTES,https://apiv2.fftt.com/api/files/637789/réglement Tournoi des Vendanges 2026.pdf,
 3584,30ème Tournoi d'Avignon,2026-09-13T00:00:00,2026-09-13T00:00:00,B,84000,Avignon,https://apiv2.fftt.com/api/files/635704/Règlement Tournoi d'Avignon 2026.pdf,
-3585,Astt Dainville,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62000,DAINVILLE,https://apiv2.fftt.com/api/files/644357/tournoi réglement DAINVILLE .pdf,Distance non disponible
+3585,Astt Dainville,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62000,DAINVILLE,https://apiv2.fftt.com/api/files/644357/tournoi réglement DAINVILLE .pdf,
 3588,Tournoi départemental de Longueil Ste Marie 3 ème édition ,2026-09-13T00:00:00,2026-09-13T00:00:00,D,60126,LONGUEIL STE MARIE,https://apiv2.fftt.com/api/files/637000/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE 3-3.pdf,
 3522,Tournoi de Saint-Omer,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62500,ST OMER,https://apiv2.fftt.com/api/files/572828/reglement tournoi ttso 2026.pdf,
 3564,Tournoi du NAC TT,2026-09-13T00:00:00,2026-09-13T00:00:00,R,44390,Nort-sur-Erdre,https://apiv2.fftt.com/api/files/641272/REGLEMENT TOURLOI 13.09.2026.pdf,
 3536,14ème TOURNOI DU PAYS COURVILLOIS TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/590941/Réglement 2026.pdf,
 3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,
 3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,
-3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,Distance non disponible
+3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/570387/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026.pdf,
