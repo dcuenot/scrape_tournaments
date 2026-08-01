@@ -1,4 +1,5 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,Distance non disponible
-3585,Astt Dainville,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62000,DAINVILLE,https://apiv2.fftt.com/api/files/644357/tournoi réglement DAINVILLE .pdf,Distance non disponible
-3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,Distance non disponible
+3589,2éme tournoi national de la cité du cristal,2026-09-05T00:00:00,2026-09-06T00:00:00,B,54120,Baccarat,https://apiv2.fftt.com/api/files/643247/Règlement du 2eme Tournoi National de la Cité du Cristal de l.pdf,Distance non disponible
+3586,TOURNOI DE SUCY 2026,2026-09-12T00:00:00,2026-09-13T00:00:00,B,94370,Sucy-en-Brie,https://apiv2.fftt.com/api/files/635778/T26-reglement.pdf,Distance non disponible
+3600,Tournoi National B - Aubenas-Vals,2026-09-12T00:00:00,2026-09-13T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/640668/Réglement et attestation JA3.pdf,Distance non disponible
+3613,Tournoi National de FAULQUEMONT,2026-09-12T00:00:00,2026-09-13T00:00:00,B,57380,Faulquemont,https://apiv2.fftt.com/api/files/642397/reglt tournoi ESCFTT 2026.pdf,Distance non disponible

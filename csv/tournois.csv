@@ -4,6 +4,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3566,Tournoi National B du Plessis-Trévise,2026-08-29T00:00:00,2026-08-30T00:00:00,B,94420,Le Plessis-Trévise,https://apiv2.fftt.com/api/files/614514/REGLEMENT TOURNOI NATIONAL B DE TENNIS DE TABLE P3T 2026.pdf,
 3574,Tournoi national B de Maisons-Laffitte,2026-08-29T00:00:00,2026-08-30T00:00:00,B,78600,Maisons-Laffitte,https://apiv2.fftt.com/api/files/616883/Reglement tournoi national Maisons-Laffitte 29-30.08.26 prov.pdf,
 3593,Open National de Marseille 2026,2026-08-30T00:00:00,2026-08-30T00:00:00,B,13015,Marseille,https://apiv2.fftt.com/api/files/643948/Affiche et règlement Open National de Marseille 30 août 2026.pdf,
+3589,2éme tournoi national de la cité du cristal,2026-09-05T00:00:00,2026-09-06T00:00:00,B,54120,Baccarat,https://apiv2.fftt.com/api/files/643247/Règlement du 2eme Tournoi National de la Cité du Cristal de l.pdf,Distance non disponible
 3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,
 3527,LOT OF SPIN 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,46130,Bretenoux,https://apiv2.fftt.com/api/files/581047/2 2026 REGLEMENT TOURNOI NATIONAL B.pdf,
 3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
@@ -13,7 +14,10 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3570,tournoi villenave d'ornon,2026-09-05T00:00:00,2026-09-06T00:00:00,B,33140,Villenave D'Ornon,https://apiv2.fftt.com/api/files/616667/RÈGLEMENT 2026.pdf,
 3594,TOURNOI DE CABOURG TENNIS DE TABLE 2026,2026-09-06T00:00:00,2026-09-06T00:00:00,B,14390,Cabourg,https://apiv2.fftt.com/api/files/637255/Reglement tournoi 2026 (2).pdf,
 3583,Tournoi de Varzy,2026-09-06T00:00:00,2026-09-06T00:00:00,R,58210,Varzy,https://apiv2.fftt.com/api/files/634897/RE-reglement_tournoi_reg_2026.pdf,
+3586,TOURNOI DE SUCY 2026,2026-09-12T00:00:00,2026-09-13T00:00:00,B,94370,Sucy-en-Brie,https://apiv2.fftt.com/api/files/635778/T26-reglement.pdf,Distance non disponible
 3590,TOURNOI REGIONAL US C BOIS GUILLAUME,2026-09-12T00:00:00,2026-09-13T00:00:00,R,76230,Bois-Guillaume,https://apiv2.fftt.com/api/files/637114/Règlement tournoi 2026_USCBTT.pdf,
+3600,Tournoi National B - Aubenas-Vals,2026-09-12T00:00:00,2026-09-13T00:00:00,B,07200,Aubenas,https://apiv2.fftt.com/api/files/640668/Réglement et attestation JA3.pdf,Distance non disponible
+3613,Tournoi National de FAULQUEMONT,2026-09-12T00:00:00,2026-09-13T00:00:00,B,57380,Faulquemont,https://apiv2.fftt.com/api/files/642397/reglt tournoi ESCFTT 2026.pdf,Distance non disponible
 3547,Tournoi régional Septembre 2026 - La Ville aux Dames,2026-09-12T00:00:00,2026-09-12T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/640984/REGLEMENT Tournoi Septembre26-27.pdf,
 3556,9ème Tournoi National B PRGTT 74,2026-09-12T00:00:00,2026-09-13T00:00:00,B,74800,La Roche-sur-Foron,https://apiv2.fftt.com/api/files/603553/TournoiPRGTT9.pdf,
 3567,11ème Tournoi National B de Tennis de Table de Fontenay le Comte,2026-09-12T00:00:00,2026-09-13T00:00:00,B,85200,FONTENAY LE COMTE,https://apiv2.fftt.com/api/files/614690/Réglement Tournoi national B 12 et 13 sept 2026 FLC.pdf,
