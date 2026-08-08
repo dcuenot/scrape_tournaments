@@ -1,3 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3607,Open National d'Istres 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,13800,ISTRES,https://apiv2.fftt.com/api/files/640782/REGLEMENT OPEN NATIONAL ISTRES 2026.pdf,Distance non disponible
-3577,TOURNOI D HASPARREN 2026,2026-09-13T00:00:00,2026-09-13T00:00:00,R,64240,Hasparren,https://apiv2.fftt.com/api/files/647054/Reglement tournoi 2026.pdf,Distance non disponible
+3573,12eme tournoi national de Chatenois les forges,2026-09-12T00:00:00,2026-09-13T00:00:00,B,90700,Châtenois-les-Forges,https://apiv2.fftt.com/api/files/647212/REGLEMENT 2026.pdf,Distance non disponible
