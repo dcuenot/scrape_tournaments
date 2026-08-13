@@ -14,7 +14,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3562,"OPEN DE LYS ""JACQUES SECRETIN""",2026-09-05T00:00:00,2026-09-06T00:00:00,B,59390,LYS-LEZ-LANNOY,https://apiv2.fftt.com/api/files/615354/Règlement Lys Lez Lannoy 2026_v2.pdf,
 3570,tournoi villenave d'ornon,2026-09-05T00:00:00,2026-09-06T00:00:00,B,33140,Villenave D'Ornon,https://apiv2.fftt.com/api/files/616667/RÈGLEMENT 2026.pdf,
 3594,TOURNOI DE CABOURG TENNIS DE TABLE 2026,2026-09-06T00:00:00,2026-09-06T00:00:00,B,14390,Cabourg,https://apiv2.fftt.com/api/files/637255/Reglement tournoi 2026 (2).pdf,
-3581,Tournoi Du TT Grâces,2026-09-06T00:00:00,2026-09-06T00:00:00,R,22200,Grâces,https://apiv2.fftt.com/api/files/634034/réglement avec annexe prix et horaires_2026.pdf,Distance non disponible
+3581,Tournoi Du TT Grâces,2026-09-06T00:00:00,2026-09-06T00:00:00,R,22200,Grâces,https://apiv2.fftt.com/api/files/634034/réglement avec annexe prix et horaires_2026.pdf,
 3583,Tournoi de Varzy,2026-09-06T00:00:00,2026-09-06T00:00:00,R,58210,Varzy,https://apiv2.fftt.com/api/files/634897/RE-reglement_tournoi_reg_2026.pdf,
 3586,TOURNOI DE SUCY 2026,2026-09-12T00:00:00,2026-09-13T00:00:00,B,94370,Sucy-en-Brie,https://apiv2.fftt.com/api/files/635778/T26-reglement.pdf,
 3590,TOURNOI REGIONAL US C BOIS GUILLAUME,2026-09-12T00:00:00,2026-09-13T00:00:00,R,76230,Bois-Guillaume,https://apiv2.fftt.com/api/files/637114/Règlement tournoi 2026_USCBTT.pdf,
@@ -26,20 +26,20 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3573,12eme tournoi national de Chatenois les forges,2026-09-12T00:00:00,2026-09-13T00:00:00,B,90700,Châtenois-les-Forges,https://apiv2.fftt.com/api/files/647212/REGLEMENT 2026.pdf,
 3575,TOURNOI NATIONAL B du TT NIEPPE,2026-09-12T00:00:00,2026-09-13T00:00:00,B,59850,Nieppe,https://apiv2.fftt.com/api/files/616947/Reglement TT Nieppe 2026.pdf,
 3580,6ème TOURNOI DES VENDANGES,2026-09-12T00:00:00,2026-09-13T00:00:00,B,66600,RIVESALTES,https://apiv2.fftt.com/api/files/637789/réglement Tournoi des Vendanges 2026.pdf,
-3582,14ème Tournoi Régional Brestois TRB 2026,2026-09-12T00:00:00,2026-09-13T00:00:00,R,29200,Brest,https://apiv2.fftt.com/api/files/634747/TOURNOI REGIONAL DE TENNIS DE TABLE réglement 2026.pdf,Distance non disponible
+3582,14ème Tournoi Régional Brestois TRB 2026,2026-09-12T00:00:00,2026-09-13T00:00:00,R,29200,Brest,https://apiv2.fftt.com/api/files/634747/TOURNOI REGIONAL DE TENNIS DE TABLE réglement 2026.pdf,
 3584,30ème Tournoi d'Avignon,2026-09-13T00:00:00,2026-09-13T00:00:00,B,84000,Avignon,https://apiv2.fftt.com/api/files/635704/Règlement Tournoi d'Avignon 2026.pdf,
 3585,Astt Dainville,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62000,DAINVILLE,https://apiv2.fftt.com/api/files/644357/tournoi réglement DAINVILLE .pdf,
 3588,Tournoi départemental de Longueil Ste Marie 3 ème édition ,2026-09-13T00:00:00,2026-09-13T00:00:00,D,60126,LONGUEIL STE MARIE,https://apiv2.fftt.com/api/files/637000/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE 3-3.pdf,
 3522,Tournoi de Saint-Omer,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62500,ST OMER,https://apiv2.fftt.com/api/files/572828/reglement tournoi ttso 2026.pdf,
 3564,Tournoi du NAC TT,2026-09-13T00:00:00,2026-09-13T00:00:00,R,44390,Nort-sur-Erdre,https://apiv2.fftt.com/api/files/641272/REGLEMENT TOURLOI 13.09.2026.pdf,
 3577,TOURNOI D HASPARREN 2026,2026-09-13T00:00:00,2026-09-13T00:00:00,R,64240,Hasparren,https://apiv2.fftt.com/api/files/647054/Reglement tournoi 2026.pdf,
-3601,Tournoi National René REY - Elancourt 2026,2026-09-26T00:00:00,2026-09-27T00:00:00,B,78310,Maurepas,https://apiv2.fftt.com/api/files/641265/Reglement Tournoi National B 2026.pdf,Distance non disponible
+3601,Tournoi National René REY - Elancourt 2026,2026-09-26T00:00:00,2026-09-27T00:00:00,B,78310,Maurepas,https://apiv2.fftt.com/api/files/641265/Reglement Tournoi National B 2026.pdf,
 3536,14ème TOURNOI DU PAYS COURVILLOIS TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/590941/Réglement 2026.pdf,
 3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,
 3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,
 3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
-3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,Distance non disponible
+3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/570387/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026.pdf,
 3548,Tournoi régional Janvier 2027 - La Ville aux Dames,2027-01-09T00:00:00,2027-01-09T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597063/REGLEMENT Tournoi Janvier26-27.pdf,
