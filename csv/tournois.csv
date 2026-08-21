@@ -8,6 +8,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3589,2éme tournoi national de la cité du cristal,2026-09-05T00:00:00,2026-09-06T00:00:00,B,54120,Baccarat,https://apiv2.fftt.com/api/files/643247/Règlement du 2eme Tournoi National de la Cité du Cristal de l.pdf,
 3607,Open National d'Istres 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,13800,ISTRES,https://apiv2.fftt.com/api/files/640782/REGLEMENT OPEN NATIONAL ISTRES 2026.pdf,
 3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,
+3620,Tounoi national du Mâconnais,2026-09-05T00:00:00,2026-09-05T00:00:00,B,71000,Mâcon,https://apiv2.fftt.com/api/files/645416/Règlement_du_Tournoi_National_du_Mâconnais_2026.pdf,Distance non disponible
 3527,LOT OF SPIN 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,46130,Bretenoux,https://apiv2.fftt.com/api/files/581047/2 2026 REGLEMENT TOURNOI NATIONAL B.pdf,
 3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
 3557,GRAND PRIX INTERNATIONAL LE GAULOIS,2026-09-05T00:00:00,2026-09-06T00:00:00,I,49100,Angers,https://apiv2.fftt.com/api/files/604131/Reglement du Grand Prix International Le Gaulois 2026.pdf,
@@ -35,12 +36,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3522,Tournoi de Saint-Omer,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62500,ST OMER,https://apiv2.fftt.com/api/files/572828/reglement tournoi ttso 2026.pdf,
 3564,Tournoi du NAC TT,2026-09-13T00:00:00,2026-09-13T00:00:00,R,44390,Nort-sur-Erdre,https://apiv2.fftt.com/api/files/641272/REGLEMENT TOURLOI 13.09.2026.pdf,
 3577,TOURNOI D HASPARREN 2026,2026-09-13T00:00:00,2026-09-13T00:00:00,R,64240,Hasparren,https://apiv2.fftt.com/api/files/647054/Reglement tournoi 2026.pdf,
+3617,GRAND PRIX NATIONAL WALYGATOR -AQUALAND 2026,2026-09-25T00:00:00,2026-09-27T00:00:00,B,47550,BOE,https://apiv2.fftt.com/api/files/651914/Règlement du Grand Prix Walygator 2026_compressed (1).pdf,Distance non disponible
 3601,Tournoi National René REY - Elancourt 2026,2026-09-26T00:00:00,2026-09-27T00:00:00,B,78310,Maurepas,https://apiv2.fftt.com/api/files/641265/Reglement Tournoi National B 2026.pdf,
 3604,Tournoi National de Thionville,2026-09-26T00:00:00,2026-09-27T00:00:00,B,57100,Thionville,https://apiv2.fftt.com/api/files/646854/reglement_tournoi_national_thionville_2026.pdf,
 3536,14ème TOURNOI DU PAYS COURVILLOIS TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/590941/Réglement 2026.pdf,
 3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,
 3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,
 3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,
+3614,12e tournoi National B du TTI Saint-Laurent-Blangy,2026-10-24T00:00:00,2026-10-25T00:00:00,B,62223,Saint-Laurent-Blangy,https://apiv2.fftt.com/api/files/648882/réglement_tournoi_2026.pdf,Distance non disponible
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
 3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
