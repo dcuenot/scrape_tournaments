@@ -35,7 +35,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3617,GRAND PRIX NATIONAL WALYGATOR -AQUALAND 2026,2026-09-25T00:00:00,2026-09-27T00:00:00,B,47550,BOE,https://apiv2.fftt.com/api/files/651914/Règlement du Grand Prix Walygator 2026_compressed (1).pdf,
 3601,Tournoi National René REY - Elancourt 2026,2026-09-26T00:00:00,2026-09-27T00:00:00,B,78310,Maurepas,https://apiv2.fftt.com/api/files/641265/Reglement Tournoi National B 2026.pdf,
 3604,Tournoi National de Thionville,2026-09-26T00:00:00,2026-09-27T00:00:00,B,57100,Thionville,https://apiv2.fftt.com/api/files/646854/reglement_tournoi_national_thionville_2026.pdf,
-3632,Tournoi National US VERN TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,35770,Vern-sur-Seiche,https://apiv2.fftt.com/api/files/649239/Reglement Tournoi VERN 26 et 27_09_2026.pdf,Distance non disponible
+3632,Tournoi National US VERN TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,35770,Vern-sur-Seiche,https://apiv2.fftt.com/api/files/649239/Reglement Tournoi VERN 26 et 27_09_2026.pdf,
 3536,14ème TOURNOI DU PAYS COURVILLOIS TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/590941/Réglement 2026.pdf,
 3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,
 3598,Tournoi de Clermont Ferrand - Open des volcans 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,B,63122,Ceyrat,https://apiv2.fftt.com/api/files/637866/Reglement Challenge Open des Volcans 2026.pdf,
@@ -46,6 +46,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
 3629,14eme TOURNOI REGIONAL DU PPCI,2026-10-31T00:00:00,2026-11-01T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/652722/REGLEMENT 14ème tournoi ppci 2026 PDF.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
+3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,Distance non disponible
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/570387/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026.pdf,
 3548,Tournoi régional Janvier 2027 - La Ville aux Dames,2027-01-09T00:00:00,2027-01-09T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597063/REGLEMENT Tournoi Janvier26-27.pdf,
 3544,TOURNOI REGIONAL DU CJF TENNIS DE TABLE,2027-01-10T00:00:00,2027-01-10T00:00:00,R,45400,Fleury-les-Aubrais,https://apiv2.fftt.com/api/files/593298/réglement tournoi régional 2027 - 10-01-27.pdf,
