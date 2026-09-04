@@ -40,15 +40,16 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,
 3598,Tournoi de Clermont Ferrand - Open des volcans 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,B,63122,Ceyrat,https://apiv2.fftt.com/api/files/637866/Reglement Challenge Open des Volcans 2026.pdf,
 3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,
-3602,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/644404/REGLEMENT TOURNOI NATIONAL A - V2 10.2026 (2).pdf,Distance non disponible
+3602,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/644404/REGLEMENT TOURNOI NATIONAL A - V2 10.2026 (2).pdf,
 3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,
 3614,12e tournoi National B du TTI Saint-Laurent-Blangy,2026-10-24T00:00:00,2026-10-25T00:00:00,B,62223,Saint-Laurent-Blangy,https://apiv2.fftt.com/api/files/648882/réglement_tournoi_2026.pdf,
-3616,Tournoi SA MERIGNAC TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,33700,Mérignac,https://apiv2.fftt.com/api/files/666641/Règlement du tournoi SAM TT - 24 et 25 octobre 2026.pdf,Distance non disponible
-3622,Tournoi National B du STADE LOUPEEN TT,2026-10-24T00:00:00,2026-10-25T00:00:00,B,28240,LA LOUPE,https://apiv2.fftt.com/api/files/645492/Règlement tournoi national La Loupe - 24 et 25 octobre 2026.pdf,Distance non disponible
-3626,US GRAVIGNY TT,2026-10-24T00:00:00,2026-10-24T00:00:00,B,27930,GRAVIGNY,https://apiv2.fftt.com/api/files/649861/Règlement Tournoi National B US GRAVIGNY TT.pdf,Distance non disponible
+3616,Tournoi SA MERIGNAC TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,33700,Mérignac,https://apiv2.fftt.com/api/files/666641/Règlement du tournoi SAM TT - 24 et 25 octobre 2026.pdf,
+3622,Tournoi National B du STADE LOUPEEN TT,2026-10-24T00:00:00,2026-10-25T00:00:00,B,28240,LA LOUPE,https://apiv2.fftt.com/api/files/645492/Règlement tournoi national La Loupe - 24 et 25 octobre 2026.pdf,
+3626,US GRAVIGNY TT,2026-10-24T00:00:00,2026-10-24T00:00:00,B,27930,GRAVIGNY,https://apiv2.fftt.com/api/files/649861/Règlement Tournoi National B US GRAVIGNY TT.pdf,
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
+3565,Tournoi Régional Ancenis Tennis de Table,2026-10-24T00:00:00,2026-10-25T00:00:00,R,44150,Ancenis,https://apiv2.fftt.com/api/files/655387/Règlement tournoi du 2026 (1).pdf,Distance non disponible
 3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
-3628,Tournoi National de SQY PING ,2026-10-31T00:00:00,2026-11-01T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/648549/SQY PING - Règlement tournoi national oct-nov 2026.pdf,Distance non disponible
+3628,Tournoi National de SQY PING ,2026-10-31T00:00:00,2026-11-01T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/648549/SQY PING - Règlement tournoi national oct-nov 2026.pdf,
 3629,14eme TOURNOI REGIONAL DU PPCI,2026-10-31T00:00:00,2026-11-01T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/652722/REGLEMENT 14ème tournoi ppci 2026 PDF.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
 3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,

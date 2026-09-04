@@ -1,6 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3602,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/644404/REGLEMENT TOURNOI NATIONAL A - V2 10.2026 (2).pdf,Distance non disponible
-3616,Tournoi SA MERIGNAC TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,33700,Mérignac,https://apiv2.fftt.com/api/files/666641/Règlement du tournoi SAM TT - 24 et 25 octobre 2026.pdf,Distance non disponible
-3622,Tournoi National B du STADE LOUPEEN TT,2026-10-24T00:00:00,2026-10-25T00:00:00,B,28240,LA LOUPE,https://apiv2.fftt.com/api/files/645492/Règlement tournoi national La Loupe - 24 et 25 octobre 2026.pdf,Distance non disponible
-3626,US GRAVIGNY TT,2026-10-24T00:00:00,2026-10-24T00:00:00,B,27930,GRAVIGNY,https://apiv2.fftt.com/api/files/649861/Règlement Tournoi National B US GRAVIGNY TT.pdf,Distance non disponible
-3628,Tournoi National de SQY PING ,2026-10-31T00:00:00,2026-11-01T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/648549/SQY PING - Règlement tournoi national oct-nov 2026.pdf,Distance non disponible
+3565,Tournoi Régional Ancenis Tennis de Table,2026-10-24T00:00:00,2026-10-25T00:00:00,R,44150,Ancenis,https://apiv2.fftt.com/api/files/655387/Règlement tournoi du 2026 (1).pdf,Distance non disponible
