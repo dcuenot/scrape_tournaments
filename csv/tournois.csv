@@ -1,14 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3589,2éme tournoi national de la cité du cristal,2026-09-05T00:00:00,2026-09-06T00:00:00,B,54120,Baccarat,https://apiv2.fftt.com/api/files/643247/Règlement du 2eme Tournoi National de la Cité du Cristal de l.pdf,
-3607,Open National d'Istres 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,13800,ISTRES,https://apiv2.fftt.com/api/files/640782/REGLEMENT OPEN NATIONAL ISTRES 2026.pdf,
-3615,TOURNOI REGIONAL ELOYES ,2026-09-05T00:00:00,2026-09-05T00:00:00,R,88510,Éloyes,https://apiv2.fftt.com/api/files/644353/REGLEMENT TOURNOI REGIONAL ELOYES (1).pdf,
-3620,Tounoi national du Mâconnais,2026-09-05T00:00:00,2026-09-05T00:00:00,B,71000,Mâcon,https://apiv2.fftt.com/api/files/645416/Règlement_du_Tournoi_National_du_Mâconnais_2026.pdf,
-3527,LOT OF SPIN 2026,2026-09-05T00:00:00,2026-09-06T00:00:00,B,46130,Bretenoux,https://apiv2.fftt.com/api/files/581047/2 2026 REGLEMENT TOURNOI NATIONAL B.pdf,
-3535,1er Tournoi Régional du Poinçonnet,2026-09-05T00:00:00,2026-09-05T00:00:00,R,36330,Le Poinçonnet,https://apiv2.fftt.com/api/files/587370/Tournoi Régional règlement.pdf,
-3557,GRAND PRIX INTERNATIONAL LE GAULOIS,2026-09-05T00:00:00,2026-09-06T00:00:00,I,49100,Angers,https://apiv2.fftt.com/api/files/604131/Reglement du Grand Prix International Le Gaulois 2026.pdf,
-3559,Tournoi Olivet - National B,2026-09-05T00:00:00,2026-09-06T00:00:00,B,45160,Olivet,https://apiv2.fftt.com/api/files/604176/Re glement-Officiel-2026.pdf,
-3562,"OPEN DE LYS ""JACQUES SECRETIN""",2026-09-05T00:00:00,2026-09-06T00:00:00,B,59390,LYS-LEZ-LANNOY,https://apiv2.fftt.com/api/files/615354/Règlement Lys Lez Lannoy 2026_v2.pdf,
-3570,tournoi villenave d'ornon,2026-09-05T00:00:00,2026-09-06T00:00:00,B,33140,Villenave D'Ornon,https://apiv2.fftt.com/api/files/616667/RÈGLEMENT 2026.pdf,
 3594,TOURNOI DE CABOURG TENNIS DE TABLE 2026,2026-09-06T00:00:00,2026-09-06T00:00:00,B,14390,Cabourg,https://apiv2.fftt.com/api/files/637255/Reglement tournoi 2026 (2).pdf,
 3637,TROPHEE GRIEDER ORTT,2026-09-06T00:00:00,2026-09-06T00:00:00,R,51100,Reims,https://apiv2.fftt.com/api/files/650489/Reglement Tournoi Grieder ORTT 2026.pdf,
 3581,Tournoi Du TT Grâces,2026-09-06T00:00:00,2026-09-06T00:00:00,R,22200,Grâces,https://apiv2.fftt.com/api/files/634034/réglement avec annexe prix et horaires_2026.pdf,
@@ -51,7 +41,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3628,Tournoi National de SQY PING ,2026-10-31T00:00:00,2026-11-01T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/648549/SQY PING - Règlement tournoi national oct-nov 2026.pdf,
 3629,14eme TOURNOI REGIONAL DU PPCI,2026-10-31T00:00:00,2026-11-01T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/652722/REGLEMENT 14ème tournoi ppci 2026 PDF.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
-3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,Distance non disponible
+3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,
 3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/570387/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026.pdf,
 3548,Tournoi régional Janvier 2027 - La Ville aux Dames,2027-01-09T00:00:00,2027-01-09T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597063/REGLEMENT Tournoi Janvier26-27.pdf,
