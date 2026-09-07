@@ -1,8 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3594,TOURNOI DE CABOURG TENNIS DE TABLE 2026,2026-09-06T00:00:00,2026-09-06T00:00:00,B,14390,Cabourg,https://apiv2.fftt.com/api/files/637255/Reglement tournoi 2026 (2).pdf,
-3637,TROPHEE GRIEDER ORTT,2026-09-06T00:00:00,2026-09-06T00:00:00,R,51100,Reims,https://apiv2.fftt.com/api/files/650489/Reglement Tournoi Grieder ORTT 2026.pdf,
-3581,Tournoi Du TT Grâces,2026-09-06T00:00:00,2026-09-06T00:00:00,R,22200,Grâces,https://apiv2.fftt.com/api/files/634034/réglement avec annexe prix et horaires_2026.pdf,
-3583,Tournoi de Varzy,2026-09-06T00:00:00,2026-09-06T00:00:00,R,58210,Varzy,https://apiv2.fftt.com/api/files/634897/RE-reglement_tournoi_reg_2026.pdf,
 3586,TOURNOI DE SUCY 2026,2026-09-12T00:00:00,2026-09-13T00:00:00,B,94370,Sucy-en-Brie,https://apiv2.fftt.com/api/files/635778/T26-reglement.pdf,
 3590,TOURNOI REGIONAL US C BOIS GUILLAUME,2026-09-12T00:00:00,2026-09-13T00:00:00,R,76230,Bois-Guillaume,https://apiv2.fftt.com/api/files/637114/Règlement tournoi 2026_USCBTT.pdf,
 3596,TOURNOI NATIONAL DE THORIGNE-FOUILLARD,2026-09-12T00:00:00,2026-09-13T00:00:00,B,35235,THORIGNE-FOUILLARD,https://apiv2.fftt.com/api/files/637810/Règlement tournoi 2026.pdf,
