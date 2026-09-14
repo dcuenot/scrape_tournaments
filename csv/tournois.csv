@@ -1,10 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3584,30ème Tournoi d'Avignon,2026-09-13T00:00:00,2026-09-13T00:00:00,B,84000,Avignon,https://apiv2.fftt.com/api/files/635704/Règlement Tournoi d'Avignon 2026.pdf,
-3585,Astt Dainville,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62000,DAINVILLE,https://apiv2.fftt.com/api/files/644357/tournoi réglement DAINVILLE .pdf,
-3588,Tournoi départemental de Longueil Ste Marie 3 ème édition ,2026-09-13T00:00:00,2026-09-13T00:00:00,D,60126,LONGUEIL STE MARIE,https://apiv2.fftt.com/api/files/637000/REGLEMENT TOURNOI DÉPARTEMENTAL LONGUEIL SAINTE MARIE 3-3.pdf,
-3522,Tournoi de Saint-Omer,2026-09-13T00:00:00,2026-09-13T00:00:00,R,62500,ST OMER,https://apiv2.fftt.com/api/files/572828/reglement tournoi ttso 2026.pdf,
-3564,Tournoi du NAC TT,2026-09-13T00:00:00,2026-09-13T00:00:00,R,44390,Nort-sur-Erdre,https://apiv2.fftt.com/api/files/641272/REGLEMENT TOURLOI 13.09.2026.pdf,
-3577,TOURNOI D HASPARREN 2026,2026-09-13T00:00:00,2026-09-13T00:00:00,R,64240,Hasparren,https://apiv2.fftt.com/api/files/647054/Reglement tournoi 2026.pdf,
 3617,GRAND PRIX NATIONAL WALYGATOR -AQUALAND 2026,2026-09-25T00:00:00,2026-09-27T00:00:00,B,47550,BOE,https://apiv2.fftt.com/api/files/651914/Règlement du Grand Prix Walygator 2026_compressed (1).pdf,
 3601,Tournoi National René REY - Elancourt 2026,2026-09-26T00:00:00,2026-09-27T00:00:00,B,78310,Maurepas,https://apiv2.fftt.com/api/files/641265/Reglement Tournoi National B 2026.pdf,
 3604,Tournoi National de Thionville,2026-09-26T00:00:00,2026-09-27T00:00:00,B,57100,Thionville,https://apiv2.fftt.com/api/files/646854/reglement_tournoi_national_thionville_2026.pdf,
