@@ -18,12 +18,14 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3565,Tournoi Régional Ancenis Tennis de Table,2026-10-24T00:00:00,2026-10-25T00:00:00,R,44150,Ancenis,https://apiv2.fftt.com/api/files/655387/Règlement tournoi du 2026 (1).pdf,
 3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
 3618,3ème Open Thermal de Vittel,2026-10-31T00:00:00,2026-11-01T00:00:00,A,88800,Vittel,https://apiv2.fftt.com/api/files/645170/Reglement 2026 V1.pdf,
+3619,TOURNOI NATIONAL B DE LA FLECHE 2026,2026-10-31T00:00:00,2026-11-01T00:00:00,B,72200,La Flèche,https://apiv2.fftt.com/api/files/684990/Reglement Tournoi La Flèche 2026 V03.pdf,Distance non disponible
 3628,Tournoi National de SQY PING ,2026-10-31T00:00:00,2026-11-01T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/648549/SQY PING - Règlement tournoi national oct-nov 2026.pdf,
 3629,14eme TOURNOI REGIONAL DU PPCI,2026-10-31T00:00:00,2026-11-01T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/652722/REGLEMENT 14ème tournoi ppci 2026 PDF.pdf,
 3636,Tournoi National Andre Perrier (TT St Jeannais),2026-10-31T00:00:00,2026-10-31T00:00:00,B,38440,Saint-Jean-de-Bournay,https://apiv2.fftt.com/api/files/651304/règlement + attestation.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
 3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,
 3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,
+3591,TOURNOI NATIONAL B CLERY ST ANDRE,2026-12-19T00:00:00,2026-12-20T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/653569/Règlement 2026-2.pdf,Distance non disponible
 3625,Les 12H du CP Mioland 2ème édition,2026-12-19T00:00:00,2026-12-19T00:00:00,R,69780,Mions,https://apiv2.fftt.com/api/files/648260/12H DU CP MIOLAND 2EME EDITION.pdf,
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/570387/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026.pdf,
 3642,2 eme Tournoi Régional Saint Germain les Corbeil,2027-01-09T00:00:00,2027-01-10T00:00:00,R,91250,Saint-Germain-lès-Corbeil,https://apiv2.fftt.com/api/files/672694/Réglement Tournoi St germain2027v3.pdf,

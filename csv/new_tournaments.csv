@@ -1,5 +1,3 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3627,Tournoi national du TT Seyssinois,2026-10-24T00:00:00,2026-10-25T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/657276/Réglement - Lettre JA_V4.pdf,Distance non disponible
-3618,3ème Open Thermal de Vittel,2026-10-31T00:00:00,2026-11-01T00:00:00,A,88800,Vittel,https://apiv2.fftt.com/api/files/645170/Reglement 2026 V1.pdf,Distance non disponible
-3636,Tournoi National Andre Perrier (TT St Jeannais),2026-10-31T00:00:00,2026-10-31T00:00:00,B,38440,Saint-Jean-de-Bournay,https://apiv2.fftt.com/api/files/651304/règlement + attestation.pdf,Distance non disponible
-3625,Les 12H du CP Mioland 2ème édition,2026-12-19T00:00:00,2026-12-19T00:00:00,R,69780,Mions,https://apiv2.fftt.com/api/files/648260/12H DU CP MIOLAND 2EME EDITION.pdf,Distance non disponible
+3619,TOURNOI NATIONAL B DE LA FLECHE 2026,2026-10-31T00:00:00,2026-11-01T00:00:00,B,72200,La Flèche,https://apiv2.fftt.com/api/files/684990/Reglement Tournoi La Flèche 2026 V03.pdf,Distance non disponible
+3591,TOURNOI NATIONAL B CLERY ST ANDRE,2026-12-19T00:00:00,2026-12-20T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/653569/Règlement 2026-2.pdf,Distance non disponible
