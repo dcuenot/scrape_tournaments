@@ -14,6 +14,8 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3622,Tournoi National B du STADE LOUPEEN TT,2026-10-24T00:00:00,2026-10-25T00:00:00,B,28240,LA LOUPE,https://apiv2.fftt.com/api/files/645492/Règlement tournoi national La Loupe - 24 et 25 octobre 2026.pdf,
 3626,US GRAVIGNY TT,2026-10-24T00:00:00,2026-10-24T00:00:00,B,27930,GRAVIGNY,https://apiv2.fftt.com/api/files/649861/Règlement Tournoi National B US GRAVIGNY TT.pdf,
 3627,Tournoi national du TT Seyssinois,2026-10-24T00:00:00,2026-10-25T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/657276/Réglement - Lettre JA_V4.pdf,
+3640,TOURNOI NATIONAL B - AS CORMELLES TT (14),2026-10-24T00:00:00,2026-10-25T00:00:00,B,14123,Cormelles-le-Royal,https://apiv2.fftt.com/api/files/670380/Règlement&TableauxASCTTNB2026.pdf,Distance non disponible
+3651,32e Tournoi National d'Alençon,2026-10-24T00:00:00,2026-10-25T00:00:00,B,61000,ALENCON,https://apiv2.fftt.com/api/files/666640/Règlement TNA 26.pdf,Distance non disponible
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
 3565,Tournoi Régional Ancenis Tennis de Table,2026-10-24T00:00:00,2026-10-25T00:00:00,R,44150,Ancenis,https://apiv2.fftt.com/api/files/655387/Règlement tournoi du 2026 (1).pdf,
 3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
@@ -22,6 +24,9 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3628,Tournoi National de SQY PING ,2026-10-31T00:00:00,2026-11-01T00:00:00,B,78280,Guyancourt,https://apiv2.fftt.com/api/files/648549/SQY PING - Règlement tournoi national oct-nov 2026.pdf,
 3629,14eme TOURNOI REGIONAL DU PPCI,2026-10-31T00:00:00,2026-11-01T00:00:00,R,36100,ISSOUDUN,https://apiv2.fftt.com/api/files/652722/REGLEMENT 14ème tournoi ppci 2026 PDF.pdf,
 3636,Tournoi National Andre Perrier (TT St Jeannais),2026-10-31T00:00:00,2026-10-31T00:00:00,B,38440,Saint-Jean-de-Bournay,https://apiv2.fftt.com/api/files/651304/règlement + attestation.pdf,
+3638,43ème Tournoi de Miramas,2026-10-31T00:00:00,2026-11-01T00:00:00,B,13140,Miramas,https://apiv2.fftt.com/api/files/650645/Règlement Tournoi Miramas 2026.pdf,Distance non disponible
+3639,Tournoi International 2026 de Bazeilles,2026-10-31T00:00:00,2026-11-01T00:00:00,B,08140,Bazeilles,https://apiv2.fftt.com/api/files/651802/ReglementTournoiBazeilles-2026-v1.pdf,Distance non disponible
+3661,37ème Tournoi National B Tennis de Table du CSC Thouars,2026-10-31T00:00:00,2026-11-01T00:00:00,B,79100,Sainte-Verge,https://apiv2.fftt.com/api/files/685187/Règlement 37ème Tournoi CSCT 2026.pdf,Distance non disponible
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
 3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,
 3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,
