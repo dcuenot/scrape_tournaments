@@ -1,6 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3650,TOURNOI NATIONAL 100% FEMININ de Plescop (56),2026-11-11T00:00:00,2026-11-11T00:00:00,B,56890,Plescop,https://apiv2.fftt.com/api/files/662076/REGLEMENT TOURNOI NATIONAL PLESCOP 11 NOVEMBRE 2026 vers DEF.pdf,Distance non disponible
-3621,TOURNOI NATIONAL B SAINT PIERRE LA COUR 2e EDITION,2026-11-28T00:00:00,2026-11-29T00:00:00,B,53410,Saint Pierre La Cour,https://apiv2.fftt.com/api/files/655590/reglementtournoiV3.pdf,Distance non disponible
-3630,Tournoi PPC PARTHENAY,2026-12-19T00:00:00,2026-12-20T00:00:00,B,79200,Parthenay,https://apiv2.fftt.com/api/files/648676/Règlement Tournoi PPCP 26-27 Version 18.07.26.pdf,Distance non disponible
-3612,LE MANS SARTHE TT - CREDIT MUTUEL,2027-01-09T00:00:00,2027-01-10T00:00:00,B,72000,Le Mans,https://apiv2.fftt.com/api/files/642122/260717 Reglt Tournoi Le Mans 2027 - vDéf2.pdf,Distance non disponible
-3660,Tournoi National B Jeune Garde Tourcoing,2027-01-09T00:00:00,2027-01-10T00:00:00,B,59200,Tourcoing,https://apiv2.fftt.com/api/files/687639/Reglement2027 v2.pdf,Distance non disponible
+3666,Tournoi du CD 71 - 2026/2027,2026-10-25T00:00:00,2026-10-25T00:00:00,R,71210,Montchanin,https://apiv2.fftt.com/api/files/695346/reglement_tournoi_CD71_2026-2027.pdf,Distance non disponible
