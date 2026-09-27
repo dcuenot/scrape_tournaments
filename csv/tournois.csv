@@ -1,9 +1,4 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3601,Tournoi National René REY - Elancourt 2026,2026-09-26T00:00:00,2026-09-27T00:00:00,B,78310,Maurepas,https://apiv2.fftt.com/api/files/641265/Reglement Tournoi National B 2026.pdf,
-3604,Tournoi National de Thionville,2026-09-26T00:00:00,2026-09-27T00:00:00,B,57100,Thionville,https://apiv2.fftt.com/api/files/646854/reglement_tournoi_national_thionville_2026.pdf,
-3632,Tournoi National US VERN TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,35770,Vern-sur-Seiche,https://apiv2.fftt.com/api/files/649239/Reglement Tournoi VERN 26 et 27_09_2026.pdf,
-3536,14ème TOURNOI DU PAYS COURVILLOIS TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,28190,FONTAINE LA GUYON,https://apiv2.fftt.com/api/files/590941/Réglement 2026.pdf,
-3578,Tournoi National 2026 Centr'Isère TT,2026-09-26T00:00:00,2026-09-27T00:00:00,B,38340,Voreppe,https://apiv2.fftt.com/api/files/628710/Règlement-Tournoi-CITT&AttestationJA-2026.pdf,
 3598,Tournoi de Clermont Ferrand - Open des volcans 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,B,63122,Ceyrat,https://apiv2.fftt.com/api/files/637866/Reglement Challenge Open des Volcans 2026.pdf,
 3599,TOURNOI NATIONAL B DE PONTOISE CERGY TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,95300,PONTOISE,https://apiv2.fftt.com/api/files/641290/REGLEMENT TOURNOI PONTOISE 29.06.2026v3.pdf,
 3602,Tournoi national A - TROYES O.S - NOËS - Édition 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,A,10000,Troyes,https://apiv2.fftt.com/api/files/644404/REGLEMENT TOURNOI NATIONAL A - V2 10.2026 (2).pdf,
@@ -16,7 +11,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3627,Tournoi national du TT Seyssinois,2026-10-24T00:00:00,2026-10-25T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/657276/Réglement - Lettre JA_V4.pdf,
 3640,TOURNOI NATIONAL B - AS CORMELLES TT (14),2026-10-24T00:00:00,2026-10-25T00:00:00,B,14123,Cormelles-le-Royal,https://apiv2.fftt.com/api/files/670380/Règlement&TableauxASCTTNB2026.pdf,
 3651,32e Tournoi National d'Alençon,2026-10-24T00:00:00,2026-10-25T00:00:00,B,61000,ALENCON,https://apiv2.fftt.com/api/files/666640/Règlement TNA 26.pdf,
-3665,Tournoi Régional LA RICHE 24 et 25 oct 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,R,37520,La Riche,https://apiv2.fftt.com/api/files/702305/Règlement tournoi régional2026versiondéfinitive.pdf,Distance non disponible
+3665,Tournoi Régional LA RICHE 24 et 25 oct 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,R,37520,La Riche,https://apiv2.fftt.com/api/files/702305/Règlement tournoi régional2026versiondéfinitive.pdf,
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
 3565,Tournoi Régional Ancenis Tennis de Table,2026-10-24T00:00:00,2026-10-25T00:00:00,R,44150,Ancenis,https://apiv2.fftt.com/api/files/655387/Règlement tournoi du 2026 (1).pdf,
 3666,Tournoi du CD 71 - 2026/2027,2026-10-25T00:00:00,2026-10-25T00:00:00,R,71210,Montchanin,https://apiv2.fftt.com/api/files/695346/reglement_tournoi_CD71_2026-2027.pdf,
