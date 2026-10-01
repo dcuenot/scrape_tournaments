@@ -25,10 +25,12 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3639,Tournoi International 2026 de Bazeilles,2026-10-31T00:00:00,2026-11-01T00:00:00,B,08140,Bazeilles,https://apiv2.fftt.com/api/files/651802/ReglementTournoiBazeilles-2026-v1.pdf,
 3661,37ème Tournoi National B Tennis de Table du CSC Thouars,2026-10-31T00:00:00,2026-11-01T00:00:00,B,79100,Sainte-Verge,https://apiv2.fftt.com/api/files/688837/Règlement 37ème Tournoi CSCT 2026.pdf,
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
+3674,1er Tournoi Féminins,2026-11-01T00:00:00,2026-11-01T00:00:00,D,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/708430/REGLEMENT TD - Comité-tournoi féminin.pdf,Distance non disponible
 3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,
 3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,
 3650,TOURNOI NATIONAL 100% FEMININ de Plescop (56),2026-11-11T00:00:00,2026-11-11T00:00:00,B,56890,Plescop,https://apiv2.fftt.com/api/files/662076/REGLEMENT TOURNOI NATIONAL PLESCOP 11 NOVEMBRE 2026 vers DEF.pdf,
 3621,TOURNOI NATIONAL B SAINT PIERRE LA COUR 2e EDITION,2026-11-28T00:00:00,2026-11-29T00:00:00,B,53410,Saint Pierre La Cour,https://apiv2.fftt.com/api/files/655590/reglementtournoiV3.pdf,
+3655,Tournoi National du CSTT Ferrière-la-grande,2026-11-28T00:00:00,2026-11-29T00:00:00,B,59680,Ferrière-la-Grande,https://apiv2.fftt.com/api/files/699829/Reglement 2026 .docx (1).pdf,Distance non disponible
 3591,TOURNOI NATIONAL B CLERY ST ANDRE,2026-12-19T00:00:00,2026-12-20T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/653569/Règlement 2026-2.pdf,
 3625,Les 12H du CP Mioland 2ème édition,2026-12-19T00:00:00,2026-12-19T00:00:00,R,69780,Mions,https://apiv2.fftt.com/api/files/648260/12H DU CP MIOLAND 2EME EDITION.pdf,
 3630,Tournoi PPC PARTHENAY,2026-12-19T00:00:00,2026-12-20T00:00:00,B,79200,Parthenay,https://apiv2.fftt.com/api/files/648676/Règlement Tournoi PPCP 26-27 Version 18.07.26.pdf,

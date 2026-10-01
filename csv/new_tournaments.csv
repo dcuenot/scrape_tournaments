@@ -1,2 +1,3 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3665,Tournoi Régional LA RICHE 24 et 25 oct 2026,2026-10-24T00:00:00,2026-10-25T00:00:00,R,37520,La Riche,https://apiv2.fftt.com/api/files/702305/Règlement tournoi régional2026versiondéfinitive.pdf,Distance non disponible
+3674,1er Tournoi Féminins,2026-11-01T00:00:00,2026-11-01T00:00:00,D,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/708430/REGLEMENT TD - Comité-tournoi féminin.pdf,Distance non disponible
+3655,Tournoi National du CSTT Ferrière-la-grande,2026-11-28T00:00:00,2026-11-29T00:00:00,B,59680,Ferrière-la-Grande,https://apiv2.fftt.com/api/files/699829/Reglement 2026 .docx (1).pdf,Distance non disponible
