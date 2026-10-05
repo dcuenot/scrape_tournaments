@@ -29,7 +29,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,
 3649,TOURNOI DE L'U S SAINTES TENNIS DE TABLE,2026-11-11T00:00:00,2026-11-11T00:00:00,R,17100,Saintes,https://apiv2.fftt.com/api/files/665320/Reglement tournoi Régional Saintes - 11 novembre 2026.pdf,
 3650,TOURNOI NATIONAL 100% FEMININ de Plescop (56),2026-11-11T00:00:00,2026-11-11T00:00:00,B,56890,Plescop,https://apiv2.fftt.com/api/files/662076/REGLEMENT TOURNOI NATIONAL PLESCOP 11 NOVEMBRE 2026 vers DEF.pdf,
-3672,GRAND PRIX DU TARN,2026-11-11T00:00:00,2026-11-11T00:00:00,R,81100,Castres,https://apiv2.fftt.com/api/files/708323/REGLEMENT GRAND PRIX DU TARN 11 NOVEMBRE  2026v3.pdf,Distance non disponible
+3672,GRAND PRIX DU TARN,2026-11-11T00:00:00,2026-11-11T00:00:00,R,81100,Castres,https://apiv2.fftt.com/api/files/708323/REGLEMENT GRAND PRIX DU TARN 11 NOVEMBRE  2026v3.pdf,
 3621,TOURNOI NATIONAL B SAINT PIERRE LA COUR 2e EDITION,2026-11-28T00:00:00,2026-11-29T00:00:00,B,53410,Saint Pierre La Cour,https://apiv2.fftt.com/api/files/655590/reglementtournoiV3.pdf,
 3655,Tournoi National du CSTT Ferrière-la-grande,2026-11-28T00:00:00,2026-11-29T00:00:00,B,59680,Ferrière-la-Grande,https://apiv2.fftt.com/api/files/699829/Reglement 2026 .docx (1).pdf,
 3591,TOURNOI NATIONAL B CLERY ST ANDRE,2026-12-19T00:00:00,2026-12-20T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/653569/Règlement 2026-2.pdf,
@@ -43,3 +43,4 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3660,Tournoi National B Jeune Garde Tourcoing,2027-01-09T00:00:00,2027-01-10T00:00:00,B,59200,Tourcoing,https://apiv2.fftt.com/api/files/687639/Reglement2027 v2.pdf,
 3548,Tournoi régional Janvier 2027 - La Ville aux Dames,2027-01-09T00:00:00,2027-01-09T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597063/REGLEMENT Tournoi Janvier26-27.pdf,
 3544,TOURNOI REGIONAL DU CJF TENNIS DE TABLE,2027-01-10T00:00:00,2027-01-10T00:00:00,R,45400,Fleury-les-Aubrais,https://apiv2.fftt.com/api/files/593298/réglement tournoi régional 2027 - 10-01-27.pdf,
+3641,Tournoi Régional du CTT DÉOLS,2027-04-03T00:00:00,2027-04-03T00:00:00,R,36130,DEOLS,https://apiv2.fftt.com/api/files/651293/Règlement Tournoi 2026 2027.pdf,Distance non disponible
