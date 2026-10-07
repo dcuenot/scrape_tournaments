@@ -5,7 +5,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3611,Tournoi régional des 50 ans du Club Pongiste de Saint-Priest,2026-10-24T00:00:00,2026-10-24T00:00:00,R,69800,SAINT PRIEST,https://apiv2.fftt.com/api/files/644281/REGLEMENT TOURNOI DES  50 ANS CPSP 24 oct 2026.pdf,
 3614,12e tournoi National B du TTI Saint-Laurent-Blangy,2026-10-24T00:00:00,2026-10-25T00:00:00,B,62223,Saint-Laurent-Blangy,https://apiv2.fftt.com/api/files/708838/réglement_tournoi_2026.pdf,
 3616,Tournoi SA MERIGNAC TENNIS DE TABLE,2026-10-24T00:00:00,2026-10-25T00:00:00,B,33700,Mérignac,https://apiv2.fftt.com/api/files/666641/Règlement du tournoi SAM TT - 24 et 25 octobre 2026.pdf,
-3622,Tournoi National B du STADE LOUPEEN TT,2026-10-24T00:00:00,2026-10-25T00:00:00,B,28240,LA LOUPE,https://apiv2.fftt.com/api/files/645492/Règlement tournoi national La Loupe - 24 et 25 octobre 2026.pdf,
+3622,Tournoi National B du STADE LOUPEEN TT,2026-10-24T00:00:00,2026-10-25T00:00:00,B,28240,LA LOUPE,https://apiv2.fftt.com/api/files/717912/Règlement tournoi national La Loupe - 24 et 25 octobre 2026.pdf,
 3624,Tournoi national du TT Fronton,2026-10-24T00:00:00,2026-10-25T00:00:00,B,31620,FRONTON,https://apiv2.fftt.com/api/files/646278/Reglement TT Fronton 2026.pdf,
 3626,US GRAVIGNY TT,2026-10-24T00:00:00,2026-10-24T00:00:00,B,27930,GRAVIGNY,https://apiv2.fftt.com/api/files/649861/Règlement Tournoi National B US GRAVIGNY TT.pdf,
 3627,Tournoi national du TT Seyssinois,2026-10-24T00:00:00,2026-10-25T00:00:00,B,38170,Seyssinet-Pariset,https://apiv2.fftt.com/api/files/657276/Réglement - Lettre JA_V4.pdf,
@@ -15,7 +15,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3554,TOURNOI DRAVEIL TT NATIONAL B,2026-10-24T00:00:00,2026-10-25T00:00:00,B,91210,Draveil,https://apiv2.fftt.com/api/files/602800/Règlement Tournoi Draveil 2026  V2.pdf,
 3565,Tournoi Régional Ancenis Tennis de Table,2026-10-24T00:00:00,2026-10-25T00:00:00,R,44150,Ancenis,https://apiv2.fftt.com/api/files/655387/Règlement tournoi du 2026 (1).pdf,
 3666,Tournoi du CD 71 - 2026/2027,2026-10-25T00:00:00,2026-10-25T00:00:00,R,71210,Montchanin,https://apiv2.fftt.com/api/files/695346/reglement_tournoi_CD71_2026-2027.pdf,
-3675,TROPHEE GRIEDER. TOURNOI TAGNON,2026-10-25T00:00:00,2026-10-25T00:00:00,R,08300,TAGNON,https://apiv2.fftt.com/api/files/708581/Reglement Tournoi Grieder Tagnon 2026.pdf,Distance non disponible
+3675,TROPHEE GRIEDER. TOURNOI TAGNON,2026-10-25T00:00:00,2026-10-25T00:00:00,R,08300,TAGNON,https://apiv2.fftt.com/api/files/708581/Reglement Tournoi Grieder Tagnon 2026.pdf,
 3597,Tournoi National B US Orléans TT - 1ère édition,2026-10-31T00:00:00,2026-10-31T00:00:00,B,45000,Orléans,https://apiv2.fftt.com/api/files/637859/Règlement tournoi national USO TT.pdf,
 3618,3ème Open Thermal de Vittel,2026-10-31T00:00:00,2026-11-01T00:00:00,A,88800,Vittel,https://apiv2.fftt.com/api/files/645170/Reglement 2026 V1.pdf,
 3619,TOURNOI NATIONAL B DE LA FLECHE 2026,2026-10-31T00:00:00,2026-11-01T00:00:00,B,72200,La Flèche,https://apiv2.fftt.com/api/files/684990/Reglement Tournoi La Flèche 2026 V03.pdf,
