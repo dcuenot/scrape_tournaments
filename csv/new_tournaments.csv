@@ -1,4 +1,2 @@
 id,name,startDate,endDate,type,postalCode,location,rules,distance
-3691,Tournoi Départemental de tennis de table de Beynes,2026-11-29T00:00:00,2026-11-29T00:00:00,D,78650,Beynes,https://apiv2.fftt.com/api/files/719545/RGT 2026 Tournoi TTC Beynes 29112026 d (1).pdf,Distance non disponible
-3684,TOURNOI REGIONAL DE ATLANTIQUE TENNIS DE TABLE 17,2026-12-19T00:00:00,2026-12-19T00:00:00,R,17420,SAINT PALAIS SUR MER,https://apiv2.fftt.com/api/files/718453/REGLEMENT DU TOURNOI REGIONAL 2026.pdf,Distance non disponible
-3676,GECK'OPEN XIII 2027,2027-02-20T00:00:00,2027-02-20T00:00:00,R,74930,Reignier-Ésery,https://apiv2.fftt.com/api/files/716650/GECK'OPEN XIII 2027 - Règlement.pdf,Distance non disponible
+3633,2e tournoi régional de Surgères,2027-02-28T00:00:00,2027-02-28T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/717969/reglement tournoi 2027.pdf,Distance non disponible
