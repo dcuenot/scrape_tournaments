@@ -25,6 +25,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3638,43ème Tournoi de Miramas,2026-10-31T00:00:00,2026-11-01T00:00:00,B,13140,Miramas,https://apiv2.fftt.com/api/files/650645/Règlement Tournoi Miramas 2026.pdf,
 3639,Tournoi International 2026 de Bazeilles,2026-10-31T00:00:00,2026-11-01T00:00:00,B,08140,Bazeilles,https://apiv2.fftt.com/api/files/651802/ReglementTournoiBazeilles-2026-v1.pdf,
 3661,37ème Tournoi National B Tennis de Table du CSC Thouars,2026-10-31T00:00:00,2026-11-01T00:00:00,B,79100,Sainte-Verge,https://apiv2.fftt.com/api/files/688837/Règlement 37ème Tournoi CSCT 2026.pdf,
+3681,Tournoi hivernal de Pérols 2026,2026-10-31T00:00:00,2026-10-31T00:00:00,R,34470,Pérols,https://apiv2.fftt.com/api/files/718339/Reglement et récompenses - Tournoi hivernal Pérols 2026.pdf,Distance non disponible
 3572,Tournoi National B US Changé Tennis de Table,2026-10-31T00:00:00,2026-11-01T00:00:00,B,53810,Changé,https://apiv2.fftt.com/api/files/616796/Règlement tournoi national Changé.pdf,
 3674,1er Tournoi Féminins,2026-11-01T00:00:00,2026-11-01T00:00:00,D,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/708430/REGLEMENT TD - Comité-tournoi féminin.pdf,
 3645,OPEN Jeunes 1ère édition - Baisieux TT,2026-11-11T00:00:00,2026-11-11T00:00:00,R,59780,Baisieux,https://apiv2.fftt.com/api/files/669762/Règlement OPEN Jeunes BTT 2026.pdf,
@@ -47,5 +48,5 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3548,Tournoi régional Janvier 2027 - La Ville aux Dames,2027-01-09T00:00:00,2027-01-09T00:00:00,R,37700,La Ville-aux-Dames,https://apiv2.fftt.com/api/files/597063/REGLEMENT Tournoi Janvier26-27.pdf,
 3544,TOURNOI REGIONAL DU CJF TENNIS DE TABLE,2027-01-10T00:00:00,2027-01-10T00:00:00,R,45400,Fleury-les-Aubrais,https://apiv2.fftt.com/api/files/593298/réglement tournoi régional 2027 - 10-01-27.pdf,
 3676,GECK'OPEN XIII 2027,2027-02-20T00:00:00,2027-02-20T00:00:00,R,74930,Reignier-Ésery,https://apiv2.fftt.com/api/files/716650/GECK'OPEN XIII 2027 - Règlement.pdf,
-3633,2e tournoi régional de Surgères,2027-02-28T00:00:00,2027-02-28T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/717969/reglement tournoi 2027.pdf,Distance non disponible
+3633,2e tournoi régional de Surgères,2027-02-28T00:00:00,2027-02-28T00:00:00,R,17700,Surgères,https://apiv2.fftt.com/api/files/720135/reglement tournoi 2027.pdf,
 3641,Tournoi Régional du CTT DÉOLS,2027-04-03T00:00:00,2027-04-03T00:00:00,R,36130,DEOLS,https://apiv2.fftt.com/api/files/651293/Règlement Tournoi 2026 2027.pdf,
