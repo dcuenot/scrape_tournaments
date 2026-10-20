@@ -41,6 +41,7 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3591,TOURNOI NATIONAL B CLERY ST ANDRE,2026-12-19T00:00:00,2026-12-20T00:00:00,B,45370,CLERY ST ANDRE,https://apiv2.fftt.com/api/files/653569/Règlement 2026-2.pdf,
 3625,Les 12H du CP Mioland 2ème édition,2026-12-19T00:00:00,2026-12-19T00:00:00,R,69780,Mions,https://apiv2.fftt.com/api/files/648260/12H DU CP MIOLAND 2EME EDITION.pdf,
 3630,Tournoi PPC PARTHENAY,2026-12-19T00:00:00,2026-12-20T00:00:00,B,79200,Parthenay,https://apiv2.fftt.com/api/files/648676/Règlement Tournoi PPCP 26-27 Version 18.07.26.pdf,
+3643,10ième Tournoi Régional André VIRET - BRIGNAIS (69),2026-12-19T00:00:00,2026-12-19T00:00:00,R,69530,Brignais,https://apiv2.fftt.com/api/files/665662/règlement tournoi BRIGNAIS 19 DECEMBRE 2026.pdf,Distance non disponible
 3684,TOURNOI REGIONAL DE ATLANTIQUE TENNIS DE TABLE 17,2026-12-19T00:00:00,2026-12-19T00:00:00,R,17420,SAINT PALAIS SUR MER,https://apiv2.fftt.com/api/files/718453/REGLEMENT DU TOURNOI REGIONAL 2026.pdf,
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/700422/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026 homologué.pdf,
 3595,Tournoi regional de Montrond-les-Bains,2027-01-02T00:00:00,2027-01-02T00:00:00,R,42210,Montrond-les-Bains,https://apiv2.fftt.com/api/files/688376/Tournoi Régional de Montrond-les-Bains 02-01-2027.pdf,
