@@ -17,11 +17,11 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3672,GRAND PRIX DU TARN,2026-11-11T00:00:00,2026-11-11T00:00:00,R,81100,Castres,https://apiv2.fftt.com/api/files/708323/REGLEMENT GRAND PRIX DU TARN 11 NOVEMBRE  2026v3.pdf,
 3680,TOURNOI NATIONAL B PAYS COMPIEGNOIS TT - TROPHEE JEAN BOCQUET,2026-11-11T00:00:00,2026-11-11T00:00:00,B,60280,Venette,https://apiv2.fftt.com/api/files/718009/REGLEMENT TOURNOI NATIONAL B 11 NOVEMBRE 2026 - PAYS COMPIEGNOIS TT.pdf,
 3621,TOURNOI NATIONAL B SAINT PIERRE LA COUR 2e EDITION,2026-11-28T00:00:00,2026-11-29T00:00:00,B,53410,Saint Pierre La Cour,https://apiv2.fftt.com/api/files/655590/reglementtournoiV3.pdf,
-3623,Jeu Set et Féminisation,2026-11-28T00:00:00,2026-11-28T00:00:00,B,70000,VESOUL,https://apiv2.fftt.com/api/files/725840/2026-11-28-Règlement Tournoi JeuJ Set et Féminisation-Vesoul-à valider.pdf,Distance non disponible
+3623,Jeu Set et Féminisation,2026-11-28T00:00:00,2026-11-28T00:00:00,B,70000,VESOUL,https://apiv2.fftt.com/api/files/725840/2026-11-28-Règlement Tournoi JeuJ Set et Féminisation-Vesoul-à valider.pdf,
 3655,Tournoi National du CSTT Ferrière-la-grande,2026-11-28T00:00:00,2026-11-29T00:00:00,B,59680,Ferrière-la-Grande,https://apiv2.fftt.com/api/files/699829/Reglement 2026 .docx (1).pdf,
 3677,jeu sets et feminisation,2026-11-28T00:00:00,2026-11-28T00:00:00,B,59320,Haubourdin,"https://apiv2.fftt.com/api/files/717830/2026-10-01_Règlement Tournoi Jeu, Set et Féminisation_CTT Haubourdin.pdf",
-3688,Jeu Set et Féminisation - SQY PING,2026-11-28T00:00:00,2026-11-28T00:00:00,B,78114,Magny-les-Hameaux,https://apiv2.fftt.com/api/files/718816/Réglement Jeu Set et Féminisation - SQY PING.pdf,Distance non disponible
-3689,ASTT BRIE COMTE ROBERT,2026-11-28T00:00:00,2026-11-29T00:00:00,B,77170,Brie-Comte-Robert,https://apiv2.fftt.com/api/files/719510/BRIE TOURNOI 2026.pdf,Distance non disponible
+3688,Jeu Set et Féminisation - SQY PING,2026-11-28T00:00:00,2026-11-28T00:00:00,B,78114,Magny-les-Hameaux,https://apiv2.fftt.com/api/files/718816/Réglement Jeu Set et Féminisation - SQY PING.pdf,
+3689,ASTT BRIE COMTE ROBERT,2026-11-28T00:00:00,2026-11-29T00:00:00,B,77170,Brie-Comte-Robert,https://apiv2.fftt.com/api/files/719510/BRIE TOURNOI 2026.pdf,
 3686,Jeu Set et féminisation,2026-11-29T00:00:00,2026-11-29T00:00:00,B,42110,Feurs,"https://apiv2.fftt.com/api/files/719443/Règlement + engagement JA tournoi, Jeu, Set et Féminisation - Feurs - 29.11.2026.pdf",
 3691,Tournoi Départemental de tennis de table de Beynes,2026-11-29T00:00:00,2026-11-29T00:00:00,D,78650,Beynes,https://apiv2.fftt.com/api/files/719545/RGT 2026 Tournoi TTC Beynes 29112026 d (1).pdf,
 3701,Tournoi Trophée François Grieder étape Epernay-Plivot,2026-11-29T00:00:00,2026-11-29T00:00:00,R,51200,EPERNAY,https://apiv2.fftt.com/api/files/729951/2026-10-27 Reglement Tournoi Grieder PPCEP 29-11-2026.pdf,
@@ -30,8 +30,8 @@ id,name,startDate,endDate,type,postalCode,location,rules,distance
 3630,Tournoi PPC PARTHENAY,2026-12-19T00:00:00,2026-12-20T00:00:00,B,79200,Parthenay,https://apiv2.fftt.com/api/files/648676/Règlement Tournoi PPCP 26-27 Version 18.07.26.pdf,
 3643,10ième Tournoi Régional André VIRET - BRIGNAIS (69),2026-12-19T00:00:00,2026-12-19T00:00:00,R,69530,Brignais,https://apiv2.fftt.com/api/files/665662/règlement tournoi BRIGNAIS 19 DECEMBRE 2026.pdf,
 3684,TOURNOI REGIONAL DE ATLANTIQUE TENNIS DE TABLE 17,2026-12-19T00:00:00,2026-12-19T00:00:00,R,17420,SAINT PALAIS SUR MER,https://apiv2.fftt.com/api/files/718453/REGLEMENT DU TOURNOI REGIONAL 2026.pdf,
-3685,Tournoi National B de l'E.P. Lognes,2026-12-19T00:00:00,2026-12-20T00:00:00,B,77185,Lognes,https://apiv2.fftt.com/api/files/719526/Règlement tournoi de Lognes décembre 2026.pdf,Distance non disponible
-3692,2ème TOURNOI National B de l’AS Brévannaise Tennis de table,2026-12-19T00:00:00,2026-12-19T00:00:00,B,94450,Limeil-Brévannes,https://apiv2.fftt.com/api/files/719661/Règlement tournoi Asbrévannaise 19 décembre 2026.pdf,Distance non disponible
+3685,Tournoi National B de l'E.P. Lognes,2026-12-19T00:00:00,2026-12-20T00:00:00,B,77185,Lognes,https://apiv2.fftt.com/api/files/719526/Règlement tournoi de Lognes décembre 2026.pdf,
+3692,2ème TOURNOI National B de l’AS Brévannaise Tennis de table,2026-12-19T00:00:00,2026-12-19T00:00:00,B,94450,Limeil-Brévannes,https://apiv2.fftt.com/api/files/719661/Règlement tournoi Asbrévannaise 19 décembre 2026.pdf,
 3493,TOURNOI de NOEL MIRIBEL TT,2026-12-20T00:00:00,2026-12-20T00:00:00,R,01700,MIRIBEL,https://apiv2.fftt.com/api/files/700422/MTT REGLEMENT TOURNOI DE NOEL MIRIBEL TT 20 12 2026 homologué.pdf,
 3595,Tournoi regional de Montrond-les-Bains,2027-01-02T00:00:00,2027-01-02T00:00:00,R,42210,Montrond-les-Bains,https://apiv2.fftt.com/api/files/688376/Tournoi Régional de Montrond-les-Bains 02-01-2027.pdf,
 3652,Tournoi de l'ASTT Laigné,2027-01-03T00:00:00,2027-01-03T00:00:00,R,53200,Laigné,https://apiv2.fftt.com/api/files/708125/Réglement tournoi laigné (4).pdf,
